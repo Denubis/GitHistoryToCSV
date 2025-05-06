@@ -1,0 +1,16 @@
+[project]
+name = "githistorytocsv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "atlassian-python-api>=4.0.3",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "pygithub>=2.6.1",
+    "python-dotenv>=1.1.0",
+    "python-gitlab>=5.6.0",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
