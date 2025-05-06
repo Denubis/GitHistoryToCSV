@@ -72,14 +72,18 @@ def write_commits_to_csv(commits, output_filename):
     try:
         # Determine all possible field names from the commits
         # Start with required fields plus common optional fields
-        all_fields = set(['item_name', 'date', 'message', 'sha', 'author', 'year'])
+        all_fields = set()
         
-        # Add any additional fields present in the commits
+        # Add any fields present in the commits
         for commit in commits:
             all_fields.update(commit.keys())
             
-        # Convert to sorted list for consistent column order
-        fieldnames = sorted(list(all_fields))
+        # Ensure primary fields come first in a specific order
+        primary_fields = ['item_name', 'date']
+        # Remove primary fields from all_fields if they exist
+        remaining_fields = sorted(list(all_fields - set(primary_fields)))
+        # Combine to create the final ordered fieldnames
+        fieldnames = primary_fields + remaining_fields
         
         with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -95,7 +99,7 @@ def write_commits_to_csv(commits, output_filename):
     except Exception as e:
         logger.error(f"Error writing to CSV file {output_filename}: {str(e)}")
 
-def log_error_to_csv(error_filename, repo_info, platform, error_message):
+def log_error_to_csv(error_filename, repo_info, platform, error_message, status_code=None):
     """Log repository processing errors to a CSV file."""
     # Create error log directory if it doesn't exist
     error_dir = Path(error_filename).parent
@@ -106,7 +110,8 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message):
     
     try:
         with open(error_filename, 'a', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['item_name', 'platform', 'repository', 'error', 'timestamp', 'redirected']
+            fieldnames = ['item_name', 'platform', 'repository', 'error', 'timestamp', 
+                         'error_type', 'status_code', 'redirected']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             
             # Write header if file is new
@@ -116,8 +121,27 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message):
             # Get the repository URL based on platform
             repo_url = repo_info.get(platform, "")
             
-            # Check if the error indicates a redirect
-            redirected = "redirect" in error_message.lower() or "301" in error_message or "302" in error_message
+            # Determine error type and redirected status
+            error_type = "Unknown"
+            redirected = "No"
+            
+            if status_code:
+                if status_code in (301, 302, 307, 308):
+                    error_type = "Redirect"
+                    redirected = "Yes"
+                elif status_code == 404:
+                    error_type = "Not Found"
+                elif status_code == 429:
+                    error_type = "Rate Limit"
+                else:
+                    error_type = f"HTTP {status_code}"
+            elif "redirect" in error_message.lower() or "301" in error_message or "302" in error_message:
+                error_type = "Redirect"
+                redirected = "Yes"
+            elif "404" in error_message or "not found" in error_message.lower():
+                error_type = "Not Found"
+            elif "rate limit" in error_message.lower():
+                error_type = "Rate Limit"
             
             # Write error row
             writer.writerow({
@@ -126,7 +150,9 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message):
                 'repository': repo_url,
                 'error': error_message,
                 'timestamp': time.strftime("%Y-%m-%d %H:%M:%S"),
-                'redirected': "Yes" if redirected else "No"
+                'error_type': error_type,
+                'status_code': status_code if status_code else "",
+                'redirected': redirected
             })
             
         logger.info(f"Error logged to {error_filename}")

@@ -44,6 +44,10 @@ def main():
                         help='Fetch all commits instead of yearly/monthly mode')
     parser.add_argument('--threshold', '-t', type=int, default=1000,
                         help='Commit count threshold for using yearly mode (default: 1000)')
+    parser.add_argument('--resume', '-r', action='store_true', default=True,
+                        help='Resume processing by skipping repositories with existing output files (default: True)')
+    parser.add_argument('--no-resume', action='store_false', dest='resume',
+                        help='Process all repositories even if output files exist')
     
     args = parser.parse_args()
     
@@ -64,7 +68,8 @@ def main():
         args.output,
         yearly_mode=yearly_mode,
         monthly_mode=monthly_mode,
-        large_repo_threshold=args.threshold
+        large_repo_threshold=args.threshold,
+        resume=args.resume
     )
     
     logger.info("Repository commit history analyzer completed")

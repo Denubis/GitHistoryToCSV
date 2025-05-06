@@ -6,7 +6,7 @@ Retrieves one commit per month using the REST API.
 import logging
 import requests
 import calendar
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 logger = logging.getLogger(__name__)
 
@@ -61,6 +61,13 @@ class GitLabMonthlyFetcher:
                                 gitlab_path = gitlab_path.split("/-/")[0]
                             repo_full_name = gitlab_path
                             logger.info(f"Using redirected GitLab repository path: {repo_full_name}")
+                elif response.status_code == 404:
+                    # Log error to CSV
+                    from src.utils import log_error_to_csv
+                    error_msg = f"Repository not found (404)"
+                    log_error_to_csv('output/errors/gitlab_errors.csv', repo_info, 
+                                    'gitlab', error_msg, status_code=404)
+                    return []
             except Exception as e:
                 logger.warning(f"Failed to check GitLab redirects: {str(e)}")
             
@@ -74,16 +81,25 @@ class GitLabMonthlyFetcher:
             else:
                 created_date = created_at
             
+            # Ensure created_date is timezone-aware
+            if created_date.tzinfo is None:
+                created_date = created_date.replace(tzinfo=timezone.utc)
+            
             # Determine date range
             if not start_date:
                 start_date = created_date
             else:
                 start_date = datetime.strptime(start_date, "%Y-%m-%dT%H:%M:%SZ")
+                # Make start_date timezone-aware
+                start_date = start_date.replace(tzinfo=timezone.utc)
                 
             if not end_date:
-                end_date = datetime.now()
+                # Make sure end_date is timezone-aware to avoid comparison issues
+                end_date = datetime.now(timezone.utc)
             else:
                 end_date = datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%SZ")
+                # Make end_date timezone-aware
+                end_date = end_date.replace(tzinfo=timezone.utc)
             
             commits = []
             
@@ -104,8 +120,8 @@ class GitLabMonthlyFetcher:
                 month_end = current_date.replace(day=last_day, hour=23, minute=59, second=59).strftime("%Y-%m-%dT%H:%M:%SZ")
                 
                 try:
-                    # Get commits for this month using GitLab API
-                    monthly_commits = project.commits.list(since=month_start, until=month_end, per_page=1)
+                    # Get commits for this month using GitLab API - explicitly state get_all=False to suppress warning
+                    monthly_commits = project.commits.list(since=month_start, until=month_end, per_page=1, get_all=False)
                     
                     if monthly_commits and len(monthly_commits) > 0:
                         commit = monthly_commits[0]
@@ -136,4 +152,8 @@ class GitLabMonthlyFetcher:
             
         except Exception as e:
             logger.error(f"Error fetching GitLab monthly commits: {str(e)}")
+            # Log error to CSV
+            from src.utils import log_error_to_csv
+            error_msg = f"Error fetching GitLab monthly commits: {str(e)}"
+            log_error_to_csv('output/errors/gitlab_errors.csv', repo_info, 'gitlab', error_msg)
             return []
