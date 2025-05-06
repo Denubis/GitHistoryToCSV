@@ -20,7 +20,10 @@ def read_repository_csv(file_path):
         
         # Clean NaN values
         for col in ['github', 'gist', 'gitlab', 'bitbucket']:
-            df[col] = df[col].fillna('')
+            if col in df.columns:
+                df[col] = df[col].fillna('')
+            else:
+                df[col] = ''
             
         # Clean GitHub URLs (extract username/repo format)
         df['github'] = df['github'].apply(lambda x: clean_github_url(x) if x else '')
@@ -40,7 +43,20 @@ def clean_github_url(url):
     if 'github.com' in url:
         parts = url.split('github.com/')
         if len(parts) > 1:
-            return parts[1].strip('/')
+            # Remove trailing slashes and other URL parts
+            repo_path = parts[1].strip('/')
+            
+            # Handle potential fragments or query parameters
+            if '#' in repo_path:
+                repo_path = repo_path.split('#')[0]
+            if '?' in repo_path:
+                repo_path = repo_path.split('?')[0]
+                
+            # Remove trailing .git if present
+            if repo_path.endswith('.git'):
+                repo_path = repo_path[:-4]
+                
+            return repo_path
     return url
 
 def write_commits_to_csv(commits, output_filename):
@@ -54,15 +70,25 @@ def write_commits_to_csv(commits, output_filename):
     output_dir.mkdir(parents=True, exist_ok=True)
     
     try:
+        # Determine all possible field names from the commits
+        # Start with required fields plus common optional fields
+        all_fields = set(['item_name', 'date', 'message', 'sha', 'author', 'year'])
+        
+        # Add any additional fields present in the commits
+        for commit in commits:
+            all_fields.update(commit.keys())
+            
+        # Convert to sorted list for consistent column order
+        fieldnames = sorted(list(all_fields))
+        
         with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['item_name', 'date', 'message', 'sha', 'author', 'year']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             
             for commit in commits:
-                # Filter out any extra fields
-                filtered_commit = {k: v for k, v in commit.items() if k in fieldnames}
-                writer.writerow(filtered_commit)
+                # Ensure all fields are present with empty strings as defaults
+                row = {field: commit.get(field, '') for field in fieldnames}
+                writer.writerow(row)
                 
         logger.info(f"Successfully wrote {len(commits)} commits to {output_filename}")
         
@@ -80,7 +106,7 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message):
     
     try:
         with open(error_filename, 'a', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['item_name', 'platform', 'repository', 'error']
+            fieldnames = ['item_name', 'platform', 'repository', 'error', 'timestamp', 'redirected']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             
             # Write header if file is new
@@ -90,12 +116,17 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message):
             # Get the repository URL based on platform
             repo_url = repo_info.get(platform, "")
             
+            # Check if the error indicates a redirect
+            redirected = "redirect" in error_message.lower() or "301" in error_message or "302" in error_message
+            
             # Write error row
             writer.writerow({
                 'item_name': repo_info.get('item_name', "Unknown"),
                 'platform': platform,
                 'repository': repo_url,
-                'error': error_message
+                'error': error_message,
+                'timestamp': time.strftime("%Y-%m-%d %H:%M:%S"),
+                'redirected': "Yes" if redirected else "No"
             })
             
         logger.info(f"Error logged to {error_filename}")
@@ -123,15 +154,25 @@ class RateLimitHandler:
                 # Check if this is a rate limit error
                 is_rate_limit = False
                 
-                if "rate limit" in str(e).lower() or "429" in str(e):
+                if any(rate_term in str(e).lower() for rate_term in 
+                      ["rate limit", "rate_limit", "ratelimit", "429", "too many requests"]):
                     is_rate_limit = True
                 
                 if not is_rate_limit or retries >= self.max_retries:
                     # Not a rate limit error or max retries reached, re-raise
                     raise
                 
+                # Check for Retry-After header in the exception
+                retry_after = None
+                if hasattr(e, 'headers') and e.headers:
+                    retry_after = e.headers.get('Retry-After') or e.headers.get('retry-after')
+                
                 # Calculate delay with exponential backoff and jitter
-                delay = min(delay * 2, self.max_delay)
+                if retry_after and retry_after.isdigit():
+                    delay = int(retry_after)
+                else:
+                    delay = min(delay * 2, self.max_delay)
+                
                 jitter = random.uniform(0, 0.1 * delay)
                 sleep_time = delay + jitter
                 

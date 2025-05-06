@@ -36,17 +36,24 @@ def main():
                         help='CSV file containing repository information (default: repositories.csv)')
     parser.add_argument('--output', '-o', default="output", 
                         help='Output directory for CSV files (default: output)')
-    parser.add_argument('--yearly', '-y', action='store_true', default=True,
+    parser.add_argument('--yearly', '-y', action='store_true', default=False,
                         help='Only fetch one commit per year (default: True)')
+    parser.add_argument('--monthly', '-m', action='store_true', default=True,
+                        help='Fetch one commit per month instead of yearly')
     parser.add_argument('--full', '-f', action='store_true',
-                        help='Fetch all commits instead of yearly mode')
+                        help='Fetch all commits instead of yearly/monthly mode')
     parser.add_argument('--threshold', '-t', type=int, default=1000,
                         help='Commit count threshold for using yearly mode (default: 1000)')
     
     args = parser.parse_args()
     
-    # If --full is specified, override yearly mode
-    yearly_mode = not args.full if args.full else args.yearly
+    # If --full is specified, override yearly and monthly mode
+    yearly_mode = False if args.full else args.yearly
+    monthly_mode = False if args.full else args.monthly
+    
+    # If both yearly and monthly are True, prioritize monthly
+    if yearly_mode and monthly_mode:
+        yearly_mode = False
     
     # Create output directory if it doesn't exist
     Path(args.output).mkdir(parents=True, exist_ok=True)
@@ -56,6 +63,7 @@ def main():
         args.csv_file, 
         args.output,
         yearly_mode=yearly_mode,
+        monthly_mode=monthly_mode,
         large_repo_threshold=args.threshold
     )
     

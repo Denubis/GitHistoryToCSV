@@ -49,17 +49,37 @@ class GitHubMonthlyFetcher:
                         new_repo_full_name = redirect_location.split('/repos/')[1]
                         logger.info(f"GitHub repository {repo_full_name} redirects to {new_repo_full_name}")
                         repo_full_name = new_repo_full_name
+                elif response.status_code == 404:
+                    # Log error to CSV
+                    from src.utils import log_error_to_csv
+                    error_msg = f"Repository not found or not accessible (404 response)"
+                    log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                    return []
+                elif response.status_code != 200:
+                    # Log error to CSV
+                    from src.utils import log_error_to_csv
+                    error_msg = f"Unexpected response when checking repository: {response.status_code}"
+                    log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                    return []
             except Exception as e:
                 logger.warning(f"Failed to check GitHub redirects: {str(e)}")
             
             # Get repository creation date from REST API
             repo_url = f"https://api.github.com/repos/{repo_full_name}"
-            response = requests.get(repo_url, headers=headers)
-            response.raise_for_status()
-            
-            repo_data = response.json()
-            created_at = repo_data.get("created_at")
-            created_date = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
+            try:
+                response = requests.get(repo_url, headers=headers)
+                response.raise_for_status()
+                
+                repo_data = response.json()
+                created_at = repo_data.get("created_at")
+                created_date = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
+            except Exception as e:
+                logger.error(f"Error getting repository information: {str(e)}")
+                # Log error to CSV
+                from src.utils import log_error_to_csv
+                error_msg = f"Error getting repository information: {str(e)}"
+                log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                return []
             
             # Determine date range
             if not start_date:
@@ -132,4 +152,8 @@ class GitHubMonthlyFetcher:
             
         except Exception as e:
             logger.error(f"Error fetching GitHub monthly commits: {str(e)}")
+            # Log error to CSV
+            from src.utils import log_error_to_csv
+            error_msg = f"Error fetching GitHub monthly commits: {str(e)}"
+            log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
             return []
