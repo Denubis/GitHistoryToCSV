@@ -4,7 +4,7 @@ GitHub commit fetcher.
 
 import logging
 import requests
-
+import time
 logger = logging.getLogger(__name__)
 
 class GitHubFetcher:
@@ -177,6 +177,7 @@ class GitHubFetcher:
                     'year': release.published_at.year if release.published_at else ""
                 }
                 releases.append(release_data)
+                time.sleep(5)
                 
             logger.info(f"Retrieved {len(releases)} releases from GitHub repo {repo.full_name}")
             return releases
