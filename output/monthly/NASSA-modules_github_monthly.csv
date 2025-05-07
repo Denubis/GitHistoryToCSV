@@ -1,0 +1,19 @@
+item_name,date,author,message,month,sha,year
+NASSA-modules,2022-03-08T12:48:53Z,Andreas Angourakis,adapted to schema v0.1.0,03,6672a06a4c3f3f9c5e55b8946cc24e9c532ea3d0,2022
+NASSA-modules,2022-04-19T20:06:13Z,Marek Vlach,Epidemiological network modeling and simulation,04,8130a5a9c360324abe4612e489f46c5bdb214fd2,2022
+NASSA-modules,2022-08-31T16:11:00Z,Clemens Schmid,rough draft of a nassa module library website,08,b7a2bbd1354e49b183b30ef733e38b1546b40fcd,2022
+NASSA-modules,2022-09-23T12:30:07Z,Andreas Angourakis,Update link to screenshot using current schema,09,4e697cbd9fae92eb5322744dcb1c01896bf83cb5,2022
+NASSA-modules,2022-10-14T12:16:22Z,Andreas Angourakis,Merge pull request #7 from Archaeology-ABM/my_update,10,cc4eaa0afe286bba32086543d05abf93324f877d,2022
+NASSA-modules,2022-11-29T16:45:42Z,Andreas Angourakis,Merge pull request #8 from Archaeology-ABM/websiteBuildTestSolve,11,3d0dd2a44e5c9f5a22d05600979a77816adb1e9d,2022
+NASSA-modules,2022-12-05T22:15:38Z,Andreas Angourakis,discarded attempt print release version,12,4153702b3afddcc5182b318842c7b0ca02cd56de,2022
+NASSA-modules,2023-01-30T17:45:13Z,Andreas Angourakis,recovered docsDir,01,dc2d8590f9b30323089f62eca4d1adac7ed08226,2023
+NASSA-modules,2023-02-21T14:48:25Z,Andreas Angourakis,Merge pull request #19 from Archaeology-ABM/adapt-to-schema-v04,02,b72f886f257056a11428b1aaf668159fb0b7e693,2023
+NASSA-modules,2023-06-14T16:59:38Z,Andreas Angourakis,Update README.md,06,e72c79ed13d319c776845f92b616d821126e0303,2023
+NASSA-modules,2024-01-29T17:11:06Z,Andreas Angourakis,Update NASSA.yml,01,a47dc42f38c03ab43e4314fc1ae8a6fe7037024a,2024
+NASSA-modules,2024-02-02T17:52:42Z,Andreas Angourakis,Merge pull request #22 from Andros-Spica/angourakis-modules,02,7bd77df7c03d75353a831cf915441797f2a41507,2024
+NASSA-modules,2024-08-23T12:20:44Z,Andreas Angourakis,Merge pull request #31 from Archaeology-ABM/tuning-module-page,08,10fa1beeed18aea9ccd6f4a8e77c0f8cf99e6c3d,2024
+NASSA-modules,2024-10-21T08:50:57Z,AmberHam,Update README.md,10,efc40176c5a59fe4492191d86d08b131377385d3,2024
+NASSA-modules,2024-11-30T10:34:48Z,AmberHam,Update NASSA.yml,11,c905a862d7fc2320a2e5756a485a9e4ca5f5bcd9,2024
+NASSA-modules,2024-12-02T17:52:36Z,Andreas Angourakis,Merge pull request #35 from AmberHam/main,12,eada72201394a703022380067110571620237c97,2024
+NASSA-modules,2025-04-23T15:03:59Z,Andreas Angourakis,Merge pull request #36 from Archaeology-ABM/adapt-to-schema-v1,04,3da2337ef3239154feb187afb84c2b15a64c36e8,2025
+NASSA-modules,2025-05-05T14:49:32Z,Andreas Angourakis,Merge pull request #38 from Andros-Spica/angourakis-modules,05,7386e847278215a025e5725bd36efac871a0f3d1,2025

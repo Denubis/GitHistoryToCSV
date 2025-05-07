@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+carbondate,2022-10-30T20:09:26Z,Sara Al-Assam,Add tests for testing predictive density and make tests faster,10,7e5ad87597fdf58053ab4f47c8b01b9a33ecc159,2022
+carbondate,2022-11-29T11:31:22Z,Sara Al-Assam,"Some tidying up of polya urn update, and re-using the number of observations per cluster",11,fd75b9521d3a009db8fb239741ce6197487126f9,2022
+carbondate,2022-12-11T20:17:56Z,Sara Al-Assam,Merge pull request #17 from TJHeaton/walker-full-cpp,12,4b978417e8265c6c18187a9064bb298e17b6242f,2022
+carbondate,2023-01-05T16:25:36Z,TJHeaton,Testing,01,c709f8dc49124ba8d8d9afa5706578fd17460a65,2023
+carbondate,2023-02-17T17:27:40Z,Sara Al-Assam,Merge pull request #23 from TJHeaton/sara-amira-alassam-patch-1,02,40e08c9575b0b70ef74ec8341d74a24473f91a75,2023
+carbondate,2023-04-27T18:50:57Z,Sara Al-Assam,Merge pull request #24 from TJHeaton/use-different-calibration-curves-again,04,41aad752560dbcf8065d06ef363c5e0a4f5762a9,2023
+carbondate,2023-05-30T17:53:17Z,Sara Al-Assam,Use SPD ranges for initialisation instead of inital calendar age range.,05,0286af72d07e75e95c343777ffdbef95b8950b10,2023
+carbondate,2023-06-28T14:05:03Z,Sara Al-Assam,Merge remote-tracking branch 'origin/main' into UpdateDocs,06,b092f9cf23eec218a426d10a8c5009ccf622a1d0,2023
+carbondate,2023-11-30T16:35:00Z,Sara Al-Assam,Removing dependence on checkmate: check number and check flag rewritten,11,5d53de6f72bf2f4c23fca667ab21243712650d4c,2023
+carbondate,2023-12-20T20:02:50Z,TJHeaton,Editing documentation and vignettes,12,c2b0bcd1725d764c4586490ab657c43ac9eaa696,2023
+carbondate,2024-01-31T20:16:35Z,TJHeaton,Increment version number to 1.0.1.9000,01,79fcdeb4fac941c509275eab559a8986695eb1ea,2024
+carbondate,2024-12-19T16:44:17Z,Tim Heaton,Merge pull request #47 from TJHeaton/development,12,811d36930a9940142ad6cab2639fd51c1da625f4,2024
+carbondate,2025-01-06T18:00:57Z,Tim Heaton,Merge pull request #48 from TJHeaton/development,01,1401de324131ab1596ad1f753ad442bc34724ae5,2025
+carbondate,2025-04-08T10:39:45Z,Tim Heaton,Merge pull request #52 from TJHeaton/development,04,197ab4d640b880fe2076f8d637d30c3a675e344a,2025

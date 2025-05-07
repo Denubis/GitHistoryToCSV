@@ -1,0 +1,16 @@
+item_name,date,author,message,month,sha,year
+MapofComputationalArchaeology,2022-05-12T15:24:10Z,Clemens Schmid,added more tutorials and some roads to the map,05,040a1fda8cf1a83dfec4260c415d633b67a76298,2022
+MapofComputationalArchaeology,2022-06-14T08:59:28Z,Clemens Schmid,update of map file to the new generator version,06,e6a9ae8330c0ae0a81ec407c02676a025bb17415,2022
+MapofComputationalArchaeology,2022-07-04T17:39:40Z,Clemens Schmid,first very rough prototype of the web setup to deploy the map,07,b365ced613adbf227e67f43976ba0825e5d678b3,2022
+MapofComputationalArchaeology,2022-10-29T22:08:59Z,Clemens Schmid,respective update of transpiled .js,10,a72d9878301c89296022cc7ab843948fabdfde1d,2022
+MapofComputationalArchaeology,2022-11-08T10:10:11Z,Clemens Schmid,some layout changes,11,975ec45d57fe484549de86186f4ee0fe03a50b86,2022
+MapofComputationalArchaeology,2022-12-13T14:03:43Z,Clemens Schmid,deploying current version,12,499042235f15fd66c2d760a9065959cd3ba9b1e8,2022
+MapofComputationalArchaeology,2023-02-08T17:08:55Z,Clemens Schmid,added .nojekyll file,02,43c2f5c85fd3fe8d53fa04b879a23ddbf5d404f5,2023
+MapofComputationalArchaeology,2023-04-29T21:05:22Z,Clemens Schmid,r -> rstats in data,04,6b1442fb03daa5a149907f056c9eec2a46516f90,2023
+MapofComputationalArchaeology,2023-05-08T08:18:24Z,Clemens Schmid,Merge pull request #4 from joeroe/jr-courses,05,187db3e8f86a87c6e16fbe34567baf83dcee8beb,2023
+MapofComputationalArchaeology,2023-06-08T15:02:12Z,Clemens Schmid,implemented reverse sorting of teaching material IDs to highlight the latest additions to the list,06,755f1d2a9b13f6e3333aaf8695fea4181ce6fea8,2023
+MapofComputationalArchaeology,2023-10-18T20:28:32Z,Clemens Schmid,deployment,10,0383d6023c1e6bc428c68446df4cf5be89207233,2023
+MapofComputationalArchaeology,2024-02-15T15:59:37Z,Clemens Schmid,Update README.md,02,09864a2be130e2e75006d6efb237617b7a14a730,2024
+MapofComputationalArchaeology,2024-03-22T15:29:07Z,Clemens Schmid,removed additional empty lines at the end of the data table,03,ea13dfabe3a762655a41ec63cae94f1a6ebcf84a,2024
+MapofComputationalArchaeology,2024-08-18T16:46:57Z,Clemens Schmid,Merge pull request #9 from sslarch/zackbatist-patch-1,08,601dcb1abf832f190055e69a7597173f0544be59,2024
+MapofComputationalArchaeology,2025-01-23T12:44:14Z,Clemens Schmid,added two new materials,01,feadfc227c1663fd9afe418f963b8f92c437da65,2025

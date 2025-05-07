@@ -1,0 +1,9 @@
+item_name,date,author,message,month,sha,year
+coffee,2021-08-21T12:25:40Z,Maarten14C,updated vignettes,08,ca7f7489e18b568b7c4983a6884a60e46cb036db,2021
+coffee,2021-10-16T16:48:19Z,Maarten14C,Merge branch 'main' of github.com:Maarten14C/coffee,10,7d2b469b641dbf43b0dec77aa86bb023a6ee3847,2021
+coffee,2023-07-15T04:22:11Z,Maarten14C,published CRAN version,07,4c4f42b00990da34ad50a74c575f380e5b62396d,2023
+coffee,2023-10-26T21:01:10Z,Maarten14C,MCMC now runs 40% faster,10,134caf0b5e1d1e037a10c889c7ed79a75d882edd,2023
+coffee,2024-01-28T16:56:54Z,Maarten14C,preparing for CRAN submission,01,1e485d27c071006ddc406a8f5f42068990dce871,2024
+coffee,2024-08-10T20:42:43Z,Maarten14C,sundry bug repairs,08,87377294e847fba7af73beaed8e57a5b6405fc27,2024
+coffee,2024-09-25T18:16:18Z,Maarten14C,preparing for CRAN submission,09,62ec72b72af93df84e3747c19b5f828d98d10159,2024
+coffee,2024-12-25T22:47:24Z,Maarten14C,some rice changes,12,05b6a38bd24d0e0c9516ed03533aa38334818e78,2024

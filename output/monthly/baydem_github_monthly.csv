@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+baydem,2019-07-15T15:17:28Z,James Holland Jones,Initial commit,07,392c9e9e5c2fda85aefc2843e4ed0a2d71b7bdbb,2019
+baydem,2019-11-23T01:04:22Z,MichaelHoltonPrice,Added function to plot summed densities. Adding ability to control point size directly when visualizing calibration curve.,11,494d7d069c78e6acf8bb90e93ae6d0ebdaf62403,2019
+baydem,2019-12-14T00:07:53Z,MichaelHoltonPrice,Improved code and documentation in preparation for article submission,12,01ad2921cf8abdd56c9893f901b0a627dfc40247,2019
+baydem,2020-01-31T23:43:58Z,Michael Holton Price,Removed plot.bd_soln.R. This functionality is now handled by helper functions such as bd_add_shaded_quantiles,01,96421aa8e4d3e2620555d347d3dd50f2fad21d9f,2020
+baydem,2020-02-11T13:33:45Z,Kyle Bocinsky,small updates to create gaussian mixtures,02,6da4be77988960a027485b1264a85a8c8bc60c87,2020
+baydem,2020-04-20T18:44:22Z,Kyle Bocinsky,pre-print version,04,412211066b5ce5c08afe1bf8cb4e4d6d72cd6f43,2020
+baydem,2020-06-21T19:06:16Z,MichaelHoltonPrice,Updated README with information on requirements and dependencies,06,15e8955bd5fc31d8643bce105ee349e49e7a178a,2020
+baydem,2020-08-20T02:28:40Z,Kyle Bocinsky,Added IntCal20 and co,08,2ab1cf3495e71d0d509aad7b8d806851186f844f,2020
+baydem,2021-03-31T20:42:21Z,Michael Holton Price,Extended standard analysis pipeline through maximum likelihood fitting,03,0844237eb4bd85ee351e3241a768715b3c60551d,2021
+baydem,2021-04-12T01:31:01Z,MichaelHoltonPrice,(1) Now using WAIC for model selection; (2) Can regularize max lik fit with r_max; (3) Bayesian sampling initializes with random draw rather than max lik fit,04,52e124976191b2bfb91fae98c5ccc9331852c555,2021
+baydem,2021-07-31T21:26:10Z,MichaelHoltonPrice,Finalized standard pipeline. Added vignette for standard pipeline,07,9624aaa89d1c7f95e7654d527fdd3593e923d37c,2021
+baydem,2021-08-07T21:25:06Z,MichaelHoltonPrice,Added blank line at end of gaussmix.stan to eliminate line read warning during compilation,08,1220a60a860633b51f9f07cbff3eb78f458efc1a,2021
+baydem,2021-11-07T23:38:13Z,MichaelHoltonPrice,Hotfix to rectify mistake in density normalization for masked sampling,11,3a4e4811ae7d768c43a5aaf99657f255e7454292,2021
+baydem,2024-05-27T02:35:52Z,Michael Holton Price,Hotfix to handle input_seed being a matrix,05,f307cd346558ae06424fb4c9d07b14f9d9797714,2024

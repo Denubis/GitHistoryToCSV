@@ -1,0 +1,14 @@
+item_name,date,author,message,month,sha,year
+p3k14c,2020-07-28T01:53:07Z,Darcy Bird,Global linear models too,07,a2f3a804e4897c8561f25ad7258216364dcaf6f6,2020
+p3k14c,2021-03-31T22:40:35Z,Kyle Bocinsky,removing fluff,03,e3b63d1f2628794ee290186cf880f05b7558f7a0,2021
+p3k14c,2021-04-10T02:47:00Z,Kyle Bocinsky,pre-submission commit,04,2ff6c16684402b5ac19deea21ad495871f072ead,2021
+p3k14c,2021-07-13T18:03:34Z,Kyle Bocinsky,updated readme as per reviews,07,e39b16872c65e25c6abbe5561567f1947fd604be,2021
+p3k14c,2021-08-03T03:26:43Z,Kyle Bocinsky,data update,08,17b32d36865e261f4b0fd6c18558881710ec7489,2021
+p3k14c,2021-10-25T18:44:28Z,Kyle Bocinsky,manual edit of figure 4,10,d0d7839fd00bdc8f3a007583e5e1b1d6f9460d3d,2021
+p3k14c,2022-02-11T21:26:14Z,Darcy Bird,adjusted minor typo,02,c348e358a9d7a2ad64205c6fd7291b36e6a5ec1c,2022
+p3k14c,2022-03-02T16:21:43Z,Darcy Bird,updated news.md,03,a3a5e028b645bce186c1bf32d80a926fbf2661c0,2022
+p3k14c,2022-04-21T16:10:40Z,Darcy Bird,Update NEWS.md,04,ac267d1443b5fb5d6f7cf91d1fd7beb7fd380dc9,2022
+p3k14c,2022-06-10T21:03:18Z,Lux Miranda,Update to version 2022.06!,06,ce16085396b54fc5bd8360f7efb60cf3cf81e1af,2022
+p3k14c,2022-09-21T20:27:23Z,Darcy Bird,readme: add doi and updated dataset citation,09,157eb019d9f512c06b8c61851812eaff0e7943c1,2022
+p3k14c,2024-02-16T16:47:25Z,Darcy Bird,fixed the title of the readme description,02,0b3186c6b9fe14b6289ed9e082c3b29408dfc7fa,2024
+p3k14c,2024-05-18T04:57:33Z,Kyle Bocinsky,removed rgeos dep,05,1493d89866600a3a7c01848e7d3a6468fa6d10e8,2024

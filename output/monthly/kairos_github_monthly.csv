@@ -1,0 +1,30 @@
+item_name,date,author,message,month,sha,year
+kairos,2021-05-28T18:17:45Z,nfrerebeau,Allow to compute rate of change from aoristic sums,05,e60471105ce60d20adb4eb11471100862197ac1b,2021
+kairos,2021-06-07T08:16:58Z,nfrerebeau,Add missing references,06,c5e033dd63f4c5eb1778c819f556be74addfa29b,2021
+kairos,2021-08-25T13:55:20Z,nfrerebeau,Use custom pkgdown template,08,84c1d1cb4190a0c0b81090858c712d70b356b0b0,2021
+kairos,2021-09-29T11:56:04Z,nfrerebeau,Fix typos in documentation,09,4781db8b7a8096cf5772f87440e9a548bc44a998,2021
+kairos,2021-10-09T13:14:19Z,nfrerebeau,Fix plot method dispatch,10,bf21cbeb894f950d9ece8f64d8ac981d23a7f357,2021
+kairos,2021-11-25T16:30:05Z,nfrerebeau,Fix aoristic sum calculation (#1),11,af69111218f30e29eb10c66559779c2893cfb7bb,2021
+kairos,2021-12-04T14:05:52Z,nfrerebeau,Reuse GitHub workflows,12,7ed7311115c473df195b2da50c2edd3526236b20,2021
+kairos,2022-03-12T14:29:39Z,nfrerebeau,Bump package version,03,923c7f60edc8f19d528bb2d02cf1a94cb0e0c1ca,2022
+kairos,2022-05-28T17:53:47Z,nfrerebeau,Naming more consistent,05,212ed9f0cf774cc576ce68d8a4ac37b55e9175f5,2022
+kairos,2022-06-18T13:17:06Z,nfrerebeau,Bump package version,06,1eab775a928f615616a318971f5f23f7cfcfc640,2022
+kairos,2022-08-16T18:23:26Z,nfrerebeau,Update shared workflows,08,9c688222661bfa86823af5dbf3404b67ca8b90bf,2022
+kairos,2022-10-31T13:40:34Z,nfrerebeau,Fix vignette,10,d352a4cea742c0ec3dd12f26ecf93595eb73a143,2022
+kairos,2022-11-30T13:23:32Z,nfrerebeau,Add dataset references (fixes #9),11,69428cd1c7bb4872615b724db91ffc80aede2354,2022
+kairos,2023-05-24T16:41:24Z,nfrerebeau,Use bibentry() instead of citEntry(),05,0816373469fc9f9835887885ede7efee93301d67,2023
+kairos,2023-06-04T15:28:57Z,nfrerebeau,Remove deprecated methods,06,e7c0f3280717085657442b7c02cb545cfd9e9d61,2023
+kairos,2023-08-30T12:42:08Z,nfrerebeau,Bump package version,08,14a128384f1fe6e9c1234f2f3532f59d60f26bff,2023
+kairos,2023-09-05T10:39:44Z,nfrerebeau,Bump package version,09,13ec51c9baac192d2db973a8d406e13a0d1bca81,2023
+kairos,2023-10-27T13:54:24Z,nfrerebeau,Import aion >= 1.0.2,10,54e97e3eba6296fea07d01e7217b85882bea5d50,2023
+kairos,2023-11-28T12:54:40Z,nfrerebeau,Add hist() method for refined seriation,11,57d3abab6252873f2225e575333f64b7e92f17fd,2023
+kairos,2023-12-04T09:52:04Z,nfrerebeau,Replace rmarkdown with markdown for generating vignettes,12,881b0ce2eb78c153f30976aa0e70f2f4ebe1b753,2023
+kairos,2024-01-19T13:48:21Z,nfrerebeau,Import arkhe >= 1.5.0,01,db241f4d58339f4c533946004b1bab474217fa0a,2024
+kairos,2024-02-26T17:51:31Z,nfrerebeau,Bump package version,02,632b8d6dbe32596eafdd55b73c8afe0b0b35730c,2024
+kairos,2024-04-30T15:29:23Z,nfrerebeau,Remove pkgdown workflow,04,9e99764d13d47f28fa2a8f81a908892c9e8f3ab9,2024
+kairos,2024-06-30T13:35:31Z,nfrerebeau,Remove import from arkhe,06,186a918970398273e11468b0ac4adc8dbf7ae5d2,2024
+kairos,2024-07-26T16:30:29Z,nfrerebeau,Bump package version,07,f8aed13c6b361e3e427018253b3b0a8e6642e612,2024
+kairos,2024-08-22T12:06:18Z,nfrerebeau,Update README,08,34fddbc648ef494ed34be2e2636a5339e1e652c2,2024
+kairos,2024-09-25T10:55:07Z,nfrerebeau,Add getters for AoristicSum objects,09,e6b687a06dcd5a3b618a413445dec937a8634147,2024
+kairos,2024-11-22T17:15:02Z,nfrerebeau,Add as_seriation() to coerce objects to seriation orders,11,d03ab653a1a168267ebb62be0be0129fb23ba0ad,2024
+kairos,2024-12-10T11:26:58Z,nfrerebeau,Prepare for next release,12,eff4a3c6864f40b7661a7d3372b3494e4dd00a00,2024

@@ -1,0 +1,26 @@
+item_name,date,author,message,month,sha,year
+archeoViz,2022-12-31T14:25:29Z,sebastien-plutniak,add test .do_section_plot,12,9bb3d9456b6ba9157ae510555bde769fb944588a,2022
+archeoViz,2023-01-24T19:59:35Z,sebastien-plutniak,add the reverse.square.names parameter,01,1bbef9aaa86f2d9cf5fa1f3f902358d878954c16,2023
+archeoViz,2023-02-27T22:44:21Z,sebastien-plutniak,update package reference to v0.1,02,d2db81fe563c0b3bb7caddc9f870195f9439770c,2023
+archeoViz,2023-03-22T16:15:30Z,sebastien-plutniak,update doc about input table,03,a28e554d86ed009dd157e838f00f749d69533fb3,2023
+archeoViz,2023-04-26T21:08:39Z,sebastien-plutniak,remove figs,04,0e6891656e885529612d749af87013e1f877ff32,2023
+archeoViz,2023-05-26T22:16:12Z,sebastien-plutniak,include run.plots and html.export in the reproducibility function,05,33d98d132a9e45387caa91e471671ae3d1d13858,2023
+archeoViz,2023-06-30T02:49:52Z,sebastien-plutniak,update paper,06,30d0b19364362d2688508150f3e802dc7956c385,2023
+archeoViz,2023-07-31T16:32:25Z,sebastien-plutniak,add section in term list,07,5ad9de9f4be180cdc8a22d6d98e1a202ed2cc13f,2023
+archeoViz,2023-08-29T22:31:15Z,sebastien-plutniak,missing updates for v1.3.1,08,83133109e6e8ae50fe7facb0ee995e3ef1a7e755,2023
+archeoViz,2023-09-17T11:42:13Z,sebastien-plutniak,update github workflow,09,417eb1df880369ac9d8b6f3f64d5cb8548038806,2023
+archeoViz,2023-10-30T09:45:52Z,sebastien-plutniak,"fix test after fct edit, export links",10,16f27802ab23c93e5ee62eb1ebf91dee9c4e2980,2023
+archeoViz,2023-11-23T12:57:26Z,sebastien-plutniak,to v1.3.3,11,5f4807538bdcfc1518919bdcb3f351dee5100579,2023
+archeoViz,2023-12-15T11:08:00Z,sebastien-plutniak,force coords as integers,12,a6841ac0e351f504e6e077ab03e39383d5fc84a8,2023
+archeoViz,2024-01-13T19:29:40Z,sebastien-plutniak,small fix for north arrow,01,c14a1734833391be1db2d48d8ec68b0daaf39630,2024
+archeoViz,2024-02-22T12:38:46Z,sebastien-plutniak,change owner,02,51703335260e6f1d008161a73b294786caa882c1,2024
+archeoViz,2024-03-19T01:49:46Z,sebastien-plutniak,reorganise variable names,03,58619963490d777e9834f9b970829f0dce1e7b56,2024
+archeoViz,2024-04-23T02:36:07Z,sebastien-plutniak,fix Amado table generation,04,15b4fb872f59ff2d143e227b9d453a18dbddeb61,2024
+archeoViz,2024-05-09T10:44:36Z,sebastien-plutniak,fix refits in 3D plot,05,627af3121c2185368291dacbf5155bd20d939db5,2024
+archeoViz,2024-06-26T10:31:01Z,sebastien-plutniak,coerce backgroundmap as data.frame & add which() dans get_cxhull,06,4bf431fce3f8f903ccaa5e3a129cab98607dee7c,2024
+archeoViz,2024-07-13T17:37:48Z,sebastien-plutniak,improve performance get_volume_coordinates,07,54e77bcaf80714673f98fff6b8db844d6662abd5,2024
+archeoViz,2024-08-09T06:40:43Z,sebastien-plutniak,update readme,08,e9ca792235ca580f092e57c5fc010ddc5ebfbbbe,2024
+archeoViz,2024-12-19T23:20:01Z,sebastien-plutniak,fix error in export URL for refitting datasets,12,23636e1ddb55fb6b620952be8e39053cec86e26c,2024
+archeoViz,2025-01-28T10:36:57Z,sebastien-plutniak,fix URL for sending to external apps,01,47122df8d225eca9c24f7d3e03651a37f0808a1d,2025
+archeoViz,2025-02-08T12:53:05Z,sebastien-plutniak,add dependencies for ubuntu-latest,02,790dcf9fe33fdb78605a03ffb6c54757b9e862a3,2025
+archeoViz,2025-04-01T11:52:31Z,sebastien-plutniak,"to v1.4.0, remove 'cxhull' dependency, add depenency to 'geometry'",04,f86c4b1d94bedf69f813e6a9339312d7302cbeb0,2025

@@ -53,44 +53,36 @@ class GitHubMonthlyFetcher:
                     # Log error to CSV
                     from src.utils import log_error_to_csv
                     error_msg = f"Repository not found or not accessible (404 response)"
-                    log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                    log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
                     return []
                 elif response.status_code != 200:
                     # Log error to CSV
                     from src.utils import log_error_to_csv
                     error_msg = f"Unexpected response when checking repository: {response.status_code}"
-                    log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                    log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
                     return []
             except Exception as e:
                 logger.warning(f"Failed to check GitHub redirects: {str(e)}")
             
-            # Get repository creation date from REST API
-            repo_url = f"https://api.github.com/repos/{repo_full_name}"
-            try:
-                response = requests.get(repo_url, headers=headers)
-                response.raise_for_status()
-                
-                repo_data = response.json()
-                created_at = repo_data.get("created_at")
-                created_date = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
-            except Exception as e:
-                logger.error(f"Error getting repository information: {str(e)}")
-                # Log error to CSV
-                from src.utils import log_error_to_csv
-                error_msg = f"Error getting repository information: {str(e)}"
-                log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
-                return []
+            # Get the commit date range
+            first_commit_date, latest_commit_date = self.get_commit_date_range(repo_full_name)
             
             # Determine date range
             if not start_date:
-                start_date = created_date
+                start_date = first_commit_date
             else:
                 start_date = datetime.strptime(start_date, "%Y-%m-%dT%H:%M:%SZ")
-                
+                # Make sure we don't go earlier than the first commit
+                if start_date < first_commit_date:
+                    start_date = first_commit_date
+                    
             if not end_date:
-                end_date = datetime.now()
+                end_date = latest_commit_date
             else:
                 end_date = datetime.strptime(end_date, "%Y-%m-%dT%H:%M:%SZ")
+                # Make sure we don't go later than the latest commit
+                if end_date > latest_commit_date:
+                    end_date = latest_commit_date
             
             commits = []
             
@@ -155,5 +147,62 @@ class GitHubMonthlyFetcher:
             # Log error to CSV
             from src.utils import log_error_to_csv
             error_msg = f"Error fetching GitHub monthly commits: {str(e)}"
-            log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+            log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
             return []
+            
+    def get_commit_date_range(self, repo_full_name):
+        """Get the date range of commits in a repository."""
+        try:
+            logger.info(f"Getting commit date range for GitHub repository: {repo_full_name}")
+            
+            # Set up the headers for API requests
+            headers = {"Authorization": f"Bearer {self.github_token}"}
+            
+            # Get repository creation date from REST API
+            repo_url = f"https://api.github.com/repos/{repo_full_name}"
+            response = requests.get(repo_url, headers=headers)
+            response.raise_for_status()
+            
+            repo_data = response.json()
+            created_at = repo_data.get("created_at")
+            created_date = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
+            
+            # Get the latest commit (newest)
+            latest_commit_url = f"https://api.github.com/repos/{repo_full_name}/commits?per_page=1"
+            response = requests.get(latest_commit_url, headers=headers)
+            response.raise_for_status()
+            
+            latest_commits = response.json()
+            if not latest_commits:
+                logger.warning(f"No commits found for repository {repo_full_name}")
+                return created_date, datetime.now()
+                
+            latest_commit_date = datetime.strptime(
+                latest_commits[0]["commit"]["author"]["date"], 
+                "%Y-%m-%dT%H:%M:%SZ"
+            )
+            
+            # Get the first commit (oldest) - use repository creation date as a boundary
+            # This is more efficient than fetching all commits and finding the oldest one
+            first_commit_url = f"https://api.github.com/repos/{repo_full_name}/commits?until={created_at}&per_page=1"
+            response = requests.get(first_commit_url, headers=headers)
+            response.raise_for_status()
+            
+            first_commits = response.json()
+            if not first_commits:
+                logger.warning(f"Could not determine first commit date for {repo_full_name}")
+                first_commit_date = created_date
+            else:
+                first_commit_date = datetime.strptime(
+                    first_commits[0]["commit"]["author"]["date"], 
+                    "%Y-%m-%dT%H:%M:%SZ"
+                )
+            
+            logger.info(f"Repository {repo_full_name} commit range: {first_commit_date} to {latest_commit_date}")
+            return first_commit_date, latest_commit_date
+            
+        except Exception as e:
+            logger.error(f"Error getting commit date range: {str(e)}")
+            # If we can't determine the date range, return a default range
+            now = datetime.now()
+            return created_date if 'created_date' in locals() else now.replace(year=now.year - 1), now        

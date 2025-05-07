@@ -1,0 +1,9 @@
+item_name,date,author,message,month,sha,year
+unstruwwel,2019-06-30T12:53:26Z,Stefanie Schneider,Add tests for guess_language() and guess_midas(),06,0ad51588b7f12e5b96a1e0bba2af3b5b09349185,2019
+unstruwwel,2019-07-05T13:30:11Z,Stefanie Schneider,Implement R6Classes Period and Decade and add associated tests,07,c7828e1facff6a5790aa2bfc8e46d899e7e7a289,2019
+unstruwwel,2019-12-20T17:10:37Z,Stefanie Schneider,Correct typo in DESCRIPTION,12,df015df4d2d228f1230b021705b3cf17c2a16e7a,2019
+unstruwwel,2020-07-05T12:04:04Z,Stefanie Schneider,Temporary fix (due to R version 4) to not run tests,07,eee6a5adc28a282fdd491a0c7115b721bc00fc5e,2020
+unstruwwel,2021-01-20T07:46:11Z,sschneider,Add CRAN,01,c9d0029b2df3cf203577eca3d8b2199eb8d6e83c,2021
+unstruwwel,2022-08-31T08:41:18Z,Stefanie Schneider,Update Lifecycle badge,08,c239ea65177c3315648739fc042b376ff1ca1d89,2022
+unstruwwel,2024-08-28T06:11:17Z,Stefanie Schneider,Update documentation,08,337c5dbcddd00e0238b59b26a1cd9a7405e9ad07,2024
+unstruwwel,2025-01-27T07:10:02Z,Stefanie Schneider,Remove invalid (and unnecessary) year check,01,8fd31bd66ee7f06e2104c22cb94b7d2a1a39f0da,2025

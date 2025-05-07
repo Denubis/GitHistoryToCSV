@@ -1,0 +1,9 @@
+item_name,date,author,message,month,sha,year
+pypofatu,2019-03-21T15:36:09Z,xrotwang,another model refactoring,03,cada1c0250004be7ef49d33640b7aa47eff65fe4,2019
+pypofatu,2019-07-03T06:37:35Z,xrotwang,added csvs,07,b95f822ad54d1ea1153422ec83b02c4ea940e8de,2019
+pypofatu,2020-01-30T08:19:04Z,xrotwang,added paramstats command,01,e75c17fd3f55aaaa64929ec18c49ffede1d3f75f,2020
+pypofatu,2020-02-07T08:22:35Z,xrotwang,make adding dist metadata more explicit,02,b38796bfa17975f6a16510e21e73573b980e4002,2020
+pypofatu,2020-08-19T16:31:13Z,xrotwang,adapt to new data,08,ac5f52dfd0013c3e5e272a68d8586d888773b718,2020
+pypofatu,2020-10-26T12:06:25Z,xrotwang,bump version for development,10,4cbc40023ff3716720593b6b72278ed72e66d73b,2020
+pypofatu,2020-11-20T09:27:17Z,xrotwang,gh actions,11,08bbee94848015b4eb239959059bd708c5de337d,2020
+pypofatu,2021-04-30T13:43:52Z,Robert Forkel,bump version for development,04,6400183e2b44e626a40bcb27b5a66cdaf9b95963,2021

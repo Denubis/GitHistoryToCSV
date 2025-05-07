@@ -1,0 +1,17 @@
+item_name,date,author,message,month,sha,year
+c14,2021-01-31T18:19:42Z,Joe Roe,Remove unused dependencies,01,b0947429502b2cfd3dd972566adf71ca18ab20a5,2021
+c14,2021-02-17T15:43:02Z,Joe Roe,Enforce file naming convention,02,1d7dacd68e15992965ac353a45065f4953bddd70,2021
+c14,2021-04-27T10:28:16Z,Joe Roe,First pass on lab code thesaurus,04,ea76e7abe663398f23434714bed4c18303a5c91b,2021
+c14,2021-05-06T14:23:48Z,Joe Roe,Update news,05,b8049ed9dbe6e5de8e7d76cb679778930995d54c,2021
+c14,2021-07-07T13:59:51Z,Joe Roe,Add c14_age_norm() and as.matrix.c14_curve(),07,7a884cd979f9895e96b5d7f692357f959df21488,2021
+c14,2021-08-26T13:13:13Z,Joe Roe,Update c14_labs,08,236593a867f7f3f4b35e71d8ada1fff57387d0c3,2021
+c14,2021-09-03T09:48:47Z,Joe Roe,Delete bazaar.R,09,253a683e64499bafadf9e2de8031f111c4de1c1d,2021
+c14,2022-01-19T15:00:33Z,Joe Roe,Add as.data.frame methods for c14_curve,01,2bdbb7f4e2c7e585afbf1f4dc404fbd125504f42,2022
+c14,2022-02-04T17:18:32Z,Joe Roe,Parallelise c14_calibrate_intcal() #13,02,b0dbaccc0e32a4ecc05d2f45efdafc3b6fbba9a7,2022
+c14,2022-03-10T10:53:12Z,Joe Roe,Remove n_cores argument of c14_calibrate(),03,986d04506a5a504880ab14d151e1e920c87a0ce4,2022
+c14,2023-02-04T21:07:35Z,Joe Roe,Update workflows,02,e791a4265a447862d44e904244f8bace50caec34,2023
+c14,2023-04-27T14:49:22Z,Joe Roe,Don't export cal formatters,04,0c4afaf6ff1f5f094da6244a5d2449d381529015,2023
+c14,2023-05-12T12:44:19Z,Joe Roe,Fix analytics URL,05,2e7e2679abf72dfd674e9c673f2d50fa01ef1a5d,2023
+c14,2024-05-07T12:52:31Z,Joe Roe,Update documentation,05,294b918215ddde8918e5a3ffd923eac7c13f7efd,2024
+c14,2024-10-17T13:46:24Z,Joe Roe,"Improve cal_sum() performance, fixes #36",10,14658d827abff3279e7fa0daeaa6e06fa39f7d91,2024
+c14,2024-11-20T10:22:30Z,Joe Roe,Suppress warning when printing cals. Fixes #30,11,410b76a21f2d52d5943ca99c34aba9f269afc396,2024

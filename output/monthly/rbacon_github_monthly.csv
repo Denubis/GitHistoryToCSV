@@ -1,0 +1,30 @@
+item_name,date,author,message,month,sha,year
+rbacon,2020-08-12T17:43:39Z,Maarten14C,starting github version of recently uploaded CRAN rbacon v2.4.3,08,1f8d4012d8cb6bdbebf029e2424bac5556b30ec9,2020
+rbacon,2020-09-04T12:40:29Z,maarten,updated src/kernel.cpp to repair a bug in one of the MCMC moves,09,135bab3b1b14ffffc83d01222b3cd8fd6903e075,2020
+rbacon,2020-10-28T15:48:20Z,maarten,preparing for CRAN release,10,ca926f102af74fe88a20a73e3b64463caf69420d,2020
+rbacon,2020-11-23T11:02:58Z,Maarten14C,removed links to unstable chrono url,11,346cd42741903cf60e30ce13f5d6de91dfbc3768,2020
+rbacon,2021-02-26T08:53:16Z,Maarten14C,enable rplum to use rbacon functions,02,4d2ccdeeba80893f68b38e9306577973e88d00d1,2021
+rbacon,2021-03-29T17:55:53Z,Maarten14C,prepare for CRAN,03,0e6a85e5d2d695ddf152ee29e03c599ae2b22091,2021
+rbacon,2021-04-19T14:27:13Z,Maarten14C,accommodating rplum,04,040eba93c04f46b56aadb1963e6bd7aac9f60058,2021
+rbacon,2021-05-28T10:54:22Z,Maarten14C,preparing for CRAN,05,c7ad5616bda65da57ee9bc887308465d97e71d13,2021
+rbacon,2021-08-18T18:53:28Z,Maarten14C,updated author names,08,a0fc383b259b5b9a01ed1ce4b50638331bebb563,2021
+rbacon,2021-10-16T16:47:35Z,Maarten14C,Update README.md,10,10b87407942cd3e2dd374bb50ed5e5f5b1364bb5,2021
+rbacon,2022-03-29T13:27:42Z,Maarten14C,preparing for CRAN submission,03,b715621e2635720ca01bc665e0f3d1330b128a9f,2022
+rbacon,2022-08-22T16:54:15Z,Maarten14C,cleaning up,08,58bd47f9db5a90270b498d3b6625fc2af9750fc6,2022
+rbacon,2022-12-22T16:28:18Z,Maarten14C,CRAN accepted version,12,f6535604d479e869af03f07353efe3a6cc716e6d,2022
+rbacon,2023-01-16T17:26:26Z,maarten,adapted every in twalk.h,01,1e0f0fbd810599f5a6bf2ab09b806a5e4ac95be1,2023
+rbacon,2023-02-20T12:19:50Z,maarten,check that nchar(sep) == 1,02,d2787d3ca2e7c1759daafdae86b0c91b0c2b58bb,2023
+rbacon,2023-03-19T10:16:27Z,Maarten14C,updated dev.interactive() check,03,5ed9e7cc2e3b10efd93a15161be59d51b8742808,2023
+rbacon,2023-04-19T17:01:55Z,maarten,postbomb calibration should work better now,04,88c7efe87f1fd168def6eb4a6c0029a7dbeb053c,2023
+rbacon,2023-05-17T11:04:35Z,maarten,preparing for CRAN release,05,dd39f66a559e5b0d332c3fd0cdc28fe6df4124a3,2023
+rbacon,2023-07-15T09:34:09Z,Maarten14C,preparing for CRAN submission,07,ea019a21b23f970becfca315a81d204e127d5077,2023
+rbacon,2023-08-17T12:11:40Z,maarten,working on cc.dir,08,1d05053c716b55eb437c6ed2bcf3b73852ed5b28,2023
+rbacon,2023-10-15T12:13:27Z,Maarten14C,added elbowages,10,3855dbd9fd67017afe2f95853e313dfcb6a95ad6,2023
+rbacon,2023-11-28T14:51:33Z,maarten,CRAN accepted version,11,03d7fb286c0d399a5c196dabe02580c27ade5066,2023
+rbacon,2023-12-06T11:30:26Z,maarten,deals with lab IDs which have commas,12,c3b1548318c422114b3815ddd96507780a20f9bd,2023
+rbacon,2024-02-13T15:42:34Z,maarten,changed behaviour of info,02,8dcba6b328e955882674f228710df1dc6653f522,2024
+rbacon,2024-04-02T15:42:18Z,Maarten14C,working on remove.tail,04,aff46fd5cbac197fcc591ca5bee1309f459697d1,2024
+rbacon,2024-09-28T17:24:31Z,Maarten14C,preparing for CRAN submission,09,31b283c9575058026c22e04b6e755df5fca3746b,2024
+rbacon,2024-12-25T22:47:59Z,Maarten14C,some rice changes,12,1f1304ae6ad39c8e512468d2322502aec49af2c0,2024
+rbacon,2025-02-18T20:36:17Z,Maarten14C,updated proxy.ghost,02,35a037690b0e6a7bf122b63385ce1ee710160777,2025
+rbacon,2025-04-27T10:22:34Z,Maarten14C,preparing for CRAN submission,04,9b003b0e70d59763225811dc7c6d4f047ae37692,2025

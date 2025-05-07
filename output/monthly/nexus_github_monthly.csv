@@ -1,0 +1,23 @@
+item_name,date,author,message,month,sha,year
+nexus,2021-03-09T10:47:58Z,nfrerebeau,Add outlier detection,03,35c8148972520e8f53180e83477bb3605b68b464,2021
+nexus,2021-05-24T14:57:07Z,nfrerebeau,Add Matomo tracking code,05,40a94b71243f47f7e0c419499f7d38e42bc1c940,2021
+nexus,2021-08-25T14:00:02Z,nfrerebeau,Use custom pkgdown template,08,103d4d2411a022b49e92d9c474aec8674f4868e0,2021
+nexus,2021-12-09T14:17:31Z,nfrerebeau,Add inverse log-ratio transformations,12,8027abb582b1b46af7749ca78c38c09dc3208f7c,2021
+nexus,2022-08-16T18:24:15Z,nfrerebeau,Update shared workflows,08,5deaac9fabe637254db7357c857a24f40a39b782,2022
+nexus,2022-09-08T11:18:39Z,nfrerebeau,Add plot method,09,b18f446415ca06613e5c3c134a1f56f729fcd935,2022
+nexus,2022-11-11T21:59:33Z,nfrerebeau,Reorganize the documentation,11,ea00e065d6413aae2cc5dd9c871bb8172556aea5,2022
+nexus,2023-09-20T09:54:35Z,nfrerebeau,Put ... after required arguments,09,3ee557feb908a9862a01c48d2a7abc591e3100e0,2023
+nexus,2023-10-25T17:45:19Z,nfrerebeau,Allow to coerce a CompositionMatrix to a data.frame,10,6bb9f9b6ba7055cc4bf1512cd55c99a49cc4f860,2023
+nexus,2023-11-30T10:35:42Z,nfrerebeau,Bump package version,11,ee9fb0304f32f979953675afb08986f96df6e3bf,2023
+nexus,2023-12-29T15:33:03Z,nfrerebeau,Fix barplot ordering,12,3c9800ba3e638c3d337979eb135068ffe96e5325,2023
+nexus,2024-01-19T13:49:20Z,nfrerebeau,Import arkhe >= 1.5.0,01,dbcc02fd57c8cc178318a5417ff7c4d1e9a4f862,2024
+nexus,2024-02-26T17:49:18Z,nfrerebeau,Bump package version,02,9fc515917c1ed0245b9e4120367c83bf7eb046ec,2024
+nexus,2024-03-07T16:09:29Z,nfrerebeau,Add as_features method for LogRatio objects,03,aa0c2b852e8d595e5d68285e27dc99ac299c03cb,2024
+nexus,2024-04-30T15:45:34Z,nfrerebeau,Fix reexports,04,5369761c6a2cd7677a04fe6c6c5241cd42a1cfd6,2024
+nexus,2024-06-14T15:31:36Z,nfrerebeau,Rewrite plot() method for OutlierIndex,06,7e6b069fe0933f315426c85b3494dead5baeabb5,2024
+nexus,2024-07-30T12:14:02Z,nfrerebeau,Use palette functions from khroma,07,33f7a86f64d4f4410392cef9eb24eb1d59c105eb,2024
+nexus,2024-08-31T18:05:37Z,nfrerebeau,Small fix,08,35e1da1227ac7f719d41a560f6e43432197bce7e,2024
+nexus,2024-09-03T15:24:45Z,nfrerebeau,Bump package version,09,92a6d2a03a57da264a88c686a8d09035be0d8e00,2024
+nexus,2024-10-23T10:53:37Z,nfrerebeau,Update README,10,7d0e4e08fa8c84b62db811f7628beed8e6d23040,2024
+nexus,2024-12-18T21:05:25Z,nfrerebeau,Fix density plot,12,69a66f4d8af52a49372681d95878776f4d34e0b8,2024
+nexus,2025-01-14T11:38:15Z,nfrerebeau,Prepare for next release,01,9c12383acbf3cbaaa339676684cf02c9b9ab05dc,2025

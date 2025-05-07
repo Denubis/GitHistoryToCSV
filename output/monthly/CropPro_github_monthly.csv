@@ -1,0 +1,16 @@
+item_name,date,author,message,month,sha,year
+CropPro,2022-02-23T15:12:31Z,Elizabeth Stroud,Updated both functions in script to have defaults for col and pch etc,02,4a7c97701c9681d5faea60e502e6be415f44f0a2,2022
+CropPro,2022-03-07T16:17:21Z,Elizabeth Stroud,updates,03,022074c28848d1bc21ba1646c7c6325315dfdd5b,2022
+CropPro,2022-04-21T08:54:26Z,Elizabeth Stroud,data organisation script and documentation,04,6e4b1afc22280c3bafc2572666a004429b24ddc7,2022
+CropPro,2022-08-31T16:12:00Z,Elizabeth Stroud,"editing of man docs, fixing dataorg",08,77d6b27f4632453b9243be7b2acdd0949cdd7553,2022
+CropPro,2022-09-01T16:18:53Z,Elizabeth Stroud,Editing man docs,09,288a277fec931eb56abf88f103db57fe6e188592,2022
+CropPro,2022-12-13T16:01:29Z,Elizabeth Stroud,Updating man file examples,12,2d46414d15b71e24479086b220286cfe42911c4f,2022
+CropPro,2023-02-22T12:14:35Z,Elizabeth Stroud,fixing lazyload error,02,4e50daa9fa2486b87838e6dbac366526677c014d,2023
+CropPro,2023-03-02T15:05:47Z,Elizabeth Stroud,Merge branch 'main' of https://github.com/elizabethastroud/Cropprocessing,03,22f25552c6ecc935ebc5a35f196862631718fd23,2023
+CropPro,2023-04-14T16:24:04Z,Elizabeth Stroud,Fixing label issue,04,87b8c14084c692138300028039337136932eae48,2023
+CropPro,2023-05-11T16:41:00Z,Elizabeth Stroud,Clean up of package after checks,05,bcae0d6fdbcd0244b3276e54086d2681f72a2a49,2023
+CropPro,2023-06-07T10:27:38Z,Elizabeth Stroud,add md docs,06,38e5c921df5f25f56727b7e92964e2c82a369e2c,2023
+CropPro,2023-09-26T14:40:49Z,Elizabeth Stroud,editing,09,cba23789e1d8e56592f57517feb22907f05ab280,2023
+CropPro,2024-02-15T11:26:21Z,Elizabeth Stroud,Added in bg and gbg options,02,8fa4c4e0e4dc5d2c9fc81b4ecc126ef37ba12ffc,2024
+CropPro,2024-07-23T11:32:04Z,Elizabeth Stroud,Update README.md,07,97ef078a6d47aa7356c7686416b991bf6d915190,2024
+CropPro,2024-09-20T15:12:04Z,Elizabeth Stroud,Update README.md,09,159fcf4de67b12077bb311fdb3558e63a1631709,2024

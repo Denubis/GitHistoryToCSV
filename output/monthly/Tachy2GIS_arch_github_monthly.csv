@@ -1,0 +1,37 @@
+item_name,date,author,message,month,sha,year
+Tachy2GIS_arch,2021-04-20T05:23:49Z,Landesamt-fuer-Archaeologie-Sachsen,upload manual,04,b16bc53f0bb93b97abda0add9aa2ea9ced1a6e7e,2021
+Tachy2GIS_arch,2021-06-29T11:40:04Z,Landesamt-fuer-Archaeologie-Sachsen,Merge branch 'QGIS3.10' into main,06,3f882149292c69cd9f2da5221a7ff841cddcaa8f,2021
+Tachy2GIS_arch,2021-07-22T09:24:22Z,Gittest,AAR Transformationsparameter,07,5736684c7d8c4158b1efcb53c61d3793552bda70,2021
+Tachy2GIS_arch,2021-08-17T10:40:03Z,Landesamt-fuer-Archaeologie-Sachsen,bug fix in profEntzpointExp,08,3182c2eb973862a9df7fa8e19c9b54819b96c89e,2021
+Tachy2GIS_arch,2021-09-20T07:09:10Z,Landesamt-fuer-Archaeologie-Sachsen,bugfix in profEntzpointExp,09,ae5035db0ec75e270202a784999305e5df8d028b,2021
+Tachy2GIS_arch,2021-10-29T07:16:54Z,Gittest,begin line_edit,10,179ce786ccd1cc85ac806f633ef13437ab249e23,2021
+Tachy2GIS_arch,2021-11-04T14:12:21Z,Landesamt-fuer-Archaeologie-Sachsen,restrict geometry validation to selected features,11,0499328ccb71dba40d9864316ef11aed7b77c0d1,2021
+Tachy2GIS_arch,2022-01-20T08:23:16Z,Gittest,start_2022,01,df7642b3d35b70ecbfe97051b15df1aaaacb9e60,2022
+Tachy2GIS_arch,2022-02-24T06:16:33Z,mauhvi,Merge pull request #2 from Landesamt-fuer-Archaeologie-Sachsen/develop,02,ebda01b94862846821fe7ad3c92f21d36f79bde2,2022
+Tachy2GIS_arch,2022-03-28T13:23:09Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #14 from visdat/bugfix/534-Berechnete_Fehlerwerte_sind_zu_hoch,03,14e8b1a2f237d228cf3be4e6d22e5c3ca66ad045,2022
+Tachy2GIS_arch,2022-04-28T09:22:21Z,Gittest,buffer spinbox,04,8dfe0af042ad0699b430c1145492911d2d5b539f,2022
+Tachy2GIS_arch,2022-05-20T09:05:51Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #19 from visdat/feature/611_Snap_to_vertex,05,1ff3a637b18fcf413e731f9f93944a66e80dcf0f,2022
+Tachy2GIS_arch,2022-06-24T11:42:29Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #26 from visdat/feature/478_AAR_Berechnung_bei_geringer_Genauigkeit,06,934365a16cc9a9359b7b3e30d93e7e06894ef35f,2022
+Tachy2GIS_arch,2022-07-20T11:01:57Z,Landesamt-fuer-Archaeologie-Sachsen,update required QGIS version,07,d014202308d699ca53b02d059ab421535cf48a08,2022
+Tachy2GIS_arch,2022-08-31T11:44:32Z,Gittest,absolute height,08,63caecd2cbb8338f4fa477c06be042d5bad16bb1,2022
+Tachy2GIS_arch,2022-09-29T04:57:45Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #39 from visdat/feature/618-Identity_Feature,09,19128d981157bc6bd89ad683ead442394054bbe9,2022
+Tachy2GIS_arch,2022-10-11T11:31:04Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #41 from visdat/feature/760-Update_Objektattribute,10,5ceb73f31be74b90dfa56009696bb285360a39b4,2022
+Tachy2GIS_arch,2022-11-30T13:14:11Z,Gittest,Merge branch 'develop' into feature/723_Digitalisierung_im_AAR-Orginal_Modus,11,be051bf85f13342ef1858539e8869e84b5484a10,2022
+Tachy2GIS_arch,2022-12-08T12:32:10Z,Landesamt-fuer-Archaeologie-Sachsen,Merge pull request #44 from visdat/feature/723_Digitalisierung_im_AAR-Orginal_Modus,12,aba064260dccdf42869ca6ad36f614e46f57e47e,2022
+Tachy2GIS_arch,2023-01-06T09:41:18Z,Landesamt-fuer-Archaeologie-Sachsen,Update README.md,01,f488d683a474ef5e35729e185f15c43138512f86,2023
+Tachy2GIS_arch,2023-03-31T16:13:44Z,mauhvi,Merge pull request #47 from Landesamt-fuer-Archaeologie-Sachsen/revert-46-feature/991-Profilentzerrung_Kreuzschnitte,03,167a2c9d7e9eb9bf25c18f68fcfd44a4a85f476e,2023
+Tachy2GIS_arch,2023-04-28T16:49:11Z,michael-visdat,Merge pull request #49 from visdat/feature/991-Profilentzerrung_Kreuzschnitte,04,ff5d55295986c52baac792e82a48ef273caf2c6d,2023
+Tachy2GIS_arch,2023-05-31T12:06:01Z,Landesamt-fuer-Archaeologie-Sachsen,create features from wkt,05,8dcb398761206ebc9023b7c25a621badec15b775,2023
+Tachy2GIS_arch,2023-06-30T14:28:39Z,michael-visdat,Merge pull request #57 from visdat/feature/1261-jpeg_quality,06,a7f13d8cb7dcc41a5d2885c4b62584f25b34dce2,2023
+Tachy2GIS_arch,2023-10-23T07:46:32Z,Johannes Reiter,merge gdke-rlp u. lfa sachsen shp to gpkg,10,749073601f4b5dfe029bd45a801f05cd3cf63815,2023
+Tachy2GIS_arch,2023-11-28T10:50:41Z,michael-visdat,fix proper reset while undoing last point with no split,11,6dba50da64bbc653e5c29e3360e12a3992461709,2023
+Tachy2GIS_arch,2023-12-14T13:56:24Z,mauhvi,Merge pull request #61 from Landesamt-fuer-Archaeologie-Sachsen/feature/1391-update_digitalisierung,12,3c71f66ea900f2c04d9e779d2dd04a68bc80157b,2023
+Tachy2GIS_arch,2024-02-27T13:36:57Z,mauhvi,fix Folder _Sicherungen_,02,3be6531439fefd07899d93f8c70bddf92c20750d,2024
+Tachy2GIS_arch,2024-03-22T15:40:46Z,mauhvi,add Point25D to validation check,03,0a4156e33e49fc5dae4abec42068d4e50675f5fe,2024
+Tachy2GIS_arch,2024-04-29T14:27:50Z,michael-visdat,no winsound anymore in python 3.12; use Qt,04,1f59b773f113523ce100ffcd9a2f41d575d8a80d,2024
+Tachy2GIS_arch,2024-05-29T13:32:41Z,michael-visdat,metadata error,05,c80d0ffa46dd30dcc6c90e64d7e6c7706835e5db,2024
+Tachy2GIS_arch,2024-09-25T13:51:21Z,michael-visdat,#1942 Planerstellung mit unverfälschten FIDs bei Eingabelayern,09,d6913cef4e971e6e03a7ba4f7f5337cfb7456ccf,2024
+Tachy2GIS_arch,2024-10-16T16:00:55Z,michael-visdat,#1800 Abhebung fortfolgender Punkte von der Profilwand,10,7bb7f68a0174bb1cf072fafbdbefc37bbcf7867e,2024
+Tachy2GIS_arch,2024-11-28T15:05:51Z,michael-visdat,#1972 Digitalisierung: Selektion nach Profilnummer,11,7f9ba7ecabb47694ea0bdc5d58584de092f6e7b1,2024
+Tachy2GIS_arch,2024-12-17T15:54:22Z,michael-visdat,#2029 check Editiermodus aktiv vor Planerstellung,12,517cf8cddef9058a0f9bede27dd5031358d69143,2024
+Tachy2GIS_arch,2025-01-30T14:21:21Z,mauhvi,fix plugin name and beep,01,fd93066ab7bc247ae548e8f649f3b609356eeb03,2025

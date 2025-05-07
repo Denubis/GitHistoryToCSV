@@ -1,0 +1,31 @@
+item_name,date,author,message,month,sha,year
+dimensio,2021-01-31T17:31:29Z,nfrerebeau,Minor fixes in plot methods,01,67ac24f30b5febef687791250d8af4a6e917573d,2021
+dimensio,2021-02-27T18:43:50Z,nfrerebeau,Allow to extract replicated coordinates,02,a8413d50b042cf62a628bb1bcfd4f7bbb024e963,2021
+dimensio,2021-03-20T08:20:48Z,nfrerebeau,Use onLoad for package options,03,f9e8256b7ab93d73f3f2678c9efe0519a42e2dd5,2021
+dimensio,2021-04-22T08:01:14Z,nfrerebeau,Add CRAN badges,04,79bf5f98825de07deeb09f077af72199dcbb2de1,2021
+dimensio,2021-05-24T15:08:55Z,nfrerebeau,Add Matomo tracking code,05,642400143e569144d3f401cf59a8c05e42493076,2021
+dimensio,2021-08-25T13:44:21Z,nfrerebeau,Use custom pkgdown template,08,21d532009635b96eabcc63eae7ad4951f817d077,2021
+dimensio,2021-09-18T13:23:14Z,nfrerebeau,Bump version number,09,adc8f27477813a729f1637f506e18237d462d8d6,2021
+dimensio,2021-11-05T16:36:45Z,nfrerebeau,Use CITATION.cff,11,48ba749ff35a88c72970b6afc782f309ec8c30d4,2021
+dimensio,2021-12-08T13:42:05Z,nfrerebeau,Rename master to main,12,3d11ddf1bac7a26b527b8173a75ebbb41e40dcf8,2021
+dimensio,2022-06-18T21:19:12Z,nfrerebeau,Fix dimensions,06,9c9d6b351ee73e957f8219826e6fc064b0175ad4,2022
+dimensio,2022-08-16T18:18:28Z,nfrerebeau,Update shared workflows,08,b50cea0cecd0b3d0ac377433b21928b0ec01af29,2022
+dimensio,2023-04-04T09:58:26Z,nfrerebeau,Bump package version,04,152dd46ba8a8203e91460f6458b1f38462a77926,2023
+dimensio,2023-06-21T16:17:40Z,nfrerebeau,Update README,06,3783896ed94befc35be4585306d3442dfec121ab,2023
+dimensio,2023-08-28T08:04:11Z,nfrerebeau,Add xlim and ylim arguments in biplot,08,1b72940144070b0110999eed9cb49f0c7390f8e9,2023
+dimensio,2023-09-20T09:25:52Z,nfrerebeau,Put ... after required arguments,09,7834788e554ae1225192be52925657562d244eeb,2023
+dimensio,2023-10-27T14:43:52Z,nfrerebeau,Import arkhe >= 1.4.0,10,4807b7b79aae1bfd4a85a28c06f937a2c467a69a,2023
+dimensio,2023-11-29T08:40:44Z,nfrerebeau,Format references in DESCRIPTION,11,feaa592c9aee43423cb0d054aa362cc3e2513e92,2023
+dimensio,2023-12-31T13:57:20Z,nfrerebeau,Display expected average contribution on barplot,12,3c8660ee38c7eb66b7aacab5d2f25a053a6a305f,2023
+dimensio,2024-01-19T13:50:53Z,nfrerebeau,Import arkhe >= 1.5.0,01,2aa1d88d7ddecfc9b512d3226610abec6ca0bb6c,2024
+dimensio,2024-02-23T10:26:33Z,nfrerebeau,Bump package version,02,62e18ea5d6f4d4cb2bf3150caaaa55d53111c715,2024
+dimensio,2024-03-22T14:40:45Z,nfrerebeau,Rename 'top' argument,03,e41f7c9ef8f925a8ccdcda2eef8e6842586e6089,2024
+dimensio,2024-04-30T15:27:52Z,nfrerebeau,Fix bibliography,04,573e2ac359cf426f90d0621a90194b418d5cad4a,2024
+dimensio,2024-05-17T14:24:41Z,nfrerebeau,Use palette functions,05,93c3ce71efcae3ef5b7cfa8294fe7848680c6c90,2024
+dimensio,2024-06-07T11:30:43Z,nfrerebeau,Bump package version,06,d0a6db0591cc4650d7ad0190bf9341d99291ece0,2024
+dimensio,2024-07-30T15:37:49Z,nfrerebeau,Bump package version,07,31a3a44d97e769f63d4082640fb463412dd8f79e,2024
+dimensio,2024-08-26T12:51:37Z,nfrerebeau,Bump package version,08,62f1606051dc70523d695b3279c15c5d23e76762,2024
+dimensio,2024-10-21T15:57:02Z,nfrerebeau,Draw only labels in the plotting region,10,3157522332e71e33ebdb221f713db52c51cb7712,2024
+dimensio,2024-11-21T12:22:09Z,nfrerebeau,Small edits in documentation,11,539e4eda20747b64561a795cbd23952a40c9e7cc,2024
+dimensio,2024-12-10T10:45:29Z,nfrerebeau,Bump package version,12,64f30f2d22c4dbedfe2bd8c5ddbeee731cb10027,2024
+dimensio,2025-01-09T13:00:15Z,nfrerebeau,Prepare for next release,01,a44ebddf2d8276076a82209bf14863541762eae5,2025

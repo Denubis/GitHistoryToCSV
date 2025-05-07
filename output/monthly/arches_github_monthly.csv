@@ -1,0 +1,113 @@
+item_name,date,author,message,month,sha,year
+arches,2016-01-28T23:58:21Z,Adam Lodge,clean out unnecessary models,01,62d6d2ef72534f1b2aff7ff7afe1d396a7a5997a,2016
+arches,2016-02-29T23:38:29Z,Alexei Peters,make the widget file field a fixed location,02,c490a0ad0f0aa60ff920ae353eb763f99288a6ac,2016
+arches,2016-03-31T21:29:14Z,Rob Gaston,slight adjustment to node form title,03,dda91daff456c3d8901b906067b6a73c8c769fe4,2016
+arches,2016-04-30T05:49:16Z,Alexei Peters,fix broken build,04,a9766444b40ee3fda7fe4ce0a32071740c2f011f,2016
+arches,2016-05-31T23:50:12Z,Rob Gaston,demo of external ko component template,05,ea4bdb8c5b05878f6af76a7e0d6c994183e909ce,2016
+arches,2016-06-30T22:11:03Z,Alexei Peters,"fix broken test, re #586",06,fd92e2c8d9a1fd172aac85fb5eb881dc3d60c36c,2016
+arches,2016-07-30T00:06:15Z,Alexei Peters,"remove cardinality title attribute for card containers, re #623",07,3845ef894c14557ecc79799e8c2dabfac2c59757,2016
+arches,2016-08-31T22:30:45Z,Rob Gaston,Merge pull request #760 from archesproject/card_graph_bugs,08,07c6b3cdd30dd7c26874aa4e3403f688f8cc6600,2016
+arches,2016-09-30T23:14:24Z,chiatt,Merge pull request #852 from archesproject/723_geom_widget,09,cd620370829a88a5579e03336bbd409a59298e3c,2016
+arches,2016-10-31T22:51:19Z,Alexei Peters,Merge branch 'master' into 997_primary_name_function,10,1068643fa904c38388cb8dcd5dc6e73854585da1,2016
+arches,2016-11-30T23:57:32Z,Cyrus Hiatt,updated jquery-mask-plugin and changed value data bindings to textInput re #1216,11,e6d04f1c7249e82325fa74eedc55a39ee142d327,2016
+arches,2016-12-31T18:52:11Z,dwuthrich,Merge pull request #1416 from archesproject/UI,12,c2a25060b6452c09d438d84a17715fa61fa5d28c,2016
+arches,2017-01-31T21:35:27Z,Rob Gaston,Merge pull request #1534 from archesproject/indexing_vw_getgeoms,01,5cdac6af0e972ccd9901207ce65e6170a00aa7c2,2017
+arches,2017-02-28T23:01:28Z,Cyrus,"Removed some settings in settings.py-tpl that are already defined in settings.py, re #1662",02,a8875ee5b51fa9ec1d3b96cab7b6913e6324b856,2017
+arches,2017-03-31T18:27:44Z,chiatt,Merge pull request #1919 from archesproject/1738_xychart_widget,03,a9f0fbb3dccdc40b4bf8852655b11387efb3ea6a,2017
+arches,2017-04-29T00:30:17Z,Rob Gaston,more work on advanced search,04,3bc0a6d18fdfc2bb7af320f4006538184f240368,2017
+arches,2017-05-31T22:55:48Z,chiatt,Merge pull request #2094 from archesproject/346_map_settings,05,9e2efa74a6881d1f0de87a635f1ab398455462c7,2017
+arches,2017-06-30T21:06:38Z,Ryan Anderson,Merge pull request #2203 from archesproject/1866_clear_date_widget,06,1666170655f7bb68aac44ae92860a678348bdf72,2017
+arches,2017-07-31T23:37:56Z,Cyrus Hiatt,"#re 2300, Added statement to change the relationship type from a Value FK to string.",07,c4292a3d2cf19e2a33383b886366df44b6c2fe89,2017
+arches,2017-08-31T23:37:04Z,Alexei Peters,"add code comments, re #2307",08,1a1486cdfefa7dd464b8e0c5f2d3005c4e8bcbcc,2017
+arches,2017-09-30T21:49:39Z,dwuthrich,Merge pull request #2477 from archesproject/pre_401_UI_fixes,09,682f49a46656b6c5d05803cf9a58d6b55f1a8c2a,2017
+arches,2017-10-31T23:50:38Z,Cyrus Hiatt,Formatting user info in project panel. re #2581,10,728e57f0b6729132bda96813cb5edc436602c302,2017
+arches,2017-11-30T06:07:13Z,Alexei Peters,Merge pull request #2795 from archesproject/2751_es_index_updates,11,fdbd1eb5153818bf70bfed5758aa998834d4efee,2017
+arches,2017-12-30T00:58:02Z,Cyrus Hiatt,Updates domain_connections when user switches nodes and prevents unnecessary ajax requests. re #2682,12,5c361f8b6875d0687623862cf6b53cd414b3b2e1,2017
+arches,2018-01-31T23:36:01Z,Cyrus Hiatt,Merge pull request #2995 from archesproject/2883_v4.1.x_map_widget_config_dropdown_indicators,01,2a021a42688ec47ae17a06bb95c1254107f499ed,2018
+arches,2018-02-28T20:55:55Z,dependabot[bot],Bump psycopg2 from 2.7.3.2 to 2.7.4 in /arches/install,02,7cf194a312266762216bcb38d4f911c09314de64,2018
+arches,2018-03-31T00:05:45Z,Cyrus Hiatt,Merge pull request #3172 from archesproject/3147_save_resource_tiles_to_couch,03,b0b5c9e7e83ae6dbcdbeebcdf909baf8d725e7da,2018
+arches,2018-04-30T22:53:21Z,Alexei Peters,"update error handling in the graph model and designer, re #3201",04,7b7c5d177d095ff4d590b7308a3a4b0f6ebae00d,2018
+arches,2018-05-31T22:36:58Z,Cyrus Hiatt,Update 4.1.0.md,05,c815f012eb8f4ef4ba29797eba73a11ccb542b66,2018
+arches,2018-06-30T06:04:45Z,Dennis Wuthrich,update graph settings crm root class select2 widget,06,00369fe10e59760297660c83315bee10ef965550,2018
+arches,2018-07-31T22:01:14Z,Cyrus Hiatt,Tests the provisional edit manager.,07,b80bbe206862a10368a7531cd4bef12838e75d59,2018
+arches,2018-08-30T16:09:47Z,Rob Gaston,Merge pull request #4078 from archesproject/master,08,6cc1a67eedb7b3a6222b01efbf888b0e54cb1ffa,2018
+arches,2018-09-28T20:21:16Z,Alexei Peters,Merge pull request #4148 from archesproject/4147_enable_oauth_on_mobile_client,09,49d6899dc9a82957a26a55389de1834194fc9ce3,2018
+arches,2018-10-31T21:12:22Z,Jeffrey Munowitch,Merge pull request #4270 from archesproject/4161-Couch-to-postgres,10,777aaaa469f1ed48caff0a5ef1006102355df322,2018
+arches,2018-11-30T23:34:34Z,Ryan Anderson,Merge pull request #4284 from beatboxchad/4044_file_list_datatype_upload,11,7a7ef69219dceeb2c0ae9464e3002a1a82c5fbc1,2018
+arches,2018-12-29T01:41:21Z,Cyrus Hiatt,Indicates if a survey does not have the required properties to be activated. re #4357,12,f52c796a0b065c51d67e91cb9954a6ac363d8bb8,2018
+arches,2019-01-31T22:27:37Z,Ryan Anderson,Merge pull request #4497 from archesproject/update_4.4_pre_release_script,01,fcf49839d6183587a9a630faf624ed0a65c741c6,2019
+arches,2019-02-28T02:38:08Z,Cyrus Hiatt,Merge branch 'master' into stable/4.4.x,02,08b8fb505047447c32ef5fef568125beabce2c54,2019
+arches,2019-03-29T18:21:34Z,Rob Gaston,"cleanup and refactoring, re: #4669",03,e9da46be6836e4eff1857983c8f54d6b5ac8cb58,2019
+arches,2019-04-30T23:37:31Z,Alexei Peters,"load search components dynamically, re #4771",04,e5745705fcbb5bf0f9462ec60ca3209cdd9119aa,2019
+arches,2019-05-31T23:30:29Z,Cyrus Hiatt,lints,05,58330d6b32d4d457d9daf5f8ba1f2f988a648784,2019
+arches,2019-06-28T23:22:52Z,Alexei Peters,"add migration and remove temp json file, re #4907",06,4322e19aba970fd5159ed31a11c4168ae05fd1bf,2019
+arches,2019-07-31T23:48:03Z,Cyrus Hiatt,Adds migration to update report configs. re #4684,07,368ab7e15af90bd6ccbe762ab647491cd40c9254,2019
+arches,2019-08-31T00:42:29Z,Alexei Peters,"get search results rendering on search map, re #4984",08,fc1e3ee9209836d69d8f03c855f701c195157d3f,2019
+arches,2019-09-30T23:29:39Z,Alexei Peters,"small styling change for the search toolbar, re #2771",09,69eba19fd971c3927ece92bda41a66521e607e5b,2019
+arches,2019-10-31T23:15:29Z,Rob Sanderson,add export test for 4564,10,4ce869a337ea912e666e1142c65dd496781d7fb2,2019
+arches,2019-11-30T22:33:08Z,Dennis Wuthrich,Update search download panel layout,11,026feaff22f43f752474f56690deb0f929824f92,2019
+arches,2019-12-31T20:52:50Z,Cyrus Hiatt,Merge pull request #5777 from archesproject/5771_filter_node_widget,12,a3ec6ac6d7c774c81b27e5b1ac81c4fbd899c19b,2019
+arches,2020-01-31T16:58:29Z,Cyrus Hiatt,Merge pull request #5850 from archesproject/5849_update_docker_for_v5,01,8af3b8b8c3193e4087477cac5cc3af26f61dbf79,2020
+arches,2020-02-29T01:32:00Z,Alexei Peters,"add fixed size images as attachments to couch, re #5935",02,381624fa9e87b52036beac6a6894f1e70731b913,2020
+arches,2020-03-31T22:37:34Z,Cyrus Hiatt,Allows domain values to be used on different nodes.,03,be8b50d06cd25313db2ad4c7a7a36f2ebe1aba80,2020
+arches,2020-04-30T17:25:36Z,Cyrus Hiatt,Merge pull request #6145 from archesproject/2724_instance_permissions,04,51247ae62c9cc56909ced3ee9a0ce7ee3f2e1f19,2020
+arches,2020-05-31T22:57:35Z,dwuthrich,Merge pull request #6230 from archesproject/6226_search_provisional_UI,05,e60686dd95bba935942e5e999b661ca10dd02401,2020
+arches,2020-06-30T18:57:49Z,azaroth42,ensure slug is in JSON,06,d3ed46f70c3f4aca091b4721c3323bf6ec9c8f74,2020
+arches,2020-07-31T00:01:30Z,Cyrus Hiatt,Supports 'resource-instance' datatype in related resource map card re #6444,07,776d4b152307728198c72edf74518e9ea6ea16b8,2020
+arches,2020-08-31T23:03:15Z,Alexei Peters,"upgrade d3 to version 6, re #6469",08,6f0094d80ea6e3e89c2dadce61bb761a9cb08282,2020
+arches,2020-09-30T22:46:23Z,Alexei Peters,"localize strings in js files, re #6473",09,b71ebb2a5a279668f0cb05eaa365bce554cae3f7,2020
+arches,2020-10-31T23:48:57Z,Christopher Byrd,nit #6729,10,d37500cd9520566c4ddf2046afecec9f0ce3bc28,2020
+arches,2020-11-30T22:40:52Z,Cyrus Hiatt,"Adds geojson url option to search export, re #6908",11,01105a1faefe2b277a6f9c3a8331a42448e321a5,2020
+arches,2020-12-24T03:15:30Z,njkim,"Disable btns when canvas/image unavailable, #6895",12,ef4449e07479ecc0f28087d42ba39f03c6f9a65f,2020
+arches,2021-01-31T07:08:29Z,Christopher Byrd,nit #7067,01,86c9df0d1ef357a42e3e9456b0fc0a9b344d6f60,2021
+arches,2021-02-28T23:36:00Z,Dennis Wuthrich,fix position of map coordinate editor header,02,195ecadfd48181b55ae46dbc9407c1cb246e57aa,2021
+arches,2021-03-31T17:44:17Z,Cyrus Hiatt,"Move fetch of availabe workflows from custom workflow step to final step, re #arches-project/arches-her#578",03,77304e207a06c2ddb4c774c9ccc1923ff705feff,2021
+arches,2021-04-30T23:41:47Z,Cyrus Hiatt,Merge pull request #7366 from archesproject/7346_disable_editing_remote_manifests,04,60521dca60c98548bdecb1d8644787eb5fb1293a,2021
+arches,2021-05-31T23:53:04Z,whatisgalen,"sets prevent_indexing=False on async import_business_data task until #7416 addressed, re #7405",05,7968d5245b68efe63c9823bce2e85eb2c5b8d3d8,2021
+arches,2021-06-30T23:08:46Z,Rob Gaston,Merge pull request #7516 from archesproject/7515_add_dev_endpoint_to_get_token,06,5502019f1ec33af75cf6fe65dc531bc85dba7817,2021
+arches,2021-07-30T20:28:53Z,Christopher Byrd,Merge branch 'stable/5.2.x' of https://github.com/archesproject/arches into 7655-cbyrd-workflow-steps-data-driven-next-steps,07,b696f457efb62f9d00ca583e7f932c8a515df0b2,2021
+arches,2021-08-31T23:58:49Z,Alexei Peters,"make sure cytoscape graph has matching nodes for every edge, re #7681",08,b8ffaf3ed4c6fe4633643658042fd7fdce97e6d4,2021
+arches,2021-09-30T21:44:07Z,Cyrus Hiatt,Merge pull request #7851 from archesproject/7842_localizable_text_fields,09,3e6fdac0ca0562f8fe84ce7bb7682faedc2a6570,2021
+arches,2021-10-30T17:07:46Z,Angela Labrador,add update function,10,ca209917006f585fb11b2407c848b3f34fd0c59d,2021
+arches,2021-11-30T00:57:56Z,Alexei Peters,Merge branch 'i18n_ui_and_data' into 7805_i18n_domain_datatype,11,5b84cf8d0767cdb0513b5510031e275f1dec6d60,2021
+arches,2021-12-31T00:01:19Z,Aaron Gundel,fix missing information button in manifest manager plugin,12,451e28c78ee206b6f7ba363717549e314b750ce8,2021
+arches,2022-01-31T19:26:51Z,njkim,"Make function available in this context, afs#833; archesproject/arches-for-science-prj#833",01,6e75eeaaec67ec8c589b8f7c861f39d621e8f410,2022
+arches,2022-02-28T23:36:10Z,stickler-ci,Fixing style errors.,02,35b9f7b026b4233a79a5689e6f1b1c324aabc8b5,2022
+arches,2022-03-31T23:30:51Z,stickler-ci,Fixing style errors.,03,500785fdcff94a27e523fc665b6db78a945751d8,2022
+arches,2022-04-30T17:01:31Z,Christopher Byrd,adds async reports #8090,04,918fff7c9739abde4ee1fecb586c626ba448b477,2022
+arches,2022-05-31T22:15:09Z,Christopher Byrd,nit #8090,05,9532ac69c9249028528334eaae8e4027449d3208,2022
+arches,2022-06-30T23:27:51Z,Christopher Byrd,production build no longer removes comments from html #8090,06,f4ef6ec71158fc87e60f4d65e09f13fd37131d02,2022
+arches,2022-07-29T22:27:03Z,Christopher Byrd,nit #8090,07,fc73aee88979ce6c1152b2f789a77e73be4815e8,2022
+arches,2022-08-31T23:31:45Z,Christopher Byrd,Merge pull request #8937 from archesproject/8936-cbyrd-update-docs-for-7-release,08,2e0a3815db88c57199b8c5a04608ea7b58274d4a,2022
+arches,2022-09-27T21:01:52Z,Dennis Wuthrich,"Update background color of iiif widget gallery, re-position canvas filter",09,000b371317c5a78399a9750910d046b89892ffd6,2022
+arches,2022-10-31T23:59:49Z,Alexei Peters,Merge pull request #9071 from archesproject/8966_cherry_pick_9057_into_dev_7.1.x,10,8a699b788990309268ad14a19c9fd548e9281be9,2022
+arches,2022-11-30T23:08:31Z,Christopher Byrd,move future graph logic into Graph model #9053,11,8a847ed725cfc4d76ae4b90adb5b9b1ea9ec3e95,2022
+arches,2022-12-23T08:05:40Z,njkim,"Handle all nodes / all languages, #9141",12,51b826fe3dc05fe6ed3224dde7ffa4b9f49ac534,2022
+arches,2023-01-31T18:17:12Z,stickler-ci,Fixing style errors.,01,4442c1bfe16e7944915805c0d3e4e640448be9ec,2023
+arches,2023-02-28T21:48:54Z,Cyrus Hiatt,"Fix migration dependency conflict, re #9165",02,f4bbc3f9d8b47143c2f1a44446575aac253b4d4d,2023
+arches,2023-03-31T21:38:05Z,Johnathan Clementi,Allow check boxes to be clicked with enter key #9337,03,f39b85ef786aa5093be6b0cc9b34d4b88eccabd4,2023
+arches,2023-04-29T01:19:53Z,Christopher Byrd,Merge branch '9466-cbyrd-immutable-branches' of https://github.com/archesproject/arches into 9466-cbyrd-immutable-branches,04,b64784a2278538b96a714d2dd3631c9061980aad,2023
+arches,2023-05-31T23:36:21Z,Cyrus Hiatt,Merge pull request #9584 from archesproject/9582_map_layers_visible_by_default,05,067740b31148d7bb13defc580942b84c253e1b9e,2023
+arches,2023-06-30T23:18:17Z,Johnathan Clementi,Merge branch 'accessibility' into 9667_search_shift_focus_after_interactions,06,0711cfcbee2b5b30beaeca19a3cc55ed436140c6,2023
+arches,2023-07-31T22:51:09Z,Jacob Walls,Fix migration that left nodeless nodegroup behind,07,b43862f25dc59be8c2f2c06fb0a0ffb51ec32913,2023
+arches,2023-08-31T19:16:56Z,Johnathan Clementi,Provide placeholder text if display value can't be found #9883,08,e6bb987d448ec2ddaae9556ea51916d30a4efd7d,2023
+arches,2023-09-30T12:43:29Z,Cyrus Hiatt,Update version number,09,cd6866eff6ca37d50699b253a8f87ea0d438cca2,2023
+arches,2023-10-31T21:35:12Z,Christopher Byrd,nit #10224,10,8353fe2ff695925260e2e0f4d7b319f3349bea57,2023
+arches,2023-11-30T23:41:59Z,Alexei Peters,add placeholder for concept search in the RDM,11,99122d54aa3ff1c7becc714a23ccf9437ca720c3,2023
+arches,2023-12-29T22:00:46Z,Jacob Walls,Fix unclear required node message #9280,12,5a5dc3d3c11c0d6b02bf26672bacbc35c489cf7f,2023
+arches,2024-01-31T22:57:27Z,Christopher Byrd,PR feedback #10516,01,e8adc3960edd5b6a88a3077659de4276929abb85,2024
+arches,2024-02-28T20:06:52Z,Jacob Walls,Harden ResourceReport.get() against null sortorder,02,4951c847763859f2d742a760e8648c88544098da,2024
+arches,2024-03-29T22:01:26Z,Christopher Byrd,fixes inability to reverse migrate from past 9525,03,ed79c356fde73f6b9facca4f02fc3ae939f799a5,2024
+arches,2024-04-30T23:01:11Z,Johnathan Clementi,nit pr feedback #9788,04,dec775e87ad235a8fb3d367f2b29e484cf5abd17,2024
+arches,2024-05-31T21:25:57Z,njkim,"Add instruction in the release note, #10960",05,3df3617a70a059fdcf9ee7585543a847f09303ef,2024
+arches,2024-06-28T11:26:18Z,csmith-he,11099 Move if link statement outside if files statement and remove if not files statement & contents,06,099d7802f15970d2e265f22f7a22178cc49b3c96,2024
+arches,2024-07-31T22:30:59Z,Christopher Byrd,Merge branch 'dev/8.0.x' of https://github.com/archesproject/arches into 11042-cbyrd-resource-instance-lifecycle,07,9b2f19369166764b6d323330f41a5adc06f228fb,2024
+arches,2024-08-31T22:41:19Z,Galen,"rm default of None for popping query off obj, re #11414",08,a4e1bbe8c3d464403a6dbe048d45dbc29ec93b49,2024
+arches,2024-09-28T19:35:42Z,Cyrus Hiatt,Indicate if user has no etl module permissions (#11506),09,de7d083addf8448749b9cac68fc049aa3e4bb6fb,2024
+arches,2024-10-31T20:43:02Z,Christopher Byrd,Merge pull request #11598 from archesproject/11591-cbyrd-remove-declarations.d.ts-testing,10,7243ae3f8b7db1629ded2df4accbca9ee1a01a5b,2024
+arches,2024-11-25T18:15:22Z,Cyrus Hiatt,Add tile sort order to bulk data manager (#11638),11,f3390eff2ff5fe8eca899d2b3f199868fcea1575,2024
+arches,2024-12-23T10:05:16Z,Mike Griniezakis,update changelog #11442,12,b9c592f825343ad6e60123a1dcacb2b656be5e95,2024
+arches,2025-01-31T23:18:57Z,Jacob Walls,Resolve TODO for add_to_update_fields in Resource,01,736e40758bf291a5cb03d385928360e7f40fd7ad,2025
+arches,2025-02-26T00:20:40Z,Cyrus Hiatt,update changelog for #11711 (#11819),02,e019f8b54fa13e32b6e5a91e8e9dc78eb358e13f,2025
+arches,2025-03-31T22:21:58Z,Christopher Byrd,Merge pull request #11881 from archesproject/cbyrd-remove-amd,03,54170ce0d0f0e7b0f70329015fe003a13f273a05,2025
+arches,2025-04-29T14:43:48Z,Jacob Walls,Prevent migrations when changing FILENAME_GENERATOR #12008 (#12009),04,df4e35741c0f945894c742c4b0835192471668a1,2025

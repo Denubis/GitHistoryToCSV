@@ -1,0 +1,21 @@
+item_name,date,author,message,month,sha,year
+Seriation,2012-11-20T22:20:30Z,Carl Lipo,updated code to add Excel writing file (but not done),11,b4c516d22a5b2d0a4de395e754291f94bd277d8f,2012
+Seriation,2012-12-29T19:01:57Z,Mark Madsen,"Finished combinatorics and timing on multiple seriation groups, to compare timings from single group to multiple",12,0fc70c04c21275713f57a3fc9e3a4a68db8dc99c,2012
+Seriation,2013-01-27T19:18:36Z,Carl Lipo,some additional debugging output,01,b1dc6baa11963b38972948cb3a92dfc81dfd7dda,2013
+Seriation,2013-02-26T20:16:16Z,Carl Lipo,Merge branch 'master' of https://github.com/clipo/Seriation,02,cd78b8d6a227e96e83c6c51080449f225cd1a462,2013
+Seriation,2013-08-28T23:59:55Z,Carl Lipo,began conversion of the perl version of IDSS to python...,08,b46cb7ca00ed05f85df0279496545f2f76944ed4,2013
+Seriation,2013-09-30T21:51:43Z,Carl Lipo,adding output code. Lots more to do,09,75abf29a06f05fc9f185d71499b792396409fe5e,2013
+Seriation,2013-10-14T15:35:26Z,Carl Lipo,Basic functioning version.,10,2583d714c6278fbaf081a1ed0cf613a71a6cde09,2013
+Seriation,2013-11-20T19:47:16Z,Carl Lipo,clean up for code,11,33f1ceb5d1e328fa2ffe4861eda9a8207ca21651,2013
+Seriation,2014-01-31T23:02:50Z,Carl Lipo,now uses uuid. a .p processing directory is created for the pickle files if non exists.,01,356f5bceaa54f6da0ee1369290d5915e4e4193aa,2014
+Seriation,2014-02-22T17:00:35Z,Carl Lipo,updated instruction text,02,819be75861c19059ced1f9a420865f20c24627d7,2014
+Seriation,2014-03-04T20:15:59Z,Carl Lipo,made the multiple=0 default for commandline operations.,03,34c2d18c07b18183f92b68e17a5f7d2336d787bc,2014
+Seriation,2014-04-29T18:27:20Z,Carl Lipo,added bootstrap sample size evaluation stuff. Not integrated yet....,04,cf7cf3ccc8647595393524f3552ab3468bd08b0e,2014
+Seriation,2014-07-05T02:58:29Z,Carl Lipo,added travis.yml,07,b548c9ef0807253ccca27c239aeea8bec5d1e4ed,2014
+Seriation,2014-08-25T22:12:23Z,Carl Lipo,working on figuring out why 1-5-A6-A10 are not showing up as a valid solution but 1-5-B6-B10 are...,08,ca9a0ae1b010abf9082f63cae2ef29576709d698,2014
+Seriation,2014-09-30T04:24:35Z,Carl Lipo,Merge remote-tracking branch 'origin/master',09,8fe249190a50f5de1eefd7ade6b4026a2cea8d2e,2014
+Seriation,2014-10-17T22:25:37Z,Carl Lipo,tweaking the output.,10,9e0143afb836c5b8619b42d3fb899ee9933b7096,2014
+Seriation,2014-11-20T21:07:45Z,Carl Lipo,added standard deviation of randomly generated geographical distance solutions.,11,0eddd5fea7203844253d9dec88ff797cd4d77db7,2014
+Seriation,2014-12-15T17:19:49Z,Carl Lipo,now using sharpshooterR,12,16e28613b65f845bdf7663ff810fda1648e4efc5,2014
+Seriation,2015-04-07T22:44:19Z,Carl Lipo,small edits,04,e5eeb867fa24d18f8d9581e8b3a72b0b7343b6c9,2015
+Seriation,2024-11-04T00:52:53Z,Carl Lipo,updated occurence seriation macro ,11,7e50f3d269d9ef97e5ec80608f077bc75d46419d,2024

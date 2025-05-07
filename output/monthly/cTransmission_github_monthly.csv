@@ -1,0 +1,5 @@
+item_name,date,author,message,month,sha,year
+cTransmission,2019-03-31T18:24:40Z,Enrico R. Crema,Vignette,03,cebff95eda06fecc6e9c16f8dc02c62d0dae953d,2019
+cTransmission,2019-04-11T20:47:31Z,Enrico R. Crema,Updated version number,04,4716cc43eeb4fa72f4524d0890deaad6d8e65a60,2019
+cTransmission,2020-03-13T12:09:05Z,Enrico R. Crema,Merge pull request #1 from parkgayoung/patch-1,03,be88a0f548f4c7ae4b298c8993aff674198e5cab,2020
+cTransmission,2020-05-14T17:43:29Z,Enrico R. Crema,Enable the recovery of raw simulation outputs and parameters,05,efba0e335c419ead237b36d43d6683aa4aa7cc6c,2020

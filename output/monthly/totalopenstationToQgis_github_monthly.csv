@@ -1,0 +1,6 @@
+item_name,date,author,message,month,sha,year
+totalopenstationToQgis,2022-05-31T09:14:59Z,enzo,Add files via upload,05,ea616ae80c7def0e8517507c58bcb3198425ba75,2022
+totalopenstationToQgis,2022-06-22T16:43:28Z,enzo,Update metadata.txt,06,b239710187370f306154fb51334b6ee5c8f56d56,2022
+totalopenstationToQgis,2022-07-30T15:42:00Z,Enzo,v5.2,07,d6a286fae9b910c9ebbfdd299a79edc84e506d40,2022
+totalopenstationToQgis,2022-08-26T07:20:52Z,enzo,Merge pull request #7 from enzococca/remove_duplicate,08,ccfd6d1af62a747f4d19983087d6d89bbcb387eb,2022
+totalopenstationToQgis,2023-11-15T15:18:20Z,enzo,Add error handling for binary file reading and switch to ISO-8859-1 encoding when opening files in totalopenstation-cli-parser.,11,62527d9a3126b8eb2cd70f618bd839f51bb5dc5f,2023

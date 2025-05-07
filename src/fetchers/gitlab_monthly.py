@@ -155,5 +155,5 @@ class GitLabMonthlyFetcher:
             # Log error to CSV
             from src.utils import log_error_to_csv
             error_msg = f"Error fetching GitLab monthly commits: {str(e)}"
-            log_error_to_csv('output/errors/gitlab_errors.csv', repo_info, 'gitlab', error_msg)
+            log_error_to_csv('output/errors/error_log.csv', repo_info, 'gitlab', error_msg)
             return []

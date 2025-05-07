@@ -1,0 +1,23 @@
+item_name,date,author,message,month,sha,year
+mobest,2020-03-30T16:51:23Z,Clemens Schmid,I think I finally found a working solution to angle calculation,03,a8655077bdeb8eb403a7db7c0fde43df59bb32a2,2020
+mobest,2020-04-22T12:04:30Z,Clemens Schmid,made crossvalidation script more independent of input vars,04,323a4acb4597b510299fdeafae3721c60c668086,2020
+mobest,2020-05-20T12:14:59Z,Clemens Schmid,"Revert ""idea: min distance for angel calculation to only get meaningful results?""",05,7a9955783fc275891161e8e395f4068290a5927d,2020
+mobest,2020-08-25T18:47:32Z,Clemens Schmid,code for spatial search area limitation if it ever gets necessary again,08,35415781d85cf930af8950e2613a09de7dda9299,2020
+mobest,2020-09-29T19:29:42Z,Clemens Schmid,small fixes in crossvalidation code,09,613ccb3373791cdb50bac5a1d274b5c85d108c81,2020
+mobest,2020-10-26T13:44:15Z,Clemens Schmid,nested pbapply breaks some times,10,77f678f9982002509cf8f8d976eee06b1b46b6be,2020
+mobest,2020-12-15T15:00:24Z,Clemens Schmid,unfinished work in making search_spatial_origin capable of search based on input points,12,eed6ff0e39c500410c2ba86af5cd0808e5da0353,2020
+mobest,2021-01-20T22:17:52Z,Clemens Schmid,finally added some minimal documentation for all functions,01,f0f6026310527d5199e5d70b231535bba9717ef9,2021
+mobest,2021-02-22T17:47:03Z,Clemens Schmid,version bump,02,a7294eee81646443c1883d15fb4c8318201c2b41,2021
+mobest,2021-09-12T14:31:36Z,Clemens Schmid,added a sentence about the new functions to the README,09,1c5fbfaac2ed675c096f354aa9dd1a3c392b6350,2021
+mobest,2021-11-19T14:45:32Z,Clemens Schmid,made README text a bit more universal,11,46eb104c3063ba5f9039aa348e9c27de6701a8f0,2021
+mobest,2021-12-21T14:31:58Z,Clemens Schmid,deleted outdated shiny app files,12,1f7e4cc9ee5d7a18e0ee54f705936c9b412253a2,2021
+mobest,2022-03-22T16:01:51Z,Clemens Schmid,Merge branch 'master' of github.com:nevrome/mobest,03,2fce13d9b56b15528fb983e04f5ab89de388e8c6,2022
+mobest,2022-04-29T16:33:06Z,Clemens Schmid,hard work to bring the origin search back to live,04,5efb573abb6ae848077c98ab57c09d81f1e44c22,2022
+mobest,2022-05-25T13:03:50Z,Clemens Schmid,for practical reasons I softened the name equality condition of dependent and kernel,05,7ee982ebf7a74899292050bd9eebeefa870c47c7,2022
+mobest,2022-06-02T11:50:24Z,Clemens Schmid,Merge pull request #6 from nevrome/progress,06,90465ced1f0889c5ae2040cb7c16130aebfeeca0,2022
+mobest,2022-07-28T09:45:32Z,Clemens Schmid,forgot some important grouping conditions for the normalisation,07,a0faacd3610f7cb3b9f74beca72e5c68af8f30f9,2022
+mobest,2022-08-24T11:13:04Z,Clemens Schmid,made search_time (retrospection distance) an output variable of locate,08,22745ae88ede08e989cab65270962d006f182f4f,2022
+mobest,2022-09-26T14:05:51Z,Clemens Schmid,head and tail are suprisingly not in base,09,85c1ff22c77e8ff3bcec8d876683ecd92add63d4,2022
+mobest,2023-02-24T09:44:58Z,Clemens Schmid,added version number to README,02,b2066cd628a04d61bd8174b959d36df3e0cc9cc6,2023
+mobest,2023-09-30T15:39:29Z,Clemens Schmid,some small additions to the documentation,09,01a3c47e9b91f37d61ad529b097ffba0f7c2dde1,2023
+mobest,2023-10-23T13:48:13Z,Clemens Schmid,replaced the README file,10,e7e2118e5a290ff09fd447daf00a8ff61ae42cf1,2023

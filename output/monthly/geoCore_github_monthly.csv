@@ -1,0 +1,11 @@
+item_name,date,author,message,month,sha,year
+geoCore,2020-08-18T08:14:09Z,"Bette, Gerrit Utz","o update metadata (description, tags, tracker, category)",08,5ceb17dc12200bdc4159157a645db0da1beb553c,2020
+geoCore,2020-09-25T12:41:03Z,"Bette, Gerrit Utz",o correct company name,09,81a251f7a56455342861927d6a421f967cb96376,2020
+geoCore,2020-10-30T06:43:27Z,"Bette, Gerrit Utz",o correct formatting of numbers,10,21881951f417c307e8aaa7249225df006ef88fc5,2020
+geoCore,2020-11-30T10:34:32Z,"Bette, Gerrit Utz",version 0.6,11,fb684f4f770e5e0eb6cd6400a6810c9a5d443c83,2020
+geoCore,2020-12-18T12:46:23Z,Gerrit Bette,Merge pull request #33 from MoritzMennenga/master,12,81373cefc0b2d8dcd86e13efb2a98f148b9aa1dc,2020
+geoCore,2021-01-28T13:34:34Z,"Bette, Gerrit Utz","+ adjust gauge to multiples of 0.1 m, 5 m or 10 m dependent on magnitude",01,6b0940ccde7059837be62ce35ee5d1061169a670,2021
+geoCore,2021-02-19T06:03:16Z,"Bette, Gerrit Utz",o restore .gitignore (was accidentally deleted in 7f65841466be1c8),02,71d24ccc0a70b92b6f84a5e8135f262cccca2eb6,2021
+geoCore,2021-04-20T09:24:39Z,"Bette, Gerrit Utz",o silence pylint,04,9b4a350d28f000774f9ad3f9b8c936553ef9af54,2021
+geoCore,2021-07-16T10:26:59Z,"Bette, Gerrit Utz",4,07,f2141f90fe55b394c983b98e23d25de1732fe32f,2021
+geoCore,2021-08-09T10:01:20Z,"Bette, Gerrit Utz",o version 0.8.1,08,5be7823072469cd60e02784debcaffcc9684a81b,2021

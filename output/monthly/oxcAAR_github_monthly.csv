@@ -1,0 +1,24 @@
+item_name,date,author,message,month,sha,year
+oxcAAR,2015-09-30T06:50:14Z,martin,corrected calculation of probabilities: multiplied by probNorm,09,039a0f7f90494fa7cff0a0bd508a3960c821e3db,2015
+oxcAAR,2017-06-26T15:23:09Z,MartinHinz,installed framework for tests and added with_mock to avoid testing oxcal itself,06,59d19584c0ef860ee079101489f322d25e6dce5d,2017
+oxcAAR,2017-07-27T15:50:43Z,Martin Hinz,Merge pull request #15 from dakni/master,07,b016572af5ec3b79de5c2b7b688ba82274e068a8,2017
+oxcAAR,2017-08-29T20:25:23Z,nevrome,made quickSetupOxcal() a little bit more smart,08,c1f08f092778dddabd98abb10711df09616af330,2017
+oxcAAR,2017-09-07T15:42:26Z,ctietze1991,Merge branch 'master' of https://github.com/ISAAKiel/oxcAAR,09,7df23d2a2ed9073eca8ff013ec6caad3df7b9ac4,2017
+oxcAAR,2017-11-28T12:27:36Z,nevrome,changed test accordingly,11,5b4c9dcab86c54a8e2154cdbd45e00a2862e3a64,2017
+oxcAAR,2018-02-09T17:24:13Z,Martin Hinz,added download badges for readme,02,70bab704841512b6b575ab59d65eaa1697cd4cd6,2018
+oxcAAR,2018-03-14T17:12:44Z,Martin Hinz,Merge pull request #19 from ISAAKiel/dev_parse_modeled_dates,03,45ce867e7cfe1da48fa381e3e34368a6ae15b81a,2018
+oxcAAR,2018-06-07T19:16:16Z,Dirk Seidensticker,Update README.md,06,a7d1e341223b40f8a30d574e2ea2af24eead2c7a,2018
+oxcAAR,2018-08-31T22:14:13Z,nevrome,didactic test code to understand parsing operations -> should be tested anyways,08,0cacf04ab93acb68e45265e904767ec70de1a88c,2018
+oxcAAR,2018-11-04T12:39:10Z,Martin Hinz,Merge pull request #23 from ISAAKiel/fix_na_errors_in_formatDateAdBc,11,e84a52f27e7058d6be5d73a1adc67a01c1d6c896,2018
+oxcAAR,2019-07-12T07:15:32Z,Martin Hinz,hardened extractPosteriorProbs against empty results,07,3570b807819e96dc20f7be8401f35019181548cc,2019
+oxcAAR,2019-09-25T18:00:13Z,Dirk Seidensticker,set last prob to 0 if range end at 1950.5,09,35f9dbc78762382543f08cf0cc2c984880e1bb52,2019
+oxcAAR,2019-10-31T14:06:25Z,Martin Hinz,Merge pull request #28 from dirkseidensticker/fix_plot_youngdates,10,08c058f4a803dfd465dbe55e0ba3896ff951f23d,2019
+oxcAAR,2019-11-05T09:57:41Z,Martin Hinz,simpler and bidirectional correction for plot problem with out of range data,11,b7b3a5e05b6819a444120c5e703888f50355b9d2,2019
+oxcAAR,2020-02-14T13:11:02Z,Martin Hinz,moved labels for dates inside the plot at calibrateddateslist,02,ab9450811b7db46dc90faea70379f6e7dc196ef4,2020
+oxcAAR,2020-07-08T15:22:01Z,Martin Hinz,Update README.md,07,6ce60f871a40bbdf3b179233722b2f40b23d085a,2020
+oxcAAR,2020-09-30T14:47:07Z,Martin Hinz,trying to use focal again,09,9f60408bc3f10857f7184eff2133618bc96c913c,2020
+oxcAAR,2020-10-08T11:10:11Z,Martin Hinz,Merge pull request #33 from joeroe/master,10,c690bd417e508dc86e009de258a32c2256ac7766,2020
+oxcAAR,2021-01-29T15:51:38Z,Martin Hinz,added winbuilder note,01,0bd3bce27e746b03b836bf9c228afa62a2b789a8,2021
+oxcAAR,2021-02-23T14:53:58Z,Martin Hinz,Delete CRAN-RELEASE,02,2578090f59346a428e63be9e7278e1a88000c3c6,2021
+oxcAAR,2021-07-05T16:53:30Z,Martin Hinz,cran resubmit,07,109a20de7e808065448aad46b3246ff06e1eab6d,2021
+oxcAAR,2022-09-17T14:10:29Z,Martin Hinz,Merge pull request #47 from nfrerebeau/master,09,8cf23dd97d769d32b1050e684fec6569e68d8ebb,2022

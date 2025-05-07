@@ -1,0 +1,13 @@
+item_name,date,author,message,month,sha,year
+yada,2018-05-23T23:26:10Z,Michael Holton Price,Added nllsiler to siler.R,05,a0d23bf3db93b24d962a04f0c15828ff3ee53b12,2018
+yada,2018-06-15T21:15:46Z,Michael Holton Price,Updated constant and linear hazard simulations in suvival GoF vignette,06,55d0da6ff84aa97fe5aae506a2d987cf3759366e,2018
+yada,2018-08-16T20:56:49Z,Michael Holton Price,Fixed bug in list returning output of Siler fit,08,067b587c1478cbda1714a1e9b84432d721debfb0,2018
+yada,2018-10-31T20:23:06Z,MichaelHoltonPrice,Converted commenting for bayDem_doInference.R and bayDem_loadCalibCurve.R to roxygen2 complient documentation,10,9666b6c760daa396897c038b241ebbaa3e0d7fde,2018
+yada,2018-11-29T23:16:01Z,bocinsky,Add raw intcal13 calibration data,11,434bb35372800e90466d76810863ba1a424ed7ee,2018
+yada,2019-01-15T18:07:51Z,MichaelHoltonPrice,Reduced default eps for Hessian calculation in fitSilerMaxLik and added the ability to set it,01,e1c0cb3d332856862c6a7bb68d73020e463482da,2019
+yada,2019-03-06T00:08:03Z,MichaelHoltonPrice,Now calculating Siler Hessian analytically instead of numerically,03,c5c9782fb6b917ec4a0130a2836ace3df65da386,2019
+yada,2020-02-24T06:59:12Z,Michael Holton Price,Added gradient calculations with tests to help with optimization,02,ab34f6f2aae3a99ca855741883e93704e0aeb020,2020
+yada,2020-03-06T19:55:37Z,Michael Holton Price,Updated NAMESPACE,03,306192b73056afc62aa574dd84c066d61dd89f5e,2020
+yada,2020-04-16T23:48:19Z,MichaelHoltonPrice,Fixed merge conflict for,04,d206f327896481b58c634d53fb0f200474fe0b2a,2020
+yada,2020-05-26T17:38:10Z,MichaelHoltonPrice,Fixed some issues with variables set to NA in cdepGroups,05,0d6fafe4db30e78789a35469220a0fa3d822e31a,2020
+yada,2020-06-15T00:22:57Z,MichaelHoltonPrice,Fixed bug in powLawSigma,06,dd3e680ed8001f49ccec64383b7187c86ae9f91b,2020

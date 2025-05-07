@@ -1,0 +1,9 @@
+item_name,date,author,message,month,sha,year
+MAX,2018-04-26T10:23:35Z,Stefanie Schneider,Update main.css,04,e3d1e692b5c385f1953363ed3d55701496d130f8,2018
+MAX,2018-05-17T09:05:33Z,Stefanie Schneider,Update main.css,05,7b6e137cba8179a4a0f20fed9391003aa7e91024,2018
+MAX,2018-10-26T14:53:25Z,Stefanie Schneider,Update main.css,10,78700517f69c4f8248afd5d2b28113ed665a6591,2018
+MAX,2019-03-27T17:03:06Z,Stefanie Schneider,Update README.md,03,1b77417f2f2304cb79b83c7d6a9c550d092b4e6f,2019
+MAX,2020-03-31T15:43:35Z,Stefanie Schneider,Small bugfixes,03,e6c02e57898089992f2d0a866c3eb481422033fb,2020
+MAX,2020-06-26T13:28:14Z,Stefanie Schneider,Add reference,06,24fc04becac1f91f46b2bdc6ffb87f9a21fda3b3,2020
+MAX,2020-07-10T10:35:20Z,Stefanie Schneider,Extend tutorial.js,07,d940aa74e9a052e5ff2b815a0e80ed8a48dccfb5,2020
+MAX,2020-10-20T11:37:31Z,Stefanie Schneider,Add language switch,10,8c62bba2236e9fa131a7b154577d295332f873a6,2020

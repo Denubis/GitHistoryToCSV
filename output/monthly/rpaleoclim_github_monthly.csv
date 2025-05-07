@@ -1,0 +1,9 @@
+item_name,date,author,message,month,sha,year
+rpaleoclim,2019-07-29T11:39:51Z,Joe Roe,Add support for cropping by extent,07,84260a4839cfcae7dcef0247da103ca4d9ab45c8,2019
+rpaleoclim,2019-10-03T11:00:58Z,Joe Roe,Update base URL,10,ce3c2310673cec756182adeca73f084a9a5d568f,2019
+rpaleoclim,2022-02-16T14:14:25Z,Joe Roe,Add vignette #12,02,f7aadb96432f543df56b482359b15f30ad956a07,2022
+rpaleoclim,2022-05-30T10:26:39Z,Joe Roe,"Fix period ""mis19""",05,03db4cc757f36004d518d63bbe79fe5ea9534141,2022
+rpaleoclim,2023-04-27T11:25:24Z,Joe Roe,Submit to CRAN,04,f3eb9b668fdabbbd6874027e06abb69dd8757b71,2023
+rpaleoclim,2023-05-12T12:56:34Z,Joe Roe,Add analytics,05,db861e610de5aefd56238ae7e6f4b51f2058c450,2023
+rpaleoclim,2023-07-25T09:02:36Z,Joe Roe,CRAN submission,07,379dd9637a941266fe18d341092b8462db9d02c1,2023
+rpaleoclim,2023-08-09T09:05:06Z,Joe Roe,Bump version,08,b16fcb8dc57e8c6d7c6a71a72e352f89aa276ce3,2023

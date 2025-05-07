@@ -1,0 +1,87 @@
+item_name,date,author,message,month,sha,year
+pleiades.datasets,2018-03-23T15:14:23Z,Tom Elliott,JSON updates 20180323,03,82fbb7134ef5750c41d48b6c7e785466ff8b1e0f,2018
+pleiades.datasets,2018-04-26T17:54:45Z,Tom Elliott,20180426 updates,04,4932f0900ab24924e9e262b4ed02cbea55498d43,2018
+pleiades.datasets,2018-05-21T16:30:51Z,Tom Elliott,20180521 updates,05,fcc058f60511dab62d77033a34f618ef65ff56b2,2018
+pleiades.datasets,2018-06-23T14:24:21Z,Tom Elliott,20180623 JSON updates,06,f48b43b74d5a1794e437bf66ec783f00b65bde8e,2018
+pleiades.datasets,2018-07-31T15:53:08Z,Tom Elliott,20180731 updates,07,139147aa5a3d4db5a80d522eefcfa5df0941a4d5,2018
+pleiades.datasets,2018-08-28T22:35:18Z,Tom Elliott,updates 20180828,08,fea34b3ffce5dba95363b38e94b7be5fda78bd55,2018
+pleiades.datasets,2018-09-26T22:38:21Z,Tom Elliott,20180926 updates,09,84d50865012a942ff6ab3a716743275bf51932e8,2018
+pleiades.datasets,2018-10-29T14:38:11Z,Tom Elliott,20181029 updates,10,c0514d128e789ad648f7c7765984e8f443b4d6a3,2018
+pleiades.datasets,2018-11-30T17:00:33Z,Tom Elliott,20181130 updates,11,a5a3999fad7c7058c8ff83f5946465d709a5a67e,2018
+pleiades.datasets,2018-12-28T17:56:09Z,Tom Elliott,20181228 updates,12,3c8d6c2060a9b5d3f0540b14d15c8a856826e129,2018
+pleiades.datasets,2019-01-25T14:48:35Z,Tom Elliott,20190125 updates,01,71b26036b8f8d3919230becf951a67767fd80806,2019
+pleiades.datasets,2019-02-21T11:41:50Z,Tom Elliott,20190221 updates,02,628a9f7465f8d462d16df61e324eb5d4eb20aa4f,2019
+pleiades.datasets,2019-03-25T20:40:15Z,Tom Elliott,updates 20190325,03,98349da568152423885d13e8ab78489f42fd3f07,2019
+pleiades.datasets,2019-04-23T21:21:10Z,Tom Elliott,updates 20190423,04,30c415e309aa43492c71f846d35ef04e57e08901,2019
+pleiades.datasets,2019-05-16T14:45:02Z,Tom Elliott,updates 20190516,05,2d4ba7be05b030d97536c119b281defd42b2fd93,2019
+pleiades.datasets,2019-06-17T10:56:12Z,Tom Elliott,updates 20190617,06,54adc70b987d8e6269858707915e152becddf4d4,2019
+pleiades.datasets,2019-07-30T19:32:09Z,Tom Elliott,20190730 rdf/ttl updates,07,4e86f3e75acb40c5a6485c32c0945dd1afa4f1e7,2019
+pleiades.datasets,2019-08-27T15:22:12Z,Tom Elliott,csv updates 20190827,08,faa76fa4f0156694d551d49e86c3dbe9004f6aba,2019
+pleiades.datasets,2019-09-30T19:57:32Z,Tom Elliott,csv update 20190930,09,76e71d09d01cfcaa00bfe2bf82dc9c50d2e9897c,2019
+pleiades.datasets,2019-10-07T09:45:42Z,Tom Elliott,rdf/ttl updates 20191007,10,de5336869d9bb5815f6ffa0eb430551dc70e125e,2019
+pleiades.datasets,2019-12-18T18:54:34Z,Tom Elliott,rdf/ttl update 20191218,12,d64ffde7d13079fa3276d51961ebde774ab01963,2019
+pleiades.datasets,2020-01-31T11:15:48Z,Tom Elliott,rdf/ttl update,01,d67ed9ce5f2e0b8dd886edf6315379487b8597d7,2020
+pleiades.datasets,2020-02-27T18:06:50Z,Tom Elliott,updated credits page html,02,e7a9ed906fbaec096c407772558f4c9a6124cea6,2020
+pleiades.datasets,2020-03-24T14:20:59Z,Tom Elliott,rdf/ttl updates,03,8a6b60bf79de79733a37ed8acf42a3221f1acf34,2020
+pleiades.datasets,2020-04-29T15:44:27Z,Tom Elliott,rdf updates,04,6d88655d0628d89922cda688da8ae35eca38e6f3,2020
+pleiades.datasets,2020-05-29T11:10:38Z,Tom Elliott,updated rdf/ttl,05,091f76cc6cc43f7a15fa5cc561de858b51ad307b,2020
+pleiades.datasets,2020-06-28T11:54:36Z,Tom Elliott,adjust paths in script for new data directory,06,c805343662e23e7e0f292009175e42ff235082a0,2020
+pleiades.datasets,2020-07-27T10:45:59Z,Tom Elliott,updated rdf/ttl,07,afa62aae8244f7c80fef2bcc11f5fe13634e6ba1,2020
+pleiades.datasets,2020-08-31T18:12:45Z,Tom Elliott,updated json,08,e50416d4a045e4b5be1cfe61148ce27b684ce6c2,2020
+pleiades.datasets,2020-09-30T10:14:30Z,Tom Elliott,updated json,09,2040639451b297e7ef06089947cc45ae8b3f52e4,2020
+pleiades.datasets,2020-10-30T10:11:48Z,Tom Elliott,updated json,10,9988181508dbf5be31416c24410b09394c115d3c,2020
+pleiades.datasets,2020-11-30T13:11:03Z,Tom Elliott,updated json,11,9c4bab03f624395bb619e0a8d4d6f7d6bc163553,2020
+pleiades.datasets,2020-12-30T16:14:06Z,Tom Elliott,updated json,12,9423f99a4fc42c95af0f9b5e98457f44efd3d5d5,2020
+pleiades.datasets,2021-01-31T13:33:56Z,Tom Elliott,updated rdf/ttl,01,cbbf8bd03555a1c7870c59f348765a54f085449d,2021
+pleiades.datasets,2021-02-28T23:42:53Z,Tom Elliott,updated rdf/ttl,02,d426eac14346215184f16a449a3c06c28fc77b03,2021
+pleiades.datasets,2021-03-29T13:53:31Z,Tom Elliott,updated json,03,df5f90c088d56f0b911958cea8909209890813e4,2021
+pleiades.datasets,2021-04-30T11:32:40Z,Tom Elliott,updated json,04,0d3ecda2ff766be5ed083e5ba789cd32b9cf1184,2021
+pleiades.datasets,2021-05-31T21:14:55Z,Tom Elliott,updated rdf/ttl,05,3f65da8928dda4fa287026253f864dbc4c20015d,2021
+pleiades.datasets,2021-06-22T21:26:59Z,Tom Elliott,updated rdf/ttl,06,56503a7608c7092967bd0a40a9facb086c8922b9,2021
+pleiades.datasets,2021-07-22T10:53:04Z,Tom Elliott,updated json,07,432a041ab36682264711f972d0baf2e69a3f9cb5,2021
+pleiades.datasets,2021-08-31T13:13:52Z,Tom Elliott,updated json,08,7889908990e26f152913d4127ed753f0fee6d681,2021
+pleiades.datasets,2021-09-28T13:26:11Z,Tom Elliott,updated json,09,1f84f41a7edd4242c6289ab9b9207e33eb0da02e,2021
+pleiades.datasets,2021-10-31T13:54:15Z,Tom Elliott,updated rdf/ttl,10,2b218e0876789f7efc263f6433b96c17e0ae7706,2021
+pleiades.datasets,2021-11-30T12:07:48Z,Tom Elliott,updated json,11,96b69bfc4d0a25c84ead7dd4ef3ba043fbc9004e,2021
+pleiades.datasets,2021-12-31T12:40:42Z,Tom Elliott,updated json,12,5b3a2611eece9516d0c9e4ea793c10a86194cfd1,2021
+pleiades.datasets,2022-01-31T12:41:49Z,Tom Elliott,updated json,01,bd9798e8425be94109a91554d2b8e6c5948d33f6,2022
+pleiades.datasets,2022-02-28T13:27:23Z,Tom Elliott,updated rdf/ttl,02,15910f8e7a5e664c33c7f884823e55d7be80c1ef,2022
+pleiades.datasets,2022-03-31T12:42:49Z,Tom Elliott,updated json,03,d983277719ecde49a9e8c92a5400106b4e0eadde,2022
+pleiades.datasets,2022-04-29T10:53:31Z,Tom Elliott,pick up latest changes from main,04,e126276389610e390acb384220e5089ec7075435,2022
+pleiades.datasets,2022-05-31T16:04:24Z,Tom Elliott,updated gis,05,d29ff83d7a1f838fce677c4aaea56a4c050549bd,2022
+pleiades.datasets,2022-06-30T10:54:21Z,Tom Elliott,updated gis package,06,614064a0de76afb0ee697911b41395a164d177ae,2022
+pleiades.datasets,2022-07-29T15:34:27Z,Tom Elliott,updated gis package,07,4b409c6cca5851daed090a9f0f31775106d66e1e,2022
+pleiades.datasets,2022-08-31T14:56:42Z,Tom Elliott,updated gis package,08,5a8357119a29af04b6ca7042149eb5b064c92267,2022
+pleiades.datasets,2022-09-30T12:49:30Z,Tom Elliott,updated gis package,09,45f17e132594ff494d464273f091f337ebd86c8e,2022
+pleiades.datasets,2022-10-31T13:16:40Z,Tom Elliott,updated gis package,10,1e7338c243b372794103f859c36c1b76800c592d,2022
+pleiades.datasets,2022-11-30T12:49:25Z,Tom Elliott,updated gis package,11,568b58a1aadf6cc176547b0aaab5f1ffe1f91f8c,2022
+pleiades.datasets,2022-12-21T12:04:25Z,Tom Elliott,updated gis package,12,1568a51555c069832b955b0edbd54c720be18e52,2022
+pleiades.datasets,2023-01-31T14:50:45Z,Tom Elliott,updated zotero csv,01,870516a4099bf68a70db785bd16d563693417c69,2023
+pleiades.datasets,2023-02-28T13:55:46Z,Tom Elliott,updated zotero csv,02,824de58e3635ecfa1867214678cada1305d855d7,2023
+pleiades.datasets,2023-03-31T13:28:09Z,Tom Elliott,updated json,03,5422a219af3f24cbefba1c3c2699e48b1c27874d,2023
+pleiades.datasets,2023-04-28T12:40:35Z,Tom Elliott,updated bibliography,04,63d66215c72833e20a4c59e89ee9a7fda9ce7cce,2023
+pleiades.datasets,2023-05-31T13:29:24Z,Tom Elliott,updated bibliography,05,89ddb1db42197cc0b34e56480c06e43c592dd733,2023
+pleiades.datasets,2023-06-30T18:33:32Z,Tom Elliott,updated bibliography,06,1c070aabf07bcaf434b0eea59a78de836f41f7d3,2023
+pleiades.datasets,2023-07-31T16:23:53Z,Tom Elliott,updated bibliography,07,e30b8ec33bc4719a529c2c6fc27dbd3e5a248cf8,2023
+pleiades.datasets,2023-08-31T13:25:41Z,Tom Elliott,updated name index,08,db06174f308eb33da94262cf41d9a57e132141da,2023
+pleiades.datasets,2023-09-29T12:51:59Z,Tom Elliott,updated indexes,09,95605691c6efd4953ff88934824bf2fa72afda90,2023
+pleiades.datasets,2023-10-31T13:55:05Z,Tom Elliott,updated gis package,10,123823cc6d664b440fb2f39c8ff2c1d0e44ef7cd,2023
+pleiades.datasets,2023-11-29T14:42:39Z,Tom Elliott,updated indexes,11,7c405947d1061368f278117d306e28cd114819a1,2023
+pleiades.datasets,2023-12-21T14:40:25Z,Tom Elliott,updated indexes,12,2a8f650140d5fddb589704b27c5b171d1e5f9c0c,2023
+pleiades.datasets,2024-01-31T15:57:17Z,Tom Elliott,updated indexes,01,701c3b3a00becd03a83a24aa84a8c4892b5124de,2024
+pleiades.datasets,2024-02-28T16:53:02Z,Tom Elliott,updated indexes,02,4a0d22c48fd55d206b8d9cf5ee5e08b322bc5cb7,2024
+pleiades.datasets,2024-03-29T12:25:03Z,Tom Elliott,updated indexes,03,7632e60adca28a7cf8698d49f68e9374772afc62,2024
+pleiades.datasets,2024-04-30T12:45:27Z,Tom Elliott,updated indexes,04,4443844e2587295d693dd64d8ed6f7317dbdff57,2024
+pleiades.datasets,2024-05-30T22:55:08Z,Tom Elliott,updated gis package,05,1ea483147027e70fdf90001dedb62e39305584f0,2024
+pleiades.datasets,2024-06-27T13:59:38Z,Tom Elliott,updated gis package,06,e9dc7fd0a142086fbb3001a73c0543a884526762,2024
+pleiades.datasets,2024-07-31T11:55:10Z,Tom Elliott,updated gis package,07,8db2d02a62af46fc420cd89c17ddd8e4491516c2,2024
+pleiades.datasets,2024-08-29T12:50:20Z,Tom Elliott,updated indexes,08,2fca38d41b4159ca9289489947ea318e6e43f580,2024
+pleiades.datasets,2024-09-30T14:04:31Z,Tom Elliott,updated indexes,09,83e985e926586e678bd4ec6def50d0278ca0ce0c,2024
+pleiades.datasets,2024-10-31T15:53:57Z,Tom Elliott,updated indexes,10,643078b66b2733087a2ec7d52fcda23197c0c360,2024
+pleiades.datasets,2024-11-21T13:16:01Z,Tom Elliott,"updated sidebar: There are 28,342 Pleiades matches across all 6 datasets (cflago, edhgeo, itinere, manto, nomisma, wikidata). 5,634 of these are reciprocated by Pleiades. 19,229 unique Pleiades places are referenced.",11,7e1ed1940fc0fa5dda70e8edc3a7665f06d22d51,2024
+pleiades.datasets,2024-12-18T17:19:57Z,Tom Elliott,updated sidebar,12,0365ac54981c257a1964c5e06b3083e3b5ddf8d0,2024
+pleiades.datasets,2025-01-31T14:25:22Z,Tom Elliott,"updated sidebar: There are 29,125 Pleiades matches across all 6 datasets (cflago, edhgeo, itinere, manto, nomisma, wikidata). 7,240 of these are reciprocated by Pleiades. 19,733 unique Pleiades places are referenced.",01,9e880c89075cc423a83649613a9f9f9682cf7b0f,2025
+pleiades.datasets,2025-02-28T14:47:03Z,Tom Elliott,"updated sidebar: There are 29,512 Pleiades matches across all 6 datasets (cflago, edhgeo, itinere, manto, nomisma, wikidata). 7,971 of these are reciprocated by Pleiades. 19,999 unique Pleiades places are referenced. Incoming links were updated for 19 Pleiades places.",02,05d4b5ca737deccc6b7416c3b71e5077f119b501,2025
+pleiades.datasets,2025-03-31T12:24:25Z,Tom Elliott,"updated sidebar: There are 30,095 Pleiades matches across all 7 datasets (cflago, classical_temples, edhgeo, itinere, manto, nomisma, wikidata). 8,525 of these are reciprocated by Pleiades. 20,307 unique Pleiades places are referenced.",03,2f2c235628563a1093c128b64aebd0ab91175d44,2025
+pleiades.datasets,2025-04-29T13:39:00Z,Tom Elliott,"updated pleiades sidebar: There are 30,442 Pleiades matches across all 8 datasets (cflago, classical_temples, edhgeo, itinere, manto, nomisma, paths_atlas, wikidata). 8,891 of these are reciprocated by Pleiades. 20,474 unique Pleiades places are referenced.",04,df8127432864022ff94fd5bb440cc3a606dbb081,2025
+pleiades.datasets,2025-05-06T12:11:48Z,Tom Elliott,"updated pleiades sidebar: There are 30,461 Pleiades matches across all 8 datasets (cflago, classical_temples, edhgeo, itinere, manto, nomisma, paths_atlas, wikidata). 8,940 of these are reciprocated by Pleiades. 20,489 unique Pleiades places are referenced.",05,7c91f77af7b350ee78b29ff59f8ccae0ddeee3cf,2025

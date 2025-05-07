@@ -1,0 +1,4 @@
+item_name,date,author,message,month,sha,year
+digging.digital.data,2023-12-18T08:28:08Z,crinne,adding tabled info for od1_2003,12,d8faf5ed9ea40452534807ee25713704cc22bdbe,2023
+digging.digital.data,2024-07-05T06:18:01Z,crinne,added foreign keys OFF to important note,07,4332b84e9e4399061dcb64b6c624938d7dec119e,2024
+digging.digital.data,2025-03-10T09:24:43Z,crinne,last sql-statement use field value not string,03,444465efe9eac0b2d7fbf35aa345326e03282da5,2025

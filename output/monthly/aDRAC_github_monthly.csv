@@ -1,0 +1,49 @@
+item_name,date,author,message,month,sha,year
+aDRAC,2016-04-30T22:10:30Z,Dirk Seidensticker,Addition to CARD.md regarding the soures for geo-coordinates,04,4e1bb660e73b718d3ff4ad27425622efea60dafd,2016
+aDRAC,2016-05-23T21:01:57Z,Dirk Seidensticker,Initial Commit for a list of the used SOURCES,05,2e771240bcc010e9269182b5a98a50fa1ed7be7a,2016
+aDRAC,2016-08-29T16:34:19Z,Dirk Seidensticker,Updated README,08,6a26767dd6cb1e8024743affc5cdd8ddc1e6a2ac,2016
+aDRAC,2017-06-26T10:04:09Z,Dirk Seidensticker,"corrected coords for Bdy-463, Bdy-464 and Bdy-582 and added dating from Buchet 1992",06,fe92d6af8519d178f36054098e811c426775ae63,2017
+aDRAC,2017-08-27T15:20:07Z,Dirk Seidensticker,corrected doublet records in aDRAC.csv,08,0f1580af66150d8bc8fed79f690a453f52506189,2017
+aDRAC,2017-11-07T19:05:12Z,Dirk Seidensticker,fixed missing decimal points in some coords,11,9501c730afe0ec93bbd02ba706e16f466c83f0f6,2017
+aDRAC,2018-01-10T09:49:32Z,Dirk Seidensticker,Update aDRAC.csv,01,527de61f5a1bbc8b685c3eb42cb4c48c2766d64d,2018
+aDRAC,2018-04-20T14:46:22Z,Dirk Seidensticker,unified sites with same coordinates and flaged dates,04,0e962d8dfb1cfd81a76f4b4600ae6635e10a3565,2018
+aDRAC,2018-05-18T05:13:53Z,Dirk Seidensticker,added mapview to shiny app - wip,05,113eba96fb40a8c848309911bfd7c2eea43ff303,2018
+aDRAC,2018-06-07T18:33:29Z,Dirk Seidensticker,Update README.md,06,1eeffb4845b9ec8574dc2c587aeeed1cbc8d4ec2,2018
+aDRAC,2018-10-14T16:27:55Z,Dirk Seidensticker,added Beta-302761 from de Saulieu et al 2017: 25 Tab 1,10,69f2bbb517a6b20d7205ed8bb2103df007049c6b,2018
+aDRAC,2019-01-28T15:07:38Z,Dirk Seidensticker,wrong sep,01,4b73cd1e81f334e56a584d807eff01a16fa61843,2019
+aDRAC,2019-02-28T21:01:55Z,Dirk Seidensticker,switch relability of Campo dates outside phase of necropolis,02,18f2cc67706555fb672fffd4b2d12c5c303870bb,2019
+aDRAC,2019-03-27T17:03:58Z,Dirk Seidensticker,added data from Gilot et al. 1965 and Berger et al. 1965,03,e802256d0313891c7e6af631b7232ed4b6bbd08d,2019
+aDRAC,2019-04-30T15:27:58Z,Dirk Seidensticker,reliability 1 for Erl-17763,04,3f11f5487f9e2496baf2ae508e5a9670ee27b29d,2019
+aDRAC,2019-05-31T12:14:58Z,nevrome,missing column separator,05,73d3d4c4d4818e0a7e306c1cb3affba20506b8c0,2019
+aDRAC,2019-06-06T12:22:09Z,Dirk Seidensticker,added c14bazAAR testing script as suggested by @nevrome,06,b5e5989d0f54eeaede49163be1783087c4bc05dd,2019
+aDRAC,2019-07-29T17:14:25Z,Dirk Seidensticker,corrected Pottery style associated for Gombe pottery,07,39f297b6d0533379aeb2f4a825860433d1fc307c,2019
+aDRAC,2019-08-05T13:12:21Z,Dirk Seidensticker,corrected wrong assocciation of Longa pottery from Hv-12614 to Hv-12613,08,99ac1e6a50837f8d1f50cc010770eb14ed23fb7b,2019
+aDRAC,2021-01-20T15:54:02Z,Dirk Seidensticker,renamed SOURCE field,01,34ceb2b1a83d4b3f1e60806e286a42b61ecf4cc7,2021
+aDRAC,2021-02-12T12:58:51Z,Dirk Seidensticker,"corrected typo in SUERC-89287-91, added ref for Bleasdale et al. 2020: Suppl. Tab. 2 & specified meaning of (style) in parantheses in README",02,93c65603fb7ae0adad34cb4eb1c85a23a4c1f3f7,2021
+aDRAC,2021-03-04T14:31:09Z,Dirk Seidensticker,added sources,03,90f55f343aaa03b2f110cfe2b5a30380a0776ee5,2021
+aDRAC,2021-05-20T10:56:11Z,Dirk Seidensticker,"Revert ""added zoology column and meta-data from Nkang & Toube 1""",05,38d1932a288e2dc85c722f7d04d028be9090f61e,2021
+aDRAC,2021-07-28T08:42:42Z,Dirk Seidensticker,Update LABORATORIES.md,07,19dbb909bcb6e574b592eb461a678742d6123d67,2021
+aDRAC,2021-09-13T08:07:23Z,Dirk Seidensticker,corrected coords for Mbi Crater after Asombang 1988,09,092a19eb1555370cec7c7122f37646d4ece49d7a,2021
+aDRAC,2021-10-08T11:55:30Z,Dirk Seidensticker,changes meta-data for Ikengue 1 according to Digombe et al. 1990,10,fe3e062b3d83361cad250a2c9340f0967415a6da,2021
+aDRAC,2022-03-25T15:18:48Z,Dirk Seidensticker,updated README,03,2968bde64370c1187907ada181ef353bbc35af0a,2022
+aDRAC,2022-06-20T08:26:49Z,Dirk Seidensticker,updated meta data on slags found in CAM 07/11,06,b9c614f4ebfee6b8cde66df64251e598b83249fa,2022
+aDRAC,2022-11-14T14:45:25Z,Dirk Seidensticker,added data from Cagnato et al 2022,11,142c5dde07164b062099755c6e3bc0b09e0dd097,2022
+aDRAC,2023-01-12T06:25:17Z,Dirk Seidensticker,updated potential contamination of Beta-302759,01,a4f35a66f120552b0296f5751b7efc961815dbcf,2023
+aDRAC,2023-02-08T11:11:15Z,Dirk Seidensticker,marked Poz-48988 as IIIa,02,d28aca339ada0de9bae9b59562ce235f72bd33e6,2023
+aDRAC,2023-04-25T13:26:12Z,Dirk Seidensticker,added dates for Mashita Mbanza from Pierot 1987,04,71c9b70c37224caba76bb8b450c0544734ef0e20,2023
+aDRAC,2023-07-21T15:07:16Z,Dirk Seidensticker,added zoo data on NIK 2,07,bb155857d25f5d50df2aa470e897f42c49d629bf,2023
+aDRAC,2023-08-29T12:05:11Z,Dirk Seidensticker,refined data (especially out of bound dates),08,a6e5d2905bf3ab2bde3120df0c453f38d2337b0f,2023
+aDRAC,2023-09-28T11:31:29Z,Dirk Seidensticker,re-run readme,09,489409732bae0b2d3c0a824ffc990418f15af6da,2023
+aDRAC,2023-10-06T12:48:40Z,Dirk Seidensticker,amended data for Kamoa,10,97dea6b190e0ad03a7de9cd9f3b12a32f6cb1e2c,2023
+aDRAC,2023-12-25T15:58:56Z,Dirk Seidensticker,Update aDRAC.csv,12,dd7314e859a4015554011cee45609e3a9d34d8a6,2023
+aDRAC,2024-01-26T15:16:16Z,Dirk Seidensticker,updated source for Maluba dates,01,57db87cce87bd0ee20f5e0d61d31c02d3700e96a,2024
+aDRAC,2024-03-26T14:06:41Z,Dirk Seidensticker,corrected spelling Akok Begnat,03,5c79eaae873eaabd3b30dbdd9d1693b0b1fb1849,2024
+aDRAC,2024-04-19T11:44:30Z,Dirk Seidensticker,updated coord Gif-11152,04,7a8d3caa1b22e4e1ab3175828312959afec69d8f,2024
+aDRAC,2024-06-10T13:23:48Z,Dirk Seidensticker,added dates from Seidensticker 2024:Tab2,06,202f7155715bb01f44949e3909c24a5ec4ac8744,2024
+aDRAC,2024-07-24T13:19:00Z,Dirk Seidensticker,further refined metadata for shum laka based on lavachery 1997 phd,07,f248d0a3cbc3d0e8b20fcfb8cc459340325d219a,2024
+aDRAC,2024-08-05T08:05:17Z,Dirk Seidensticker,standadized bws 04/3 feature labels,08,ea04c973bb37a864c09cca56981f3035863bd3c8,2024
+aDRAC,2024-09-23T08:38:44Z,Dirk Seidensticker,standardized name for Mufo,09,582cb7be4d7002241a3ff614139e3f72611c3529,2024
+aDRAC,2024-10-11T13:01:30Z,Dirk Seidensticker,updated dates based on David 1992,10,4c33ccf907b5005c8ac9436fb3c4210ff2411e5e,2024
+aDRAC,2024-11-27T14:03:59Z,Dirk Seidensticker,Merge branch 'master' of https://github.com/dirkseidensticker/aDRAC,11,890f0d2359d1d0e32c728eca24cdd030ace2ae57,2024
+aDRAC,2025-02-06T14:19:45Z,Dirk Seidensticker,fixed typo,02,5ad08fb75adb6d86fdaf103ff60bf42aea469ade,2025
+aDRAC,2025-04-18T09:48:12Z,Dirk Seidensticker,added data from Mesfin et al. 2025,04,7a650624e201f246a82cb294762f00a5fc9c5398,2025

@@ -1,0 +1,28 @@
+item_name,date,author,message,month,sha,year
+pastclim,2022-05-20T14:12:15Z,Andrea Manica,Fix transparency,05,19713c9f9cdcd4255629cfb345cc948d6b3ea2b3,2022
+pastclim,2022-06-16T15:30:50Z,Andrea Manica,Add link to biorxiv with all contributors,06,4cf7c4c52a2e66ec1e0bbdc7d362acd59ef3c0a6,2022
+pastclim,2022-08-19T20:30:35Z,Andrea Manica,vignette for custom data,08,b1878e22887033b6301addaa4ec9d3b2e2e04f5d,2022
+pastclim,2022-09-28T10:04:11Z,Andrea Manica,Merge pull request #4 from EvolEcolGroup/mikleonardi-patch-1,09,e0d3c2eaad3b9a3c72fea9ca01efaa945d363ce5,2022
+pastclim,2022-10-28T13:07:35Z,Andrea Manica,Draft downscaling code,10,539753fd07ce946c0e72c2cab9c153a0c684008d,2022
+pastclim,2022-11-30T18:03:57Z,Andrea Manica,Fix badge typo,11,5d4641866017cf7971aa639a059830aba4eab993,2022
+pastclim,2022-12-21T21:28:58Z,Andrea Manica,clean up old files,12,49c55e98d1186f6c3eee431d285c79a18f152ce4,2022
+pastclim,2023-03-31T17:02:49Z,Andrea Manica,Merge remote-tracking branch 'origin/dev' into ds_files,03,315f906bb4f1d4eb7af4698c91e661953de68200,2023
+pastclim,2023-04-29T09:56:03Z,Andrea Manica,typo,04,92ee8b1cdfc7f198ca6244c63e2a56ef7bd2a1fd,2023
+pastclim,2023-05-24T15:27:30Z,Andrea Manica,small fix to load_etopo,05,7259a54b4b0b797ca1b2ff339710dbacf740a3c3,2023
+pastclim,2023-06-29T20:00:06Z,Andrea Manica,Merge pull request #32 from EvolEcolGroup/times_coords,06,3963c76d5986fa05d2d2c14055ee0e0da87b27b2,2023
+pastclim,2023-07-12T10:23:16Z,Andrea Manica,add compression to custom example,07,144dd41ff1f428f90ff0249a8cda004cdc3852c9,2023
+pastclim,2023-08-31T05:33:34Z,Andrea Manica,Merge pull request #38 from EvolEcolGroup/help_page,08,d5231926fad7237a881dafd82f69281beaf6721d,2023
+pastclim,2023-09-19T12:32:15Z,Andrea Manica,Merge remote-tracking branch 'origin/dev' into dev,09,e1e2ddae31dcbdc005ea8dfe6245e237b189e2fb,2023
+pastclim,2023-10-20T17:43:07Z,Andrea Manica,Merge branch 'master' into dev,10,72320608b088faa20c386622db099d5c0f2a6b7a,2023
+pastclim,2023-11-29T14:33:02Z,Andrea Manica,Merge branch 'dev' into chelsa,11,308dd9c842f9989b02a4acfeef1ad4ca2eb2cad0,2023
+pastclim,2023-12-22T22:38:55Z,Andrea Manica,Merge pull request #46 from EvolEcolGroup/biome4_classes,12,ea56d8393d0cc3bc703f3876e6983d1a21a5e5ca,2023
+pastclim,2024-01-31T16:11:40Z,Andrea Manica,Merge branch 'chelsa' of github.com:EvolEcolGroup/pastclim into chelsa,01,517a9e7efec35f97190db0fac67b3e70793e872f,2024
+pastclim,2024-02-05T19:08:32Z,Andrea Manica,prototype code,02,ace072ecdf7fefabbba01b6aa465566198a93819,2024
+pastclim,2024-04-23T15:36:26Z,Andrea Manica,Merge pull request #47 from EvolEcolGroup/location_slice,04,8017ed205bc787aaba2048593253c114e44ba63f,2024
+pastclim,2024-05-30T16:46:36Z,avpozzi,add LGM paleoclim,05,de04f0a3b6882fc04f22bcf5439dbe724126989a,2024
+pastclim,2024-06-19T16:02:31Z,Andrea Manica,typo,06,923e5098b3a2885771689127a2e3887df4fa66d8,2024
+pastclim,2024-08-05T10:48:33Z,Andrea Manica,Update issue templates,08,7906fb8c52676faffcdd32cd0f138a0c0dc1412a,2024
+pastclim,2024-10-22T08:53:38Z,Andrea Manica,Update readme,10,4be31baf72f65b75f7f8ad50ed78b96f87398f2f,2024
+pastclim,2024-11-04T17:01:53Z,Andrea Manica,Fix title in readme,11,cf41d9cb9333beed6d69f977a49a61bc385ab1b7,2024
+pastclim,2025-02-23T21:42:12Z,Andrea Manica,remove cran submission details,02,791549f71ef6aaf400c8c13ae1f0cd8a118bf0aa,2025
+pastclim,2025-03-22T16:38:03Z,Andrea Manica,Update the readme,03,cfc3d92e1b0b182e1f1599b7f8b23e9ce5b3d5be,2025

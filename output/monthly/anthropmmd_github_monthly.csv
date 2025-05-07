@@ -1,0 +1,3 @@
+item_name,date,author,message,month,sha,year
+anthropmmd,2020-07-20T08:18:50Z,f-santos,Remove URL for bug reports,07,aeef11866f7d28c0f8c9764bb22e23b9240d01cc,2020
+anthropmmd,2020-09-22T11:43:18Z,Frédéric Santos,Add CRAN badges,09,69939e0b94fa40e8fb5b66ccc713fd9103787342,2020

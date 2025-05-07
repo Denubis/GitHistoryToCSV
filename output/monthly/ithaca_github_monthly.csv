@@ -1,0 +1,6 @@
+item_name,date,author,message,month,sha,year
+ithaca,2022-03-09T16:40:21Z,Brendan Shillingford,Fix README typo,03,3911440932f2e501d1920c6cc430d94299116253,2022
+ithaca,2022-09-22T14:15:50Z,Yannis Assael,Update requirements.txt,09,20d80cb5e93da79968b4fa4df2370b49bb6bb801,2022
+ithaca,2023-02-10T15:01:39Z,Yannis Assael,Update JAX version.,02,17930ffe4c0a62dfae390f90ec8dfeaae7d9fa36,2023
+ithaca,2023-03-20T14:56:29Z,Yannis Assael,Update blog link.,03,a3cb18d37da9fdc8f9a50a32b4c68c0b8b084caa,2023
+ithaca,2023-11-21T18:00:03Z,Yannis Assael,Fix folium tiles.,11,ced13193aaa52e49a2388c9ace0244e9a24e6d42,2023

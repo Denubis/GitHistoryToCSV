@@ -1,0 +1,59 @@
+item_name,date,author,message,month,sha,year
+AncientMetagenomeDir,2020-07-31T15:15:46Z,Allaby Lab,Update ancient-microbiome.tsv,07,aa9d09005749d8cf86629191767e9c53f47bdf15,2020
+AncientMetagenomeDir,2020-08-31T15:55:45Z,Pete Heintzman,Update ancientmetagenome-environmental.tsv,08,39a12a0c3caf591b270bc1a0852ac8c6431b90c8,2020
+AncientMetagenomeDir,2020-09-18T10:53:17Z,James A. Fellows Yates,Update README.md,09,0ee60bf789d5796cfc064a140d07534e7851979f,2020
+AncientMetagenomeDir,2020-10-13T09:24:51Z,James A. Fellows Yates,Merge pull request #298 from SPAAM-community/jacobson2020,10,3d150d03ed1787f21b19650746bef0960dfc7b91,2020
+AncientMetagenomeDir,2020-11-26T08:26:32Z,Becky Cribdon,Merge pull request #317 from SPAAM-community/ambrecht-patch,11,a877367f85750c25ab0fe1302670838e88e178a7,2020
+AncientMetagenomeDir,2020-12-31T14:34:04Z,jfy133,[skip ci] Update AncientMetagenomeDir live-status images,12,06071517a093e1b8651bb9c7647dc72be2c5e92a,2020
+AncientMetagenomeDir,2021-01-30T20:18:15Z,James A. Fellows Yates,Fix links and use master not this branch,01,e27aaad169312bd84db676b8c3150dd08c8c231d,2021
+AncientMetagenomeDir,2021-02-26T14:10:04Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,02,ca6335e928bd132fbade6bcc4b8714179e720338,2021
+AncientMetagenomeDir,2021-03-31T14:42:38Z,jfy133,[skip ci] Update AncientMetagenomeDir live-status images,03,ff20a49594759c07f257faa553eb80a4b31f5c6b,2021
+AncientMetagenomeDir,2021-04-13T12:58:35Z,jfy133,[skip ci] Update AncientMetagenomeDir live-status images,04,814727d7106394687a64b64ec89c2fbd7ac4a26a,2021
+AncientMetagenomeDir,2021-05-25T08:12:43Z,alexhbnr,[skip ci] Update AncientMetagenomeDir geojson,05,eac26d784be68922a1365b26896752f815e42355,2021
+AncientMetagenomeDir,2021-06-30T20:17:00Z,James Fellows Yates,"Fixed fail on non-existant experiment ID, and started fixing inconsistent columns",06,0a9da07c6756e43e70eabe4335800ff35d8fa6a3,2021
+AncientMetagenomeDir,2021-07-31T10:24:50Z,James Fellows Yates,Add draft library JSON specification,07,ce0d92bc35cc6461d5e744ae1e766d17df0c3fcc,2021
+AncientMetagenomeDir,2021-08-30T19:09:54Z,James Fellows Yates,Missed a README,08,8c41b14843861f548d5d6837dc80dd17e276be6d,2021
+AncientMetagenomeDir,2021-09-30T10:01:52Z,James A. Fellows Yates,Update ancientsinglegenome-hostassociated/ancientsinglegenome-hostassociated.tsv,09,597f79a0c4ac43bf151b90479dedad0d73d1a1d9,2021
+AncientMetagenomeDir,2021-10-25T08:50:33Z,James Fellows Yates,Add Weyrich 2017 libs,10,dcd0157807e10189b192ef1aec5797e32fa48b81,2021
+AncientMetagenomeDir,2021-11-26T14:09:36Z,James A. Fellows Yates,Merge pull request #715 from SPAAM-community/Spyrou2019-libs,11,cd0a6d49e1c139a6d04063f0b5f3b15a74b69273,2021
+AncientMetagenomeDir,2021-12-30T11:49:40Z,alexhbnr,Add library_polymerase of Kircher2012,12,de333bd6e0c5894583326018c86f6d9fea702a9e,2021
+AncientMetagenomeDir,2022-01-31T16:15:37Z,James A. Fellows Yates,Merge pull request #773 from SPAAM-community/Duggan2016,01,a55a36cc4648b3a036ce0c020af5ebb0b22a075b,2022
+AncientMetagenomeDir,2022-02-28T15:21:08Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,02,fdb88fdbcf809b7a6d8ee5c317f4b3d640ca667f,2022
+AncientMetagenomeDir,2022-03-13T12:44:50Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,03,a27bcd0485a2383c5adf245de17d9699b3148202,2022
+AncientMetagenomeDir,2022-04-27T09:56:18Z,ilight1542,Update ancientsinglegenome-hostassociated_libraries.tsv,04,7505be06fb3d372c4aed5d29f79ac515a2d40d4d,2022
+AncientMetagenomeDir,2022-05-30T14:40:06Z,aidaanva,Adding lib info for AndradesValtuena2022,05,4dd5b51cae89ed22960a9279320fa68920c8cf8f,2022
+AncientMetagenomeDir,2022-06-30T12:23:06Z,James A. Fellows Yates,Merge pull request #888 from SPAAM-community/AndradesValtuena2022-libs,06,70f4e4db2d1228987c6d48c49bcd513818a5a644,2022
+AncientMetagenomeDir,2022-07-25T12:15:13Z,James A. Fellows Yates,Merge pull request #941 from SPAAM-community/Ottoni2021-libs,07,ff533e79c53500f77bbf9c6e8ed9513b19a30708,2022
+AncientMetagenomeDir,2022-08-30T13:00:45Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,08,096c33a8c7061cb2a171c0e5d4402848442672a3,2022
+AncientMetagenomeDir,2022-09-29T18:48:51Z,DianaSpurite,Update ancientsinglegenome-hostassociated/libraries/ancientsinglegenome-hostassociated_libraries.tsv,09,23154cd48f93ae32f6873a714cab65bf42d5348e,2022
+AncientMetagenomeDir,2022-10-28T12:19:38Z,DianaSpurite,Update singlegenome_species.json,10,1f5c077bf24896ee5663d8806b7847e41517c83b,2022
+AncientMetagenomeDir,2022-11-30T21:57:16Z,DianaSpurite,Update singlegenome_species.json,11,bacadef076f2c37413e20989b71d590df3c3c44e,2022
+AncientMetagenomeDir,2022-12-21T19:17:34Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,12,55d7643903bd1bc24fe464b23ec2d0560722d0b3,2022
+AncientMetagenomeDir,2023-01-24T12:36:04Z,alexhbnr,Remove duplicated Velsko2022 samples,01,47b7f66c78a3cd425bb62c61e5f54ffcee41ebfb,2023
+AncientMetagenomeDir,2023-02-27T07:34:48Z,James Fellows Yates,New example dir,02,8d4c7c5881f8681b2f65090e36ec8589c056d73f,2023
+AncientMetagenomeDir,2023-03-31T13:44:35Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,03,d6ed12727c17eac66f9f43686d6f98a1536c0cd0,2023
+AncientMetagenomeDir,2023-04-28T14:27:01Z,maxibor,update changelog,04,8987f4487e2a62a8cd202642e538dbe4fb218d3e,2023
+AncientMetagenomeDir,2023-05-26T14:59:44Z,alexhbnr,[skip ci] Update AncientMetagenomeDir geojson,05,3abe2d9d10ce307ade000522551ec16070f96668,2023
+AncientMetagenomeDir,2023-06-30T20:24:33Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,06,54dfe304ff0b993fbe26edb88b2f1a1b67138248,2023
+AncientMetagenomeDir,2023-07-28T08:07:18Z,jfy133,[skip ci] Update AncientMetagenomeDir live-status images,07,a516b4cc5cb9d6f829a137a75d7ffb60ceb47566,2023
+AncientMetagenomeDir,2023-08-24T14:59:58Z,DianaSpurite,Update CHANGELOG.md,08,c0671c111cdc3ea049f4d746347fad06c593bdb9,2023
+AncientMetagenomeDir,2023-09-30T10:12:12Z,James Fellows Yates,Fix GeoJSON,09,818cd893b71a612e9771334062dd0a7bdd997b54,2023
+AncientMetagenomeDir,2023-10-23T10:56:18Z,DianaSpurite,Update ancientsinglegenome-hostassociated_samples.tsv,10,1e6b8290bff8de4a07b4bf454c10e2758b78c322,2023
+AncientMetagenomeDir,2023-11-30T16:25:53Z,Alex Hübner,Merge remote-tracking branch 'origin/master' into Caruana2013,11,f4459f4474486a5c457aab60d46def315f2579f1,2023
+AncientMetagenomeDir,2023-12-04T16:12:43Z,alexhbnr,[skip ci] Update AncientMetagenomeDir geojson,12,181a577e13f7ed96e62a39b77cad25e9c0341970,2023
+AncientMetagenomeDir,2024-01-29T11:47:59Z,alexhbnr,[skip ci] Update AncientMetagenomeDir geojson,01,108e13348f61c4b2f296d8f21dba79f574bc2237,2024
+AncientMetagenomeDir,2024-02-16T12:03:10Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,02,ff630b3bc97f0f06cef9ecca5b51da15ec15c0d1,2024
+AncientMetagenomeDir,2024-03-29T14:53:50Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,03,c4228780e5accdb4e0df4f006ebcc3a37a7ce1ac,2024
+AncientMetagenomeDir,2024-04-15T08:52:02Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,04,42685f3fd4e0a58e9aa9a5a6c251eba052fe2116,2024
+AncientMetagenomeDir,2024-05-07T19:10:37Z,Aida Andrades Valtueña,Update ancientsinglegenome-hostassociated_samples.tsv,05,a5f5464adba3f45b1ce25f799645ae7cf45aba13,2024
+AncientMetagenomeDir,2024-06-28T19:44:34Z,alexhbnr,[skip ci] Update AncientMetagenomeDir geojson,06,9b657635d7bddc6a70b20ef16f1ba77080d82b97,2024
+AncientMetagenomeDir,2024-07-30T12:41:58Z,James A. Fellows Yates,Bump AMDirT version,07,9629a6dba74e8cc4d5892c57ab8319633655822c,2024
+AncientMetagenomeDir,2024-09-25T14:24:26Z,Alex Hübner,"Update site name and sample age doi, remove captured samples",09,b1cf3bdd4188aebfe1deae90d61d5405f77d8d94,2024
+AncientMetagenomeDir,2024-10-23T12:02:16Z,aidaanva,[skip ci] Update AncientMetagenomeDir geojson,10,9db355338d90b15cda3b513e914aeddbef62d027,2024
+AncientMetagenomeDir,2024-11-26T13:58:08Z,bbartholdy,remove duplicate README,11,237c005dbf2d7ca7bda5a197b167a936bb2bc072,2024
+AncientMetagenomeDir,2024-12-11T12:50:25Z,jfy133,[skip ci] Update AncientMetagenomeDir geojson,12,a9779c842dabfb4efd30c335bc76c7c7d6fb6235,2024
+AncientMetagenomeDir,2025-01-31T17:12:45Z,aidaanva,Added link to the corresponding folder,01,4fd80bb6c783216aee7afd97a6b5dcb2dd360404,2025
+AncientMetagenomeDir,2025-02-28T09:31:23Z,Aida Andrades Valtueña,Merge branch 'master' into C14Devault2017,02,21bf076859358ac592f66c0e905582c0b5f3874a,2025
+AncientMetagenomeDir,2025-03-31T13:34:14Z,Aida Andrades Valtueña,Merge branch 'master' into C14Philips2020,03,d9783be2e4f3e08ebfc299d6589d00cbdc4d091c,2025
+AncientMetagenomeDir,2025-04-30T09:06:58Z,hsf378,updates EDI111 sample's info,04,6337ab96f6f1623b93327e2e23d1251c989cc4af,2025
+AncientMetagenomeDir,2025-05-05T12:48:44Z,Aida Andrades Valtueña,Merge pull request #1453 from SPAAM-community/add-dates-docs,05,818eb1da9d389125aed67fa0725f5ba38b4f7971,2025

@@ -1,0 +1,8 @@
+item_name,date,author,message,month,sha,year
+web_geochemistry,2016-10-04T22:39:19Z,Chris Kennedy,initial commit,10,9cb389151000a77669ead0cf0da7183421606b8e,2016
+web_geochemistry,2017-03-28T17:43:29Z,Nico Tripcevich,Update ui.R,03,29498d08b273986ee4dc19b09feea5b2d72ed6f6,2017
+web_geochemistry,2018-03-23T07:51:55Z,Jesse Norris,Table WIP and clean-up for 'server.R'.,03,f8802c56904cef5b5711f7a2cf93c0d1befdd430,2018
+web_geochemistry,2018-04-21T03:22:46Z,Jesse Norris,dynamic.R - Added selection add/remove/index to DynamicData() w/ testing and initial functionality for tracking uploaded files.,04,c3d0b1f3910ab60ae3c300282304f76242fd8983,2018
+web_geochemistry,2018-05-21T04:51:12Z,Jesse Norris,"Fixed ""clear selection"" option and removed upload file defaults.",05,e53a45e052d002518ee10586bcf15a079bab5765,2018
+web_geochemistry,2019-03-27T14:18:19Z,Nico Tripcevich,Corrected XRF element list,03,5f11b3d08f12b601a7b817a0bae54ca5f747bf0a,2019
+web_geochemistry,2019-04-11T17:37:17Z,Lee Drake,Forest Classifier,04,166e456900be05e10a7896c7984fbf2c6d8ea2c5,2019

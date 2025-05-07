@@ -1,0 +1,4 @@
+item_name,date,author,message,month,sha,year
+piwigo-3dhop,2018-09-30T16:59:37Z,Joe Roe,Include license and readme for 3DHOP,09,5a722e341a07d986f3b2a2109358217a9c9512ed,2018
+piwigo-3dhop,2018-10-04T07:00:46Z,joeroe,Fix 3DHOP readme and license,10,2843c8370a05fdd0a39095e04657870f2edb1e40,2018
+piwigo-3dhop,2020-08-12T12:08:22Z,Joe Roe,Update 3dhop to v4.3,08,c15b0c8bf4fc8e1f4db61e31ac16522a2e684963,2020

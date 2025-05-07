@@ -1,0 +1,97 @@
+item_name,date,author,message,month,sha,year
+OpenAtlas,2017-05-26T20:07:20Z,Alexander Watzinger,source insert,05,5dc6a83ff558dff6b778704a6d25da56454a8eff,2017
+OpenAtlas,2017-06-23T15:09:08Z,Alexander Watzinger,Tests and cleanup,06,f3f2b844ac1eaa6583c11db8b51e40045373d7b4,2017
+OpenAtlas,2017-07-31T16:18:08Z,Alexander Watzinger,bookmarks,07,3f353a5d4da8263dce391c4122cb242cd38440a5,2017
+OpenAtlas,2017-08-31T14:34:44Z,Alexander Watzinger,option to show passwords,08,b655cef2345ae85676266e5ae17eb3e33d4bba85,2017
+OpenAtlas,2017-09-25T21:33:21Z,Alexander Watzinger,Added network visualisation,09,14e7a577ca9a575fa698973716999c1b30c8a741,2017
+OpenAtlas,2017-10-31T15:53:42Z,Alexander Watzinger,Truncate links,10,00166e1d3a2abbf7166fe4b331bfad559ba80f34,2017
+OpenAtlas,2017-11-29T14:25:06Z,Alexander Watzinger,Foreign key id/code refactoring,11,c8b925de856d9014ca572546794c4b9c8cfad8cc,2017
+OpenAtlas,2017-12-31T14:03:50Z,Alexander Watzinger,"Raised version, added missing 2.4.0 to changelog",12,40c5d9b45356d5fc71a661a67f5106c4b9a9aaca,2017
+OpenAtlas,2018-01-30T15:30:49Z,Alexander Watzinger,File upload continued,01,839b73673d9bf1d18b4799e6d26d0ba07280fd1c,2018
+OpenAtlas,2018-02-28T17:17:01Z,Alexander Watzinger,Merge branch 'dev' into dev_fileupload,02,7fc3bc23c17e1e2bf83283a2d5611d2227708e91,2018
+OpenAtlas,2018-03-29T18:39:05Z,Alexander Watzinger,Mail fix,03,f45906e407ecb68152d2693d8ebb7cfa30524fb3,2018
+OpenAtlas,2018-04-30T15:40:28Z,Alexander Watzinger,Translations,04,6f22fe617ca6a5d009e2da0dc7e898f2a6f08809,2018
+OpenAtlas,2018-05-28T00:23:45Z,Alexander Watzinger,Update changelog,05,62a872f772eed7628480b8971536ab49c7d0a4cf,2018
+OpenAtlas,2018-06-27T14:47:40Z,Alexander Watzinger,Dev merge,06,38a035bf6c10cdda5b7fde5011cd1c16bcca799a,2018
+OpenAtlas,2018-07-30T13:24:42Z,Alexander Watzinger,Fix for #926: Display language bug,07,872196319d438b59d3df460354e50d288289607f,2018
+OpenAtlas,2018-08-31T15:42:43Z,Alexander Watzinger,Network visualization continued,08,ff6aec8f9eab8e09ace9649606283693fb2ef148,2018
+OpenAtlas,2018-09-28T15:03:37Z,Alexander Watzinger,Update changelog,09,5ffd70f482ad28280290dcebbce3c43b6afd729b,2018
+OpenAtlas,2018-10-31T16:38:56Z,Alexander Watzinger,Import: note imported entites in import.project_entities,10,2152d7a30e350d6d997edbc0e2e202d880c796be,2018
+OpenAtlas,2018-11-30T17:47:48Z,Alexander Watzinger,Merge branch 'develop' into feature_performance,11,d37e455974ffd580f97187b6f0f87da0ee60d6bb,2018
+OpenAtlas,2018-12-31T09:17:19Z,Alexander Watzinger,Allow editors to delete files in admin interface,12,1a139289d886c1f6a6795f21714557029f97a196,2018
+OpenAtlas,2019-01-31T14:24:00Z,Alexander Watzinger,Refactor dates: appears first/last,01,7ea2069f768b1fb1b0e52794ad9daa27bfc3b1ec,2019
+OpenAtlas,2019-02-28T16:32:47Z,Alexander Watzinger,Changed release date,02,cf27c77983a59494709d5c81e456a0cc9fca4ed2,2019
+OpenAtlas,2019-03-31T17:59:12Z,Alexander Watzinger,Update upgrade SQL,03,9e7b6bdfdc3b50d6a5189a6743dbe8965bbbd1a8,2019
+OpenAtlas,2019-04-30T13:11:47Z,Alexander Watzinger,Merge branch 'develop' into feature_geonames_backend,04,29fc2bde069d27ec9448fec59576d5ce7214cea1,2019
+OpenAtlas,2019-05-31T12:49:44Z,Alexander Watzinger,Merge branch 'feature_geonames_backend' of https://github.com/craws/OpenAtlas into feature_geonames_backend,05,5c60ce41e4929a3bfffe5cc620c9cbd8d10376b6,2019
+OpenAtlas,2019-06-27T14:34:08Z,Alexander Watzinger,Update install and upgrade notes,06,db5345dfa6fc4db8dca1ab707c0a2ebdfed96191,2019
+OpenAtlas,2019-07-31T13:19:42Z,Alexander Watzinger,Merge branch 'develop' into feature_geonames_backend,07,c95864ddd7964dc23672d8daccaee0c9e11f9440,2019
+OpenAtlas,2019-08-30T21:58:55Z,Alexander Watzinger,Datatables - moving JavaScript for bookmarks from table data to functions.js,08,d4a21b2d793778040471a129f25f847a6f562cfe,2019
+OpenAtlas,2019-09-30T17:50:40Z,Alexander Watzinger,Update model with move event,09,cf8e018f189a4fda887577d82c732ca3c8f647ea,2019
+OpenAtlas,2019-10-31T16:00:11Z,Alexander Watzinger,Fixing MyPy errors,10,52a166cec70188301db1bd9eda4bef5855fde7e3,2019
+OpenAtlas,2019-11-30T13:15:10Z,Alexander Watzinger,"Update upgrade notes, adding comments to config files",11,5ae32d500772afe33baa097a6ef613a2be2d542c,2019
+OpenAtlas,2019-12-31T12:37:47Z,Alexander Watzinger,Update model,12,0ea352d6d5944fd81198840b8a620161df6dba60,2019
+OpenAtlas,2020-01-31T14:52:50Z,Alexander Watzinger,Fixed human remains delete redirect,01,00c2998971abb2f33c2180627b8baae80a463619,2020
+OpenAtlas,2020-02-28T14:48:10Z,BernhardKoschicek,API: Refactor hierarchy,02,40fa5dcaf5e1ca6b9d3dd0f24f29a2dd07ff40b7,2020
+OpenAtlas,2020-03-31T13:37:19Z,Alexander Watzinger,Addeed function to set settings form values,03,293f8cafc94d8b296249fdf224987dfa14549275,2020
+OpenAtlas,2020-04-30T13:56:34Z,Alexander Watzinger,Manual: object,04,b7f27fcb4d8744cc19ea883ed7abf400b4dc3dae,2020
+OpenAtlas,2020-05-30T13:59:08Z,Alexander Watzinger,Merge branch 'develop' into feature_tabs,05,a6ccae8e1b8bcb3018844fc1cad5559973938c1e,2020
+OpenAtlas,2020-06-30T15:58:36Z,Alexander Watzinger,Update changelog,06,bef25ac7e12bce8d86444831c50f658d238eb7e7,2020
+OpenAtlas,2020-07-31T15:06:13Z,Alexander Watzinger,Edit module defaults at admin,07,d31887bb331cd516932431e1377e1562d528d0c4,2020
+OpenAtlas,2020-08-29T15:20:54Z,Alexander Watzinger,Modules: adapting profile settings,08,bf1148fb18e1b32dd609607983e465df4719bfbc,2020
+OpenAtlas,2020-09-29T12:19:05Z,BernhardKoschicek,Merge branch 'develop' of https://github.com/craws/OpenAtlas into develop,09,fede2fe0f28dfb48a6ac11d366498b5bc73df081,2020
+OpenAtlas,2020-10-30T17:00:40Z,Alexander Watzinger,Merge branch 'feature_wikidata' into feature_forms,10,51a561b1e95ced82b8b692b36c40997e94e7897c,2020
+OpenAtlas,2020-11-30T16:21:41Z,Alexander Watzinger,Update install and upgrade SQL,11,b8d7f574d029ca4dff2962024de25b0439f8c34b,2020
+OpenAtlas,2020-12-31T16:53:13Z,Alexander Watzinger,Reference systems: minor fix,12,351a30996b17a337f9360a2c97b90143c374c268,2020
+OpenAtlas,2021-01-31T15:15:38Z,Alexander Watzinger,Refactor: merged object insert/update to entity,01,3fbf1395f722d1a43bf1125cc295d23a8f7455b3,2021
+OpenAtlas,2021-02-28T21:23:44Z,Alexander Watzinger,Mypy checks,02,1293905f626bb74cc367798db7d660f078bd9410,2021
+OpenAtlas,2021-03-31T13:32:09Z,Alexander Watzinger,Merge branch 'develop' of https://github.com/craws/OpenAtlas into develop,03,5784fa9bb12f391e0866f256df1c3de112403193,2021
+OpenAtlas,2021-04-30T23:59:12Z,Alexander Watzinger,"Refactored HTM button, sanitize for notes",04,8b6d33fe4159862f06ef0a9f2148e81453e38128,2021
+OpenAtlas,2021-05-31T14:17:32Z,Alexander Watzinger,Translations,05,1bdf77667a8451c3e2f040051f85ff9b520ed94a,2021
+OpenAtlas,2021-06-25T15:14:22Z,BernhardKoschicek,Merge branch 'develop' into feature_api,06,d3bd5d84e627fc72f6caff3b1b819797bed07131,2021
+OpenAtlas,2021-07-31T18:18:44Z,Alexander Watzinger,Refactor line length to 80,07,1fe788460e829f6a5bc9b10e781d600cfa355aab,2021
+OpenAtlas,2021-08-31T16:10:40Z,BernhardKoschicek,refactored to line length,08,760fd49b36e783312b59bd7e8b3fdc13b137ad20,2021
+OpenAtlas,2021-09-30T14:09:37Z,Alexander Watzinger,Upgrade SQL for web.hierarchy table join,09,3c6d867277c0c26304c410831ecb86bd75717620,2021
+OpenAtlas,2021-10-31T16:14:51Z,Alexander Watzinger,Refactor reference systems,10,8225affdf90f520f2465bbb2c71847c21d9e485e,2021
+OpenAtlas,2021-11-29T15:47:06Z,BernhardKoschicek,merged with new develop,11,cd7906ff3e28fad1fd367efdf0160082014a2e4c,2021
+OpenAtlas,2021-12-31T17:10:48Z,Alexander Watzinger,Update install notes,12,93b5efa0314c2dfac4b5e51e94bff0805cd19aea,2021
+OpenAtlas,2022-01-31T19:09:17Z,Alexander Watzinger,Update changelog,01,632ed377bc856748476eba47f566ef75c36f8964,2022
+OpenAtlas,2022-02-25T14:13:44Z,Alexander Watzinger,Re-added init file to tests,02,54727357a42f915de6d593ba10a607a83d2ea800,2022
+OpenAtlas,2022-03-31T21:08:11Z,Alexander Watzinger,Adaptions for requirements.txt,03,c41df1f9dcc19d32800f2900575a5e524aef2bad,2022
+OpenAtlas,2022-04-29T10:35:56Z,BernhardKoschicek,delete hierarchy,04,31655f5a2fcbf03099a3f1a880b02be6f54ba6f4,2022
+OpenAtlas,2022-05-31T13:45:42Z,BernhardKoschicek,fixed database update (web.settings),05,44bb241cd8420eab2b899d81edf49edcd2cd73c5,2022
+OpenAtlas,2022-06-30T17:05:01Z,Alexander Watzinger,New forms: source form,06,f8415a4c7cc85f381cb59a0b2be5010a57288ea1,2022
+OpenAtlas,2022-07-29T15:01:34Z,Alexander Watzinger,Add place column for types with sub units (#1752),07,c3ff2d594bdf62240b9919e9f0671d3a1e905f3a,2022
+OpenAtlas,2022-08-31T12:39:20Z,Alexander Watzinger,Merge branch 'develop' into feature_add_places_dynamically,08,61984fbd527b565af0769dd2fe5b1287a3123672,2022
+OpenAtlas,2022-09-30T12:19:54Z,BernhardKoschicek,added closed issues to changelog,09,1d70aa8df72485d61a2444d1ceb5a8578bf6596f,2022
+OpenAtlas,2022-10-31T14:39:01Z,Alexander Watzinger,Update upgrade notes,10,c6091d0ec21d894bb8d93ef39e5988d6d1eddb60,2022
+OpenAtlas,2022-11-30T17:16:54Z,bkoschicek,removed -d at create,11,ea65b5e09ef76112bed6851f8bb26ba2502f5d88,2022
+OpenAtlas,2022-12-31T15:55:28Z,Alexander Watzinger,Update changelog,12,0a572c7d88f676da418d9fd95f395422f3699bc9,2022
+OpenAtlas,2023-01-31T15:52:30Z,bkoschicek,check if files/ dir is correct,01,895127bd2d8984e6770b24d0ba6bb44723ab8270,2023
+OpenAtlas,2023-02-28T10:10:08Z,Mocca101 NB,Merge remote-tracking branch 'origin/develop' into feature_email_field_list,02,dbf7f99a98754b0e236c29cb8588f5d18ab69fd9,2023
+OpenAtlas,2023-03-31T14:47:16Z,Alexander Watzinger,Mypy checks,03,ee458f7728d676ae7f6d582aa03ce2870a517ddc,2023
+OpenAtlas,2023-04-29T12:00:58Z,Alexander Watzinger,"Update changelog, Mypy and Pylint checks",04,7a75653aa0ea6b2998a2eee0e59a195fab6ad1de,2023
+OpenAtlas,2023-05-30T15:14:47Z,Alexander Watzinger,New description filter,05,74e4d75635e2a77b73504ccb346e753073a98ffd,2023
+OpenAtlas,2023-06-30T10:49:02Z,bkoschicek,try to test higher timeout for github tests,06,bb56dd9ef031fd5a7e75e40724d22169afa69324,2023
+OpenAtlas,2023-07-22T09:31:36Z,Alexander Watzinger,Raise version,07,803f0c297b1cb647b280c1035fe202f3d99876a6,2023
+OpenAtlas,2023-08-30T17:03:44Z,BernhardKoschicek,adapted fetch to new requirements,08,1dec2116c7a8c82877b6fdfbc469e724d67335b7,2023
+OpenAtlas,2023-09-29T14:40:02Z,BernhardKoschicek,Merge branch 'develop' into feature/iiif,09,931a378bc65f2e6148d8a62838482d50d44fe0ee,2023
+OpenAtlas,2023-10-30T16:05:45Z,BernhardKoschicek,added json object for search,10,429087e135afae2bc9f056f851ed0e9d65ae3fc0,2023
+OpenAtlas,2023-11-30T15:32:38Z,Bernhard Koschicek-Krombholz,removed deprecated content template,11,200598df02d3dfd97a86820452089045d6334f76,2023
+OpenAtlas,2023-12-31T19:32:05Z,Alexander Watzinger,Merge branch 'develop' into feature/annotation_leaflet,12,b2a41025340fba363efaa8887a37a5d22bd931eb,2023
+OpenAtlas,2024-01-31T13:45:24Z,Alexander Watzinger,Refactor admin views,01,82712ad7fd791b38e1240f55f41c9a9569b792a3,2024
+OpenAtlas,2024-02-28T15:38:19Z,Alexander Watzinger,Fix for passwords cannot be revealed (#2224),02,ddbd317d9ee10efad3d8a624cc3bba46c353ee64,2024
+OpenAtlas,2024-03-31T17:15:24Z,Alexander Watzinger,Merge branch 'develop' into feature/table_fields,03,1ebbfa231cf93f410c8e8d29978c2d4a19951b19,2024
+OpenAtlas,2024-04-30T10:40:31Z,Alexander Watzinger,Unit label fix for value types,04,a7d0e82b4f61df62785979a31dcde73ec6e19ed2,2024
+OpenAtlas,2024-05-31T13:55:41Z,Alexander Watzinger,Update changelog,05,ceda14a4732e598af3144020c0ff4e1958b96bfa,2024
+OpenAtlas,2024-06-26T14:43:56Z,Alexander Watzinger,Fetch info from Wikidata,06,2dc5a3ff7aeb2ee010697dae17ee9f3a00800c1e,2024
+OpenAtlas,2024-07-19T12:52:08Z,oliviareichl,autocomplete for GND,07,32fb61aac27bda385cff1e160368a72c0f83389f,2024
+OpenAtlas,2024-08-21T11:40:30Z,Alexander Watzinger,Update manual with new date checks,08,6b48d936f62a157356df1629718938e5cd1429b6,2024
+OpenAtlas,2024-09-30T15:57:29Z,Bernhard Koschicek-Krombholz,refactor with alex,09,69730bcfe3d967437b333564437da5c706ab218b,2024
+OpenAtlas,2024-10-31T13:41:38Z,Alexander Watzinger,Update changelog,10,7aa79cd101f9ce91cf307fab7daa28ce5e12970b,2024
+OpenAtlas,2024-11-30T15:17:00Z,Alexander Watzinger,API tests: removed workaround and formatting,11,ebe5a1620a60b9e686a9e6929803fcd0f2673daa,2024
+OpenAtlas,2024-12-30T15:30:43Z,Alexander Watzinger,Update changelog,12,e781b4bf738d95785d6d0da4cdc03e8f026c55dc,2024
+OpenAtlas,2025-01-30T14:39:30Z,Bernhard Koschicek-Krombholz,pylint and mypy,01,8736fa5e1e10f289e5918397962a2c26e96bc437,2025
+OpenAtlas,2025-02-27T17:54:18Z,bkoschicek,merged export and import tests,02,31a5485680d6ce87f9979848d979f1873d761abb,2025
+OpenAtlas,2025-03-27T14:54:51Z,Bernhard Koschicek-Krombholz,pylint,03,426d4e8ef9f89d42b1047478528f183c0007d100,2025
+OpenAtlas,2025-04-18T17:54:00Z,Alexander Watzinger,Update changelog and upgrade notes,04,14071a5fa75f9a04626f143eda41073548b50adf,2025

@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+ADMUR,2020-07-31T16:12:05Z,AdrianTimpson,renamed,07,e11b6efc23d8b41d2362260b3dcd881238117d97,2020
+ADMUR,2020-08-19T19:04:39Z,AdrianTimpson,ongoing work from 19th Aug 2020,08,7ce9483f70f4cf2724d0381890fc77a87a38be0a,2020
+ADMUR,2020-09-29T14:48:57Z,AdrianTimpson,model selection,09,0ede9bc1321b0b1081fce4379ce8ef1df28aad33,2020
+ADMUR,2020-10-29T20:55:36Z,AdrianTimpson,pre proof submission,10,2d487b82c19dab2b3895176f0a6baa81e530a3a8,2020
+ADMUR,2020-11-29T16:38:34Z,AdrianTimpson,tarball reduced in size,11,2ee93e407c2b940d4e36e1063c9095bf2f2ca9dd,2020
+ADMUR,2020-12-22T19:46:53Z,AdrianTimpson,recoving previous,12,5782114b98fd22df8af5f40fb119d82c0a007018,2020
+ADMUR,2021-01-27T11:47:20Z,AdrianTimpson,publication ref,01,3e6c07e920da99c8f2bc48301909e005a5ab31b1,2021
+ADMUR,2021-03-19T19:00:55Z,AdrianTimpson,Update cran-comments.md,03,59d41346b46fd39d75d9a5110429bda2427b2472,2021
+ADMUR,2023-09-11T14:31:12Z,AdrianTimpson,test warnings,09,838f661049b15cfcb514105bbf7ed900aa2e71ea,2023

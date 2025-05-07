@@ -92,7 +92,7 @@ class GitLabFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Project not found or not accessible (could be moved, renamed, or private)"
-                log_error_to_csv('output/errors.csv', repo_info, 'gitlab', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'gitlab', error_msg)
                 return []
             
             # Get commits
@@ -119,7 +119,7 @@ class GitLabFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Error fetching commits: {str(e)}"
-                log_error_to_csv('output/errors.csv', repo_info, 'gitlab', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'gitlab', error_msg)
             
             # Get tags
             tags = []
@@ -130,7 +130,7 @@ class GitLabFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Error fetching tags: {str(e)}"
-                log_error_to_csv('output/errors.csv', repo_info, 'gitlab', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'gitlab', error_msg)
             
             return commits + tags
             
@@ -139,7 +139,7 @@ class GitLabFetcher:
             # Log error to CSV
             from src.utils import log_error_to_csv
             error_msg = f"Error fetching GitLab commits: {str(e)}"
-            log_error_to_csv('output/errors.csv', repo_info, 'gitlab', error_msg)
+            log_error_to_csv('output/errors/error_log.csv', repo_info, 'gitlab', error_msg)
             return []
     
     def fetch_tags(self, project, item_name):

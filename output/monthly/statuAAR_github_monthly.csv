@@ -1,0 +1,14 @@
+item_name,date,author,message,month,sha,year
+statuAAR,2020-02-29T19:39:50Z,Christoph Rinne,"Introduced a grouping variable (grp). Individual (ind) and grouping var (grp) are optional now and set to ""all"" if NULL. In consequence some adjustments. Additional testdata added.",02,61a8381ce86d46696f4630c892d0244a0185e064,2020
+statuAAR,2020-03-17T15:18:11Z,Christoph Rinne,"- Roller1888.cs minor errors in the heading, added the data for fresh/dry femora.",03,5480e33dc4fb0f4531731b089ae61691d1fc45a0,2020
+statuAAR,2020-07-27T11:21:43Z,Christoph Rinne,deleted  empty lines to test key,07,5b4ca975a2f715437edbe65d9b6936dcfa6c0b8b,2020
+statuAAR,2020-10-15T08:06:54Z,Christoph Rinne,readuserdata to be continued in line 162,10,9ad981dc8b628048b83ad6639caa2462066d2c67,2020
+statuAAR,2020-11-18T13:16:30Z,Christoph Rinne,If no column name for Ind is provided (ind=NA) and no column Ind exists it will be created. Lateron filled with rownum.,11,2678804ce093f3a097bb9fb653ff6722009d1312,2020
+statuAAR,2020-12-31T10:14:45Z,Christoph Rinne,correcting wrong definition of factor labels and levels,12,b379d81d1e4b3828a1d5f6cf421d31a0e2f4a0fd,2020
+statuAAR,2021-01-27T06:42:55Z,Christoph Rinne,Merge branch 'master' of https://github.com/ISAAKiel/statuAAR,01,9cae0e0661dd0da540bcfc1a7718f1ed1d6cef4b,2021
+statuAAR,2021-06-23T15:36:18Z,Christoph Rinne,brackets and other errors,06,35a4ca3b34a0f2734a044678e92107abcab71228,2021
+statuAAR,2021-07-14T15:29:14Z,Christoph Rinne,isaak meeting results,07,aa21b8c7a3b9e73d6d057819239a84c28b9fb607,2021
+statuAAR,2022-04-20T15:10:41Z,crinne,working on ocumentation,04,dd0396ced49645508174d760d8de126f7f661187,2022
+statuAAR,2022-05-04T14:28:54Z,Christoph Rinne,statuaar-treffen,05,bb672547615d76bcef4220f419791a87d9234176,2022
+statuAAR,2022-06-29T13:09:03Z,Christoph Rinne,"strange ... missing """,06,847898b424d5bdb4294c8a9efec202f8d3d7537e,2022
+statuAAR,2022-07-13T16:13:37Z,Christoph Rinne,"documentation & check, examplemeasures.concordance.rollet1888.csv to be done",07,c11ad7aca9f1a955bddb93d8e877f67ab1d14d2b,2022

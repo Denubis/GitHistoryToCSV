@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+aion,2023-04-26T12:56:22Z,nfrerebeau,Add a plot method for time series,04,2e44b0817410b92dd3d95a829ab3265bc5c4f356,2023
+aion,2023-05-31T10:10:50Z,nfrerebeau,Remove Allen relations,05,4149314c3635afc62e2953926188d5eb62683fb1,2023
+aion,2023-06-13T09:25:19Z,nfrerebeau,Bump package version,06,1ce1eb7e7e9da53dc875ac82069586ebde93c304,2023
+aion,2023-08-22T13:37:57Z,nfrerebeau,Bump package version,08,1ccb67a184b27d3ed3c98de39f46fdf1f73db02e,2023
+aion,2023-10-27T14:19:43Z,nfrerebeau,Import arkhe >= 1.4.0,10,af67a45a55c73f6b2b6df4a82804361de20cf3b1,2023
+aion,2023-11-20T12:27:14Z,nfrerebeau,Update pkgdown configuration,11,7dff9a46331300be7c0ae06e23b8f6c7dc83facf,2023
+aion,2024-01-15T09:44:39Z,nfrerebeau,Make the Acknowlegements section more explicit (#2),01,903666b21a471abfcc7807d8c916951951c78f8d,2024
+aion,2024-02-26T12:08:47Z,nfrerebeau,Import arkhe >= 1.6.0,02,e12bb85167999485c499935154c5915810f6f9d2,2024
+aion,2024-03-14T17:01:07Z,nfrerebeau,Use real-world example,03,8c2450a7dda33f0b0badbde261b8a8aa5b985aeb,2024
+aion,2024-04-30T15:24:52Z,nfrerebeau,Remove pkgdown workflow,04,d510d26d3129e7fab58d343a2b5d130717456213,2024
+aion,2024-07-26T14:27:26Z,nfrerebeau,Remove vignette,07,f0a91edd332b6b99a6dc1a0f20b52c512b33efa3,2024
+aion,2024-09-26T10:40:13Z,nfrerebeau,Fix time span calculation,09,311eb7aa4c3a179e6f63a944463a7582da387357,2024
+aion,2024-10-04T15:29:35Z,nfrerebeau,Bump package version,10,06dd575a93210df11266ba8a93dd659f66f9ba08,2024
+aion,2024-11-15T16:12:15Z,nfrerebeau,Improve French translation,11,098b2b10e683d90c63af3b0cb8b987f86accc97f,2024

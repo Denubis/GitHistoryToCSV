@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+p3k14c-data-scrubbing,2020-06-23T19:29:25Z,LuxMiranda,Concatenation of source datasets instead of using the family tree,06,35307c8619e7496500b0e9c1e66453ff8f3dffbf,2020
+p3k14c-data-scrubbing,2020-07-13T23:43:31Z,LuxMiranda,Fix clean_cities500.txt,07,4bc0598d855e3a3227e15642138a5b0e05b288f6,2020
+p3k14c-data-scrubbing,2020-08-22T19:03:47Z,LuxMiranda,Initial county-filling info,08,b63ecf21dbfdfaa4322740253fee6e379d395652,2020
+p3k14c-data-scrubbing,2020-10-31T17:50:26Z,Lux Miranda,Merge branch 'master' of github.com:people3k/radiocarbon-scrubbing,10,aef1185e6e4fb80762bfc4668d82bdaa82db0220,2020
+p3k14c-data-scrubbing,2020-12-29T16:14:22Z,Lux Miranda,Add d13C handling,12,985559e0dbf6294d0f6e4d7ac12f33a135d5d311,2020
+p3k14c-data-scrubbing,2021-01-21T13:41:57Z,Lux Miranda,Add more lab codes,01,0ffc5561c579394280a291a3d6b00452f0ddd9b9,2021
+p3k14c-data-scrubbing,2021-02-24T19:00:09Z,Lux Miranda,Fix USA name issue,02,008e9d140d20e94d7378c7183d165b13230d0b2f,2021
+p3k14c-data-scrubbing,2021-03-29T20:21:41Z,Lux Miranda,Successful fuzzing of the mush,03,0d9b414e1c755f712dfecbe5e537bb0c064a753b,2021
+p3k14c-data-scrubbing,2021-04-06T13:01:46Z,Lux Miranda,Merge branch 'master' of github.com:people3k/p3k14c-data-scrubbing,04,3baa461c421d227b5343b84e96335faa52aeda48,2021
+p3k14c-data-scrubbing,2021-06-15T17:24:54Z,Lux Miranda,Fix whitespace issue,06,62e8eecd40e57f4caa4db1b2016edb7e2b60d4c0,2021
+p3k14c-data-scrubbing,2021-07-28T21:45:08Z,Lux Miranda,Update README with charfix instructions,07,23f51fa7dde024c2b3849d67d64a4b46d40361f1,2021
+p3k14c-data-scrubbing,2021-09-20T15:20:07Z,Lux Miranda,Create CITATION.cff,09,4b744504dbc8f124db4abe6540deb5500b924a96,2021
+p3k14c-data-scrubbing,2022-05-11T18:32:38Z,Lux Miranda,Reorient to support importing to REPL,05,2c520fb97da82a47af355729ebb33e58651b25ac,2022
+p3k14c-data-scrubbing,2022-06-05T04:32:22Z,Lux Miranda,Standardize Lab IDs,06,39e53996abfaba4b8dc4a573451c396a79fdadcf,2022

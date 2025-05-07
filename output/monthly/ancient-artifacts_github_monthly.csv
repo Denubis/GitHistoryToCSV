@@ -1,0 +1,5 @@
+item_name,date,author,message,month,sha,year
+ancient-artifacts,2021-02-24T21:01:22Z,Mark Raj,created vroom file,02,41967fb1362289ec0f4c35bf8288f032fdab7893,2021
+ancient-artifacts,2021-03-29T18:06:35Z,Mark Raj,Earth template code,03,f784a2988b7da61616ecb26daf9b2c7cc6efda8e,2021
+ancient-artifacts,2021-04-30T20:29:16Z,riethae,"best folds for all models included, plotting for metrics and mean metric value per model produced",04,0b8c04f3e6371e776542fb6eadb2e20f6483ce2d,2021
+ancient-artifacts,2021-05-17T22:19:24Z,Mark Raj,Merge branch 'inference-notebook' of https://github.com/vanderbilt-data-science/ancient-artifacts into inference-notebook,05,f618c5e9aab4c19294638328d25084628b5a90ec,2021

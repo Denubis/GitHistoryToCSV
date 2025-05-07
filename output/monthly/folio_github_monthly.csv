@@ -1,0 +1,24 @@
+item_name,date,author,message,month,sha,year
+folio,2021-01-28T14:35:08Z,nfrerebeau,Prepare for next release,01,2a5a03d808185d5be555e44bf7a48aecc3b62058,2021
+folio,2021-02-12T13:32:13Z,nfrerebeau,Change version to 1.0.0.9000,02,4c116cf28d73d648c53230b0bed6365996167ba1,2021
+folio,2021-03-28T15:00:10Z,nfrerebeau,Add NGRIP data,03,e1678b9a82df6ef58fae1ac2faaff9e41e8c7a0a,2021
+folio,2021-04-21T09:24:13Z,nfrerebeau,Use markdown in documentation,04,4c50110bc820eb97d06879da9507dbec55c86354,2021
+folio,2021-05-24T15:10:41Z,nfrerebeau,Add Matomo tracking code,05,ba7a44218213996b693bcf736926de3d5529fca8,2021
+folio,2021-08-18T10:13:26Z,nfrerebeau,Update package metadata,08,7bc50601bfcf70e4802a0304a14aa3840cb7c76a,2021
+folio,2021-08-25T13:53:37Z,nfrerebeau,Use custom pkgdown template,10,aebbf545f98e25320a505edf83db1f9e4fabaa45,2021
+folio,2021-11-05T17:31:13Z,nfrerebeau,Use CITATION.cff,11,cda37cb7651af67929d6ec3a2eea770c2ae72b89,2021
+folio,2021-12-04T14:22:00Z,nfrerebeau,Reuse GitHub workflows,12,bfeff2ff2720c47e4ea6c7062f39220b4d3e2fc1,2021
+folio,2022-05-18T10:19:26Z,nfrerebeau,Add NGRIP data (GICC05 time scale),05,50ae231a9be5dd90b2aa4dc908221b8e850fdb08,2022
+folio,2022-06-09T13:15:42Z,nfrerebeau,Ignore some files when exporting,06,5070629ba10d31cb99a3b602ea60c11f8500de02,2022
+folio,2022-08-16T18:22:12Z,nfrerebeau,Update shared workflows,08,9c3189c7374278498773cda2ca42dc99689c6763,2022
+folio,2022-09-08T09:41:53Z,nfrerebeau,Add dependencies badge,09,8f124113a5004e228e017a9c516b9075f203916b,2022
+folio,2022-10-31T13:09:26Z,nfrerebeau,Bump package version,10,a64d84ada1b5859bfd63e970d4edd5577c7ceaa4,2022
+folio,2022-11-29T11:48:17Z,nfrerebeau,Add vegetation data,11,9e7525c6214f99620768270c49d6e8165a77671a,2022
+folio,2023-05-24T16:50:40Z,nfrerebeau,Use bibentry() instead of citEntry(),05,e6703d0cf571ec4deba2dd08deb0169c842af063,2023
+folio,2023-11-20T12:33:18Z,nfrerebeau,Update pkgdown configuration,11,44b45446ba2fe56a2ce67765c883260fc8c475df,2023
+folio,2024-02-26T14:47:42Z,nfrerebeau,Move pkgdown configuration,02,491e16d8fb8c4cb27b4e0a4e8cea2640ba85d84c,2024
+folio,2024-04-30T15:28:27Z,nfrerebeau,Remove pkgdown workflow,04,bdec4532a847a85811482b364a6ab96f592a2944,2024
+folio,2024-06-04T14:37:13Z,nfrerebeau,Update GitHub Actions workflow,06,0c31f0e47a19802515b3fb1768bf23c3d65a205c,2024
+folio,2024-07-26T12:16:45Z,nfrerebeau,Fix typos,07,d181342e079f91de018e3e12e879b5c8300d7d6a,2024
+folio,2024-08-26T12:27:40Z,nfrerebeau,Fix kommos dataset,08,c775ad36491752ecd22edc7fcacb2500f99ea971,2024
+folio,2024-09-03T10:10:42Z,nfrerebeau,Prepare for next release,09,c2b163787dac31daeb2aa504c633155c58005246,2024

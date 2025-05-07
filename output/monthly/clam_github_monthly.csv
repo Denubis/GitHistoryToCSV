@@ -1,0 +1,12 @@
+item_name,date,author,message,month,sha,year
+clam,2020-08-12T18:05:44Z,Maarten14C,added IntCal20 calibration curves,08,2498bb30250040a3ed3e216b48b7b2ef40092be7,2020
+clam,2020-09-27T14:34:24Z,Maarten14C,moved plot from graphics to base (R 4),09,ef61340caa87f3482027caed73bea2891ba64986,2020
+clam,2020-11-24T13:29:25Z,Maarten14C,release for CRAN,11,a518c78c909293ac36580bf6a5d66a54edbc02ef,2020
+clam,2021-01-23T20:12:54Z,Maarten14C,updated news file,01,0851eaba7998288f960d38c1fbd1198d7abe7396,2021
+clam,2021-04-14T13:50:49Z,Maarten14C,removed closeAllConnections,04,d29cab45ebf8679ede1b33148b01d379a33a1dcb,2021
+clam,2021-05-11T11:04:26Z,Maarten14C,preparing for CRAN,05,8a5af26802484253061cb93c9ff155f33855e39a,2021
+clam,2021-08-18T18:56:13Z,Maarten14C,updated names,08,3462abaa4d2d3126a42f7b28dff7ef56756753d9,2021
+clam,2022-08-17T09:52:53Z,Maarten14C,preparing for CRAN submission,08,c115eb9db5df8ac565aac0211c9eae232b90097a,2022
+clam,2024-09-25T20:33:56Z,Maarten14C,preparing for CRAN submission,09,a068d43b2e43dc915545f717d941a01a6b00a708,2024
+clam,2024-12-25T22:47:46Z,Maarten14C,some rice changes,12,13bd1a9669b6d44a959fe8d38d1080f39b7e7f79,2024
+clam,2025-01-11T11:57:50Z,Maarten14C,preparing for CRAN resubmission,01,b4f62d83e463651877635a27dcc76e673453560d,2025

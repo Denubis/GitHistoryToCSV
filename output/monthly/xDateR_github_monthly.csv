@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+xDateR,2019-07-25T00:40:07Z,Andy Bunn,cleaning up code. commenting.,07,e307469f2b82cd3a9091b88faf7dc6c38b6fa466,2019
+xDateR,2019-08-21T15:49:06Z,Andy Bunn,some commenting,08,f3c81893eff292dd14d9f662675f1a2be3ad5425,2019
+xDateR,2021-07-10T17:39:19Z,Andy Bunn,cosemetic changes resulting from last commit,07,0c388e06165b2a5f52e7c222342cd72f7d2cb18c,2021
+xDateR,2022-06-30T04:12:05Z,Andy Bunn,plotly version of crs plot. think it's a good idea?,06,afc1ff1b19446781c39551ab1b9aed2c729f0fc7,2022
+xDateR,2023-05-30T20:34:11Z,Andy Bunn,Working on report issues with knitting.,05,792996506c4570c453495b665c323ad9064b0d56,2023
+xDateR,2023-06-22T17:06:07Z,Andy Bunn,missing package in check,06,65da0becacaa9d64219e9c0d75741e6782abc581,2023
+xDateR,2023-09-22T23:16:16Z,Tyson L. Swetnam,created manifest.json for RStudio Connect,09,a1b675cb909652a738d66b503e6407a645028407,2023
+xDateR,2024-01-18T18:53:35Z,AndyBunn,"Many small changes to make sure the variables all exist for the report generation. Also modified the edit tab to only show the save, revert, generate widgets if a change has been made to the rwl.",01,72a04200739a3a3ed244969093b8b6cd54d01ed5,2024
+xDateR,2025-03-18T22:58:21Z,AndyBunn,Rewriting manifest via renv.,03,f59e50fa9748e2cac3057a24c153389b4fdf99ef,2025

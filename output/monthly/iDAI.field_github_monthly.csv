@@ -1,0 +1,114 @@
+item_name,date,author,message,month,sha,year
+iDAI.field,2016-01-30T13:49:41Z,jan@jan-wieners.de,Change colour of sync button in navbar.,01,de73c999bb785c8cd2deed1ba1604897e2513fd6,2016
+iDAI.field,2016-02-29T22:18:23Z,Daniel,Prevent false positive.,02,6c7e9938f5f11885d0842a7f8c6eb63ea0d224e4,2016
+iDAI.field,2016-03-21T14:04:39Z,Daniel,Trigger ci success.,03,e770a5fedb9a87b0b835d9fa27afe734a6f8d078,2016
+iDAI.field,2016-04-29T20:15:26Z,Daniel de Oliveira,Remove unnecessary param and rename another for show proper intent.,04,554b1e0f2bd559560cc5290a37192bbd0835633a,2016
+iDAI.field,2016-05-31T19:16:59Z,Daniel Marreiros de Oliveira,Use latest library version.,05,984108f77f297e62a5ef96ec2a041bfeb4ca9793,2016
+iDAI.field,2016-06-30T14:10:35Z,Thomas Kleinke,Merge remote-tracking branch 'origin/master',06,4c639fad47c2b6232ebd06bd4363d4fb589adb72,2016
+iDAI.field,2016-07-29T11:29:18Z,fabianzwodrei,removes documenation on deployment for continuous integration,07,bcfbbb03050efe19c8a1e0c8a5fd0b2cfe060b4c,2016
+iDAI.field,2016-08-31T15:58:35Z,Thomas Kleinke,fixed router link to overview,08,5be4add61d2e16db424adcb581a036b962bead19,2016
+iDAI.field,2016-09-29T12:14:00Z,Jan G. Wieners,Style popovers (implements #3511).,09,b8a636d476a817f8fbf94141e039f19ae3cf5526,2016
+iDAI.field,2016-10-31T13:19:21Z,Jan G. Wieners,Fix missing roboto fonts (closes #3663).,10,525b4ad5bdc0b30b106e02b46b0a0c868031de3d,2016
+iDAI.field,2016-11-30T22:38:41Z,Daniel,Rename vars and remove deps and imports.,11,27cb8699754728a418d3eef610fe4f8bbd5d65ac,2016
+iDAI.field,2016-12-09T17:20:08Z,Simon Hohl,Removed deprecated functions.,12,ed62cd270fa3e3d7ff579b236b66366af6f881a7,2016
+iDAI.field,2017-01-31T14:17:11Z,Jan G. Wieners,"Use latest version of mdbootstrap, adjust styling.",01,4dcb25dc0313b92db7354cbdffdf4579b5cd6864,2017
+iDAI.field,2017-02-28T18:38:41Z,Fabian,Merge branch 'master' of https://github.com/dainst/idai-field-client,02,657fd0880833584b3ae35e909d6bf1357845d104,2017
+iDAI.field,2017-03-31T12:53:25Z,Sebastian Cuy,first draft of resource syncing e2e tests,03,61dcad99768181011e1a6c6d88409ee6cef7d1c6,2017
+iDAI.field,2017-04-27T14:26:59Z,fabianzwodrei,adds tests for list component,04,df674e8ac689a5da8262437b0f348b72f8c2da29,2017
+iDAI.field,2017-05-31T15:25:34Z,Thomas Kleinke,allow deletion of sync target address,05,6fea5ec46f84cabee603eea493013424a0eebec7,2017
+iDAI.field,2017-06-30T20:27:38Z,fabianzwodrei,improves expaning mainTypes in List,06,12a838ebb5ff9c9009b1b4941dc829367abb0458,2017
+iDAI.field,2017-07-31T12:40:04Z,Thomas Kleinke,use newest components,07,fd24ae590ebef18f2fb5e305c61b4e51b19b58ab,2017
+iDAI.field,2017-08-31T22:39:48Z,danielmarreirosdeoliveira,improve test maintainability by using readable selectors,08,663b306526abcc72cb59295d355dd09bcc93fe4b,2017
+iDAI.field,2017-09-30T18:32:26Z,daniel,remove leftovers of removed output,09,0e48072ecf76a27cebeac8ada6f42b4df8a42d3c,2017
+iDAI.field,2017-10-31T19:54:50Z,daniel,add apidoc,10,ef4d43c19e06cf6395c5092b1e5ca99f070f501a,2017
+iDAI.field,2017-11-30T13:13:37Z,danielmarreirosdeoliveira,Remove apidoc,11,44c03c4eb1ec997fabc05ad265d0727b2786c402,2017
+iDAI.field,2017-12-18T12:42:03Z,Thomas Kleinke,don't show plus button if the row is not a part of the search result to prevent display bugs,12,23bb37c37301c2db0dcbf7c7553124d13c6909dd,2017
+iDAI.field,2018-01-31T21:37:55Z,danielmarreirosdeoliveira,Fix widgets e2e,01,7ad85717e16ac3efdccac8cda5a8a9401f1ff526,2018
+iDAI.field,2018-02-28T14:36:36Z,Thomas Kleinke,move interface TreeNode to matrix file,02,1fa87f007cab351e57ccbcc7cfedb9689069c0a1,2018
+iDAI.field,2018-03-29T19:10:52Z,danielmarreirosdeoliveira,Remove focus,03,c874215b5e9181e53e0ae5d296a9a5a81316ad6c,2018
+iDAI.field,2018-04-30T00:45:20Z,danielmarreirosdeoliveira,Implement backup,04,b39e9969337960ebe8a62ca5c8e3b67977f51dd2,2018
+iDAI.field,2018-05-31T17:51:56Z,Thomas Kleinke,use newest components,05,2199931e5aec66c41cccaf41cb7d2c5b24799758,2018
+iDAI.field,2018-06-30T15:08:46Z,Thomas Kleinke,adjust navigation buttons layout,06,fefb09e72ff10cb6f6ef3c2ae98c0fe3ad3d2fec,2018
+iDAI.field,2018-07-31T20:01:22Z,daniel,Refactor a bit,07,592cf0d2c7c8f7b964ea1cf0fbcae1013e3b88bc,2018
+iDAI.field,2018-08-31T16:21:20Z,Thomas Kleinke,edit label,08,417230dd41f07d449ab042211d23b95ef2f108d5,2018
+iDAI.field,2018-09-30T12:43:43Z,Thomas Kleinke,quit loading state on save error,09,3821342246b592ec3818d26831f79b5a5c9c960a,2018
+iDAI.field,2018-10-31T14:05:29Z,Thomas Kleinke,"show ""download interrupted"" icon in taskbar instead of uncaught exception message box",10,ec6780181e2d3d5f4da094d12510788b2a678d33,2018
+iDAI.field,2018-11-30T23:47:36Z,danielmarreirosdeoliveira,Organize imports,11,4bcf9908151336f7b3ba696d4401a6f894325c1d,2018
+iDAI.field,2018-12-28T10:57:58Z,danielmarreirosdeoliveira,Use latest components,12,c5a1d9f17b62c436bd1265644b81ab90e8e1f17f,2018
+iDAI.field,2019-01-31T21:47:21Z,Thomas Kleinke,refactor DoceditLauncher code,01,698d6b39c5ef48b2d9ff682ca6d9d97b8a9c6933,2019
+iDAI.field,2019-02-28T21:42:38Z,Thomas Kleinke,fix image overview e2e tests,02,a0d0054ed8ffdb75ee315ce41576b37ab1f434da,2019
+iDAI.field,2019-03-26T16:49:04Z,danielmarreirosdeoliveira,Differentiate parent and child properties,03,dc753cb5a24474523e57d0d0a120350c5ea5dba3,2019
+iDAI.field,2019-04-30T18:07:45Z,Thomas Kleinke,make method static,04,b290b942b1578eb8bfdd07a816874001a1d76a87,2019
+iDAI.field,2019-05-29T11:06:04Z,Thomas Kleinke,improve tab manager behavior on resize,05,335370694ec058b4b6d6d7569f6058d412297ff3,2019
+iDAI.field,2019-06-28T11:18:29Z,danielmarreirosdeoliveira,Show type counts on csv export,06,c04141d75d60927a03593b67aa76d2c8422877f3,2019
+iDAI.field,2019-07-31T10:21:04Z,Thomas Kleinke,adjust cursor in document picker,07,9a167e46ca07ae8e78d471ca531e5cb6686a89f7,2019
+iDAI.field,2019-08-28T08:48:29Z,Thomas Kleinke,shorten style definitions,08,16eaa019bc2e030eca7c0c7fa9082baf00732e19,2019
+iDAI.field,2019-09-30T23:51:28Z,Daniel de Oliveira,Use latest tsfun,09,cac8d7d4a9b912289203d496248e730d205f2d6f,2019
+iDAI.field,2019-10-31T15:37:21Z,Thomas Kleinke,Remove field draughtsmen from Kalapodi configuration,10,5f8d1fba2a6807a9d4b7b93f7eaf54de6e6cd8c2,2019
+iDAI.field,2019-11-28T13:50:57Z,danielmarreirosdeoliveira,Unfocus e2e,11,396f7e9986123e2be0c56da8e04ee7cf849a1818,2019
+iDAI.field,2019-12-31T21:51:31Z,danielmarreirosdeoliveira,Merge remote-tracking branch 'origin/2.14.x',12,fc81af6126142a4f6ba22d06389e7e646a02c02f,2019
+iDAI.field,2020-01-31T11:49:12Z,Thomas Kleinke,Always show info buttons in type list,01,c4c1cf57ebe7c49bda65ae85a7c18d4f2a91acfb,2020
+iDAI.field,2020-02-29T15:25:08Z,danielmarreirosdeoliveira,Simplify,02,bdc77040c5c9a9d5a3d5d1a869097023a82b0b64,2020
+iDAI.field,2020-03-31T22:24:47Z,danielmarreirosdeoliveira,Extract fields-view-util,03,50270f49c7d5bc423ca16ab55b06c3f12228c1be,2020
+iDAI.field,2020-04-30T10:53:33Z,Thomas Kleinke,Adjust to code style rules,04,322bc67d1767ed197a26d2876d6d9fd9def59cb3,2020
+iDAI.field,2020-05-31T22:00:14Z,Daniel de Oliveira,setGeometriesInGroups in build-raw-project-configuration,05,836c934b16fad828f8f9bc5f1424baf30c88cf8d,2020
+iDAI.field,2020-06-30T16:46:27Z,Daniel de Oliveira,Add author,06,44fbef3aac0135c3542fde567db9d35a7ec95aa5,2020
+iDAI.field,2020-07-29T10:19:33Z,danielmarreirosdeoliveira,Add abbircella configs,07,0a08a044e4c050d27ed3bd31040512a28dbf066b,2020
+iDAI.field,2020-08-31T15:07:29Z,Thomas Kleinke,Use newest components,08,1816735db94cd4c43f5a8a12593f52a1f26cdb06,2020
+iDAI.field,2020-09-28T13:22:28Z,Thomas Kleinke,Set English & German labels for all concepts,09,3709ba21db9e4b429afc6ff64ed94b05e1e94a2a,2020
+iDAI.field,2020-10-26T10:40:40Z,tkleinke,Update README.md,10,db5869cacdc34da75da7f6eab78540f6d602bd6d,2020
+iDAI.field,2020-11-27T16:29:57Z,Thomas Kleinke,Fix subsystem tests,11,c16c47b11cdfd1401382d4e0065e8bd6e1ac9830,2020
+iDAI.field,2020-12-21T14:51:55Z,Daniel de Oliveira,Merge branch into master,12,ab144d5927962777257c7a92a8068a579e9e3fcb,2020
+iDAI.field,2021-01-28T19:24:46Z,dependabot[bot],Bump electron from 9.3.5 to 9.4.0,01,674bb15aa7317a16bdfad2940b58680e07ff735e,2021
+iDAI.field,2021-02-26T16:56:50Z,Thomas Kleinke,Adjust opacity of disabled layer menu button,02,ae29c0b98951e570fd14529a734d4207339d4647,2021
+iDAI.field,2021-03-31T08:58:01Z,Sebastian Cuy,Fix typescript resolution,03,a2cbb90d1d4dc34e21a4547d852428eb115c537b,2021
+iDAI.field,2021-04-30T16:25:47Z,Michael,Rename SvgMap default export,04,22ef4bd7b77b776f466a2493dfdc90cb6b06b179,2021
+iDAI.field,2021-05-31T14:20:33Z,Michael,GeoMap sort parents by area,05,470ea2df94b2602328aa065f415b87fc557fffc1,2021
+iDAI.field,2021-06-30T16:37:16Z,Thomas Kleinke,Allow moving fields to other groups,06,ca5d4fca908752c6a395d73fbb67840dec356c7b,2021
+iDAI.field,2021-07-30T15:41:37Z,Thomas Kleinke,Show description with highest language priority if no label could be found in getLabelAndDescription,07,577f10eaf87abd90df9dded082d7fcb34414af3f,2021
+iDAI.field,2021-08-31T14:45:05Z,Michael,Map use location press position instead of page,08,2a42a3351a13967486a37ed6546aa4edb6e0f624,2021
+iDAI.field,2021-09-29T14:32:42Z,Daniel de Oliveira,Rename controller,09,ce641c9b384e63b3673a8ebc905ea7c6a8449ecb,2021
+iDAI.field,2021-10-29T09:36:53Z,Thomas Kleinke,Do not show empty fields in FieldsViewComponent,10,2fde577179c76c0179fd82489eea7b884340771b,2021
+iDAI.field,2021-11-30T16:42:28Z,Thomas Kleinke,Adjust layout on download page,11,c1bf38d43a258c78520c347942ac9d2bf203ffe9,2021
+iDAI.field,2021-12-17T15:14:19Z,Daniel,Remove references to postgres,12,fa7975beb2ef8ca1cb2c4c56404a2cf4f0a3482b,2021
+iDAI.field,2022-01-31T16:57:40Z,Thomas Kleinke,Show notification with reload button when the configuration document has been changed in remote database,01,80cfc294806bef30e2d81da889614ce6334a41f4,2022
+iDAI.field,2022-02-28T20:04:36Z,Simon Hohl,Adjust test to reworked landing page,02,3c9e8c0ff3aca62f578cbc98511284dc5aee37d3,2022
+iDAI.field,2022-03-31T15:27:29Z,Thomas Kleinke,Merge branch 'master' into imagesync,03,b2b02aa5eb10043614e14a1afe74d6909d1d4403,2022
+iDAI.field,2022-04-29T14:36:26Z,Thomas Kleinke,[notarize],04,4594d4087c50ba6bc9d4d68f8e27c89b65636e0c,2022
+iDAI.field,2022-05-31T14:43:27Z,Thomas Kleinke,Update web ui package-lock.json,05,1ea06316f45b0538817f66ccc7aacbe2ba7f2c43,2022
+iDAI.field,2022-06-30T14:08:55Z,Simon Hohl,Use more descriptive 'fake' uuids,06,1084cff0a357157a88eb47126752dbb028753916,2022
+iDAI.field,2022-07-08T08:59:39Z,Thomas Kleinke,Merge branch '3.0.x',07,e1d7d2d2b5dd21176bf55073cc731d90f48a3055,2022
+iDAI.field,2022-08-31T09:20:12Z,Thomas Kleinke,Do not focus close button when opening project information modal,08,b1a5b6109550b493dca59ddfb75ddebc222a1de0,2022
+iDAI.field,2022-09-30T14:03:04Z,Thomas Kleinke,Add unit test for validating map layer relations,09,fe29d4362c68af8d897cdba708acb175d9540666,2022
+iDAI.field,2022-10-31T12:00:53Z,Thomas Kleinke,Merge branch 'master' of https://github.com/dainst/idai-field,10,7ec3f542ae1794e6d9aeda0caafbc8b9824a0627,2022
+iDAI.field,2022-11-30T17:03:25Z,Thomas Kleinke,Update address to v1.2.1 [notarize],11,71453d18531b507d573ecd57b129e68b7e5467a2,2022
+iDAI.field,2022-12-21T15:13:26Z,Simon Hohl,Add encryption salt for cookies,12,39bdfb370e6dc71bf0aefa72cdc2a10f3fe48ca8,2022
+iDAI.field,2023-01-31T14:39:27Z,Simon Hohl,Update doc string,01,6c9cd0b8553a8d14f5611a1a963f21cc261b30b6,2023
+iDAI.field,2023-02-28T17:01:01Z,tkleinke,Adjust require,02,fd7250838dc79f903e2111b61558eab05f0bb2e8,2023
+iDAI.field,2023-03-31T18:37:29Z,Dan,Merge branch 'handle-multi-language-input-fields-in-ui' of https://github.com/dainst/idai-field into handle-multi-language-input-fields-in-ui,03,141f6e36f010288585ca8d5855b10d88dfe925cf,2023
+iDAI.field,2023-04-30T19:52:46Z,Dan,Remove todo,04,f8f7c86a224d85856360dbd732b261fe57f70a32,2023
+iDAI.field,2023-05-30T07:42:29Z,Thomas Kleinke,Update translations: Application window / English,05,7d1f87836534a605f46f5470fa812f77a3727eb4,2023
+iDAI.field,2023-06-30T13:05:25Z,Simon Hohl,Remove unused modules/configuration,06,d8a79206551e0a99f6bc6981d4f79466f134d4ae,2023
+iDAI.field,2023-07-31T16:09:10Z,tkleinke,Close searchable select in dropdown range element when deleting first value,07,92e34701447b18951299593cd5fb5f298558be3f,2023
+iDAI.field,2023-08-30T14:47:19Z,Simon Hohl,Update comment to align with code,08,6b0b63d9b153bd9403d9367deb63dca6758b4b09,2023
+iDAI.field,2023-09-30T13:41:04Z,Dan,Fix problem caused by missing url decoding,09,f99e78c944a2ff0d878968e7178ffe2853b70ab1,2023
+iDAI.field,2023-10-31T16:06:16Z,Simon Hohl,Move replication start out of form,10,48341f2835bc8d39da40529fadaeb9a5e6594f5e,2023
+iDAI.field,2023-11-30T17:38:19Z,Dan,Only do extra query once category filter is actually selected,11,eeff00adc847ac1c0f49014a010fd7ae7bee2ba5,2023
+iDAI.field,2023-12-21T13:03:00Z,the-last-pastafarian,Increase FieldHub version,12,4f59f4980bed95400f14aa270b59ef8c576e701b,2023
+iDAI.field,2024-01-31T17:55:14Z,the-last-pastafarian,still an issue with the id of the last change who seems to vary !,01,61610d103dbbc75e5156eeb1c03eb0e8cade59c4,2024
+iDAI.field,2024-02-29T17:28:12Z,tkleinke,Initialize printed fields when opening modal,02,fd0a4ef490ebeee12051f00a46752d4d10f5816f,2024
+iDAI.field,2024-03-31T08:37:14Z,Simon Hohl,Keep document UUID when switching project date or language,03,a60b2fb0c18b57057da52ca36ee127cf422d4f38,2024
+iDAI.field,2024-04-30T16:41:43Z,tkleinke,"Add chapter ""Warnings"" to manual",04,b0b71420fbdba8d2ab861dc519c872206c0c359d,2024
+iDAI.field,2024-05-31T14:07:03Z,Simon Hohl,Add environment variable for opensearch admin password,05,b6fae21c82f3da59433b2df6a7401e78d857ec85,2024
+iDAI.field,2024-06-28T14:33:45Z,Luna Watkins,Update translations: User interface / Portuguese,06,4a8398c9798d92b0393b972ad04f81d716fdc436,2024
+iDAI.field,2024-07-31T12:53:36Z,Simon Hohl,Fix pre-struct data access attempt,07,2bf31afa7093cb186496653953d580c59076a353,2024
+iDAI.field,2024-08-11T06:46:05Z,NotAceNinja,Update desktop.yml ,08,4d4d082586cd1317779dc7cee859e19c29bebb79,2024
+iDAI.field,2024-09-25T10:50:33Z,Onur Özbalaban,Update manual.tr.md,09,d5eb2e00055dbbe40724e61425762b2ea99d45e3,2024
+iDAI.field,2024-10-30T12:09:54Z,tkleinke,"Remove "":inherit""; always add all subcategories to domain/range",10,86e65d65039198bce256212c80b0ad436f4b507f,2024
+iDAI.field,2024-11-29T16:29:27Z,Thomas Kleinke,Fix logging,11,e348bb52a9c5d71f1110898b38255cb2dddfdb39,2024
+iDAI.field,2024-12-20T15:46:23Z,tkleinke,Scroll plus button into view if necessary after creating new relation,12,6173562b1c94df9919fac9e0023b4e7318c43ce7,2024
+iDAI.field,2025-01-31T12:47:17Z,Luna Watkins,Update translations: User interface / Portuguese,01,aa3641c182fd3dbfbcfa7823a288654abe738160,2025
+iDAI.field,2025-02-28T15:10:32Z,tkleinke,Suppress vm module warning,02,1efa1502606081551d3ef75a14616d4fede61088,2025
+iDAI.field,2025-03-31T16:14:04Z,Simon Hohl,Use Elixir dependency cache in github actions,03,b94bf69e74b5bfd9596d9a8579aae073ed3c5e6c,2025
+iDAI.field,2025-04-30T13:50:06Z,Simon Hohl,Bump fieldhub version in integration tests and deployment example,04,5b3bd4ea95d98498372311a916e46ed32658fd15,2025
+iDAI.field,2025-05-06T10:23:14Z,Simon Hohl,Refactor document components,05,749c66a7e765ed437ac11f0265cb1eaa3a8f3aa7,2025

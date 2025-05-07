@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+Alligator,2018-06-04T14:14:34Z,Florian Thiery,change ontology,06,9f59df4b13e3d40ddb8c066fd7074679ebfc8b94,2018
+Alligator,2018-07-12T08:24:45Z,Florian Thiery,set amt triplestore connection,07,d1de2f866e9cbd648eddcfa5afe7019e1e9d6dc7,2018
+Alligator,2018-08-20T07:22:05Z,florianthiery,delte ontology folder,08,0bfe39f50fb981cfb5cfd1f900362754d6170b93,2018
+Alligator,2018-09-27T09:03:44Z,florianthiery,add docs index,09,2bbc96a207486111bffc26dd42da067ebb58630c,2018
+Alligator,2019-01-07T14:35:46Z,florianthiery,fix rdf graph bug,01,636bac02150b90749f30fe0aaccc16052af3f154,2019
+Alligator,2019-02-19T14:45:44Z,florianthiery,addd local files,02,236a4f3d9176ac82c70cb50595b14faa68d2a1d8,2019
+Alligator,2019-03-26T10:36:34Z,florianthiery,add logo files,03,de5315e4f82a90c26680eace8fdf9d988f1c0c1a,2019
+Alligator,2019-04-12T10:29:19Z,florianthiery,achange folder,04,bc284920b84ccbdc7602018580cba273e8f8b613,2019
+Alligator,2020-08-19T06:13:40Z,florianthiery,delete webapp from repo,08,8b6ca4a380213bb8eabc95034d3f4303acce5dee,2020
+Alligator,2021-05-10T08:03:18Z,Florian Thiery,set new input file structure,05,04aecec8d528c54e4350605b1ee31d4de5981c5c,2021
+Alligator,2022-12-08T13:16:05Z,Florian Thiery MSc,Merge pull request #9 from RGZM/jersey2-swagger,12,84a837464a128f7f7adbb8a87b6d3e4864217a45,2022
+Alligator,2023-02-13T15:26:20Z,Florian Thiery MSc,Update LICENSE,02,0d58c4d8fc0a2da4d35aa1762222f575384fa4fa,2023
+Alligator,2024-03-26T16:59:11Z,florianthiery,update alligator ont-doc,03,01f396e4135454cbe9bf0b6ecf57b6b5ea0f201a,2024
+Alligator,2024-04-25T07:12:39Z,Florian Thiery,Update CITATION.cff,04,6ee512ba2e5d937d0c1f91c523c25d9040316282,2024

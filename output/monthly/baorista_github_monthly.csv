@@ -1,0 +1,12 @@
+item_name,date,author,message,month,sha,year
+baorista,2023-04-30T16:06:31Z,Enrico R. Crema,Initial commit,04,1748821e11e766564545db75825871392fe3ed7d,2023
+baorista,2023-08-24T17:21:05Z,Enrico Crema,Updated plot functions,08,2473768158c2d92c82eb20efd97a419fc05c9427,2023
+baorista,2023-09-22T16:15:54Z,Enrico R. Crema,Added logistic growth model,09,2774c526f12fc676ef79856e9687d5c924cde588,2023
+baorista,2023-11-13T12:28:53Z,Enrico R. Crema,Update README.md,11,d749bb759f014e5b49246ca56fc22891df7b9e75,2023
+baorista,2024-02-26T14:13:45Z,Enrico R. Crema,Update README.md,02,85382a221cfd13e7aeded4062a1bc8566b99b276,2024
+baorista,2024-03-15T15:59:51Z,ercrema,Updated DESCRIPTION with reference to preprint,03,e418267b43317aedd9f9cec83a86824774c06967,2024
+baorista,2024-04-15T20:18:55Z,Enrico R. Crema,Update README.md,04,825bc46233f7d0738b2aa0df2a9fee83e72125a2,2024
+baorista,2024-05-22T23:02:42Z,Enrico Crema,Merge branch 'main' of github.com:ercrema/baorista,05,93eed94546110d9e718aef41589411c85906daa8,2024
+baorista,2024-06-24T19:59:38Z,Enrico Crema,Added revised exponential model,06,d7ebb4d0a987b5c23426e99172b04a9032bbe4f5,2024
+baorista,2024-07-30T10:35:44Z,Enrico R. Crema,Merge pull request #6 from ercrema/v.0.2.0_dev,07,cb984b285199f5ae5ff7a947457fd091fb761a6a,2024
+baorista,2024-08-13T20:17:11Z,Enrico R. Crema,Merge pull request #7 from ercrema/v.0.2.0_dev,08,8b83f857cd169280e03010dbb25215dcf2dcab88,2024

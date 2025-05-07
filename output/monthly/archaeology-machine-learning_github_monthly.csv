@@ -1,0 +1,11 @@
+item_name,date,author,message,month,sha,year
+archaeology-machine-learning,2023-10-25T13:13:35Z,Lucy Killoran,Initial commit,10,a5fcb475494c36fed64d7aa58dc84f82ef257c13,2023
+archaeology-machine-learning,2023-11-24T16:12:50Z,Alex Brandsen,Fixed local links,11,5a8428d8e52c2de932a599fbcbf11e7496ee8be8,2023
+archaeology-machine-learning,2023-12-04T19:14:15Z,Lucy Killoran,Merge pull request #13 from alexbrandsen/main,12,8a1865b35ae88be6bb3486c422e09ecb9588817f,2023
+archaeology-machine-learning,2024-01-18T11:46:55Z,Lucy Killoran,Merge pull request #14 from joeroe/main,01,48eabe4a7aaa56731d5c17b99557975247d9f717,2024
+archaeology-machine-learning,2024-02-21T10:13:37Z,GitHub Action,updates csv and README with csv changes,02,7210698a0fb4773b953e9742fc975e5175988363,2024
+archaeology-machine-learning,2024-05-31T21:15:51Z,GitHub Action,updates csv and README with csv changes,05,7a1cf37a8bafc0ce4580d92ff1ef4d77f286eb88,2024
+archaeology-machine-learning,2024-06-04T16:53:03Z,GitHub Action,updates csv and README with csv changes,06,c7424437f43955090f4d640796c49fa0c893c6ed,2024
+archaeology-machine-learning,2024-08-05T11:31:47Z,Lucy Killoran,adds DOI/zenodo info,08,650112e2efbb7da4d8e75067743b234fabc37a5c,2024
+archaeology-machine-learning,2024-12-30T12:24:54Z,Joe Roe,Make TOC links relative,12,ba03f7104f7403af7e114869393c5e2a5c0d3768,2024
+archaeology-machine-learning,2025-01-01T17:08:17Z,GitHub Action,updates csv and README with csv changes,01,d6a0ff6277543573c272bbb4df115f75600b1ac7,2025

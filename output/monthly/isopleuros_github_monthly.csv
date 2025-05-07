@@ -1,0 +1,13 @@
+item_name,date,author,message,month,sha,year
+isopleuros,2022-12-30T12:28:24Z,nfrerebeau,Use GitHub Actions,12,e09fb115ec73f4dba2b9937811179b4648a45a5a,2022
+isopleuros,2023-01-16T16:43:32Z,nfrerebeau,Reorganize documentation,01,dca43ccb1d2fb42818179c63b974ec4edad624e5,2023
+isopleuros,2023-03-03T16:35:46Z,nfrerebeau,Adjust plot window limits,03,fdab2cd1fe451b3f5c7a4811cc338c466ea55e65,2023
+isopleuros,2023-04-24T07:38:55Z,nfrerebeau,Prepare for first release,04,9f374f042d5a430f1b0cabc35917bf6a7ed297f2,2023
+isopleuros,2023-05-24T13:17:36Z,nfrerebeau,Update logo,05,b09d34c5706c1390a73b3512d5399eccee9baafd,2023
+isopleuros,2023-08-07T10:57:19Z,nfrerebeau,Depend on R >= 3.5,08,d8269c9c63632d17782c98e304611d8124e27b45,2023
+isopleuros,2023-09-13T14:31:39Z,nfrerebeau,Add non-overlapping text labels,09,53400df55c98f1e5db35ae0f1eed4cf8bbc1e60c,2023
+isopleuros,2023-11-20T12:35:14Z,nfrerebeau,Remove drat workflow,11,0f424a37c24587d8ea87d8352545050045f433c7,2023
+isopleuros,2023-12-29T11:38:34Z,nfrerebeau,Prepare for next release,12,b87b3aaed896416ca1be10fc7d2189d7999800c9,2023
+isopleuros,2024-01-08T12:37:00Z,nfrerebeau,Bump package version,01,f4a177603c480f955cf8b60fbbac6ca2163f374f,2024
+isopleuros,2024-04-30T15:28:50Z,nfrerebeau,Remove pkgdown workflow,04,036ec852e0d2e7657181d5ad264088c82fc5f783,2024
+isopleuros,2024-07-26T11:31:28Z,nfrerebeau,Update GitHub Actions workflows,07,9b11809d7afa8e065d3b80be21878725ce8b337c,2024

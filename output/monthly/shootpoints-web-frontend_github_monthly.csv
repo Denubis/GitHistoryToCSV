@@ -1,0 +1,18 @@
+item_name,date,author,message,month,sha,year
+shootpoints-web-frontend,2022-05-16T15:24:26Z,Paul C. Zimmerman,Move favicon.ico to img directory.,05,5596a61017176309cb4163e7bb69cf20a37969f3,2022
+shootpoints-web-frontend,2022-09-26T18:57:42Z,Paul C. Zimmerman,Creation of Live Map (w/ dummy data).,09,6c1bbd78d083f30654c32c753deb21b597272ca4,2022
+shootpoints-web-frontend,2022-10-30T17:52:28Z,Paul Zimmerman,Create stakeout interface.,10,362cb08d4415d02f99d611f3990bd4ad3ab503d0,2022
+shootpoints-web-frontend,2022-11-06T15:33:13Z,Paul Zimmerman,Move grouping label lower in form. Adjust select list width.,11,9c6141f48561da9ae970af76b90a1f88fb384895,2022
+shootpoints-web-frontend,2022-12-20T21:10:03Z,Paul C. Zimmerman,Improve string concatenation; closes #27,12,4cd9a5e8df5d8d55b01224feeac1c661458e2403,2022
+shootpoints-web-frontend,2023-06-07T17:51:53Z,Paul C. Zimmerman,Hide description button when pull-down menus have no selection. Closes #30.,06,6fd6a21725d872e8aee226729ace79f621d0f076,2023
+shootpoints-web-frontend,2023-10-22T12:39:27Z,Paul C. Zimmerman,Fix updating of RPi clock,10,6c2f9f61c5776bcd13ed1d3fb85af11b2cf0b559,2023
+shootpoints-web-frontend,2024-02-23T20:06:02Z,Paul C. Zimmerman,Improve reset database message.,02,ecd7e8262fa4c7d16685423a9180021257324701,2024
+shootpoints-web-frontend,2024-04-11T16:29:11Z,Paul Zimmerman,Update platform check for recent version of raspbian.,04,47d16a17c73e48554eb22729f3da86515eb14ea6,2024
+shootpoints-web-frontend,2024-05-24T21:45:23Z,Paul Zimmerman,Fix incorrect date calculation with rpi.,05,4f58755ebd46c09bad11df4c98a65fc82153d1d4,2024
+shootpoints-web-frontend,2024-06-12T19:17:53Z,Paul Zimmerman,Get ShootPoints-Web application version,06,0e34ba3d3a85bc41d851f61b7e71cbfa2a425ae5,2024
+shootpoints-web-frontend,2024-07-24T20:54:53Z,Paul C. Zimmerman,"When retrieving current session info (such as on page load), prompt to end session if it was started over 12 hours prior. Closes #23",07,05339a1b73aaffb8c75c3d8830227709c602d96d,2024
+shootpoints-web-frontend,2024-08-29T01:49:04Z,Paul C. Zimmerman,Remove extra space after stakeout checkbox,08,e3e3ec84333f8d55b2e0b3c7f86d0d762e9ed9f8,2024
+shootpoints-web-frontend,2024-09-19T20:47:01Z,Paul Zimmerman,Permit leading zeroes left of the decimal point when entering azimuth. Closes #37,09,2a8be7576416cacc066246746a44b24cd8869d7b,2024
+shootpoints-web-frontend,2024-10-28T15:59:03Z,Paul Zimmerman,Pre-populate temp and pressure when starting a new session. Closes #41.,10,9f47a8667939b39fd26738d668a62f334be422f6,2024
+shootpoints-web-frontend,2024-11-19T22:26:30Z,Paul Zimmerman,Drop lower air pressure limit to 480mmHG to accommodate high altitudes,11,ed10944a5c2c13fbea6e7a6daf0530a45f8989d6,2024
+shootpoints-web-frontend,2024-12-18T21:20:29Z,Paul C. Zimmerman,Update cache busters to version 1.6.0.,12,599d52119360dc395ff66e92e6046d3598ef977e,2024

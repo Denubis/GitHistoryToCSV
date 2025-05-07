@@ -1,0 +1,7 @@
+item_name,date,author,message,month,sha,year
+chronup,2021-06-08T14:29:31Z,W. Christohper Carleton,"working package, but vignette processing still fails",06,62c13a9d0156d02254c7622ea83a481898b557fd,2021
+chronup,2021-08-31T09:19:36Z,W. Christohper Carleton,updating docs,08,2f9e4dfbf3502d70e51300eb94f719d45a4042b8,2021
+chronup,2021-09-10T13:25:20Z,Chris Carleton,Merge pull request #1 from wccarleton/vignette,09,d51db97a5e18cd276675c38f41d4c1b1d3c1d5f3,2021
+chronup,2021-10-27T11:24:24Z,W. Christohper Carleton,minor,10,8a33b2592d93cdcd2700e06288c3e827be929cdb,2021
+chronup,2021-11-30T14:06:12Z,W. Christohper Carleton,added support for user naming big matrix files in chronup::simulate_event_counts,11,42ed89689460b0a1e1875da14efde63b0b9a7757,2021
+chronup,2022-05-06T14:09:00Z,ccarleton,docs update,05,7dd7f5c481d90f73049a7f120bb52a05b2ed2604,2022

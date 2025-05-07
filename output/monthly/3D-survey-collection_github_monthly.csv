@@ -1,0 +1,43 @@
+item_name,date,author,message,month,sha,year
+3D-survey-collection,2018-12-23T09:16:28Z,Emanuel Demetrescu,#refactoring: all menus ingested,12,3f63791e5eb6b2be808ff451d4fabe6b3dab13f5,2018
+3D-survey-collection,2019-01-31T07:24:58Z,Emanuel Demetrescu,fixing in progress Ccc tool,01,516409e7a44720502b5f85b1422d48e4afad27cf,2019
+3D-survey-collection,2019-02-25T07:58:57Z,Emanuel Demetrescu,Update import_Agisoft_xml.py,02,3d2f08c2d5bf5fac3baf4a838d3c607ce6cfa061,2019
+3D-survey-collection,2019-04-18T14:22:10Z,emanuel,Update LODgenerator.py,04,53bff8ea8d41e3e870a93dfde8218891252c3fa3,2019
+3D-survey-collection,2019-07-23T11:31:55Z,emanuel,Update LODgenerator.py,07,d2f34d889e55cb194845cfce368c37c5449b4ae1,2019
+3D-survey-collection,2019-08-29T21:31:55Z,Emanuel Demetrescu,adding panoramic tools,08,161663ea1722c24daaaaa0f37237a54e7e5a6d4e,2019
+3D-survey-collection,2019-09-03T13:05:02Z,emanuel,upgrading Panorama Suite,09,75403eebba47c4f59f7b42c1cb53c997dc0e9e5e,2019
+3D-survey-collection,2019-10-29T07:58:28Z,emanuel,added texture patcher feature,10,ed40b9413fdbc1cee87cf88111d0d4d2afbabaf1,2019
+3D-survey-collection,2019-11-25T18:37:34Z,Zamolxes-laran,Merge pull request #1 from zalmoxes-laran/Panorama-Suite,11,2b65403eb02a12f409f25db17cb5af9e21125f45,2019
+3D-survey-collection,2020-01-24T10:22:23Z,emanuel,Update export_3DSC.py,01,24bed1895d1230c226b8f3908e57309afceaeb70,2020
+3D-survey-collection,2020-03-31T07:40:53Z,Emanuel Demetrescu,"Added support for ""setting up LOD"" for linked objects",03,1c4005a4680bcc6a0c8a4ab9f54f1cd2fd6a2909,2020
+3D-survey-collection,2020-04-13T05:36:04Z,Emanuel Demetrescu,Added Model Inspector panel,04,655d7618772dddc15024ca217a43e859284a517f,2020
+3D-survey-collection,2020-06-16T19:52:31Z,emanuel,Update __init__.py,06,1561a024971c739e3f9b02de9753f26e1450e086,2020
+3D-survey-collection,2020-10-22T12:47:24Z,Emanuel Demetrescu,Version 1.4.70,10,7bc48736460c1bbc111dcd4937112b3c7d8c1003,2020
+3D-survey-collection,2020-12-22T15:47:16Z,emanuel,Update qualitycheck.py,12,060d37f1984044d00281de64467397e88970e326,2020
+3D-survey-collection,2021-01-28T16:54:59Z,emanuel,3DSC 1.4.71 Export gltf files 4 Aton,01,01049b5b6561aac23477bb56cb9f0fa1c1528a43,2021
+3D-survey-collection,2021-02-23T08:30:56Z,Emanuel Demetrescu,3DSC 1.4.74,02,7808a2a56c0b71d346c3413ac9ff1311fa18886e,2021
+3D-survey-collection,2021-05-28T15:13:12Z,emanuel,Update PanoramaSuite.py,05,346c8242ec7d862e5d5928ba47bb385a353a6252,2021
+3D-survey-collection,2021-06-07T17:03:08Z,emanuel,porting to Blender 2.93 alpha,06,a03a4d81567792c693c9a42d159948aeebf2dbf5,2021
+3D-survey-collection,2021-07-13T17:51:42Z,emanuel,Update of the Panorama manager,07,51ec0373fa46bf53e26a77aa6fa550622126faf4,2021
+3D-survey-collection,2021-08-23T15:30:15Z,emanuel,update,08,72af0e55c46cec2d8136465e0624a9284176e4ef,2021
+3D-survey-collection,2021-09-28T12:24:23Z,emanuel,Update __init__.py,09,0af62e2a46de5024b5bdf32ba1c225bdc126ef18,2021
+3D-survey-collection,2021-10-30T07:32:06Z,emanuel,Update export_3DSC.py,10,e8e8119db86d11f46e7d9c8d7e1ee4f95e04afbf,2021
+3D-survey-collection,2021-11-26T13:24:41Z,emanuel,New version with refactored SHIFT tool,11,97bd60ca84603f945bfab7b1b4eb95352a2ccd72,2021
+3D-survey-collection,2021-12-02T15:59:40Z,zalmoxes-laran,Update shift.py,12,78d836d4d903be736195247490dfe3baf0af0c10,2021
+3D-survey-collection,2022-02-17T12:10:58Z,Emanuel Demetrescu,Merge pull request #5 from zalmoxes-laran/development-branch,02,4de9c47d36ac6ed95003241a3483b150befb443b,2022
+3D-survey-collection,2022-03-21T16:06:25Z,emanuel,Update export_3DSC.py,03,b085a99d42f8ff8d475d094947b94a799d70f366,2022
+3D-survey-collection,2022-04-14T09:08:43Z,emanuel,Removed (for a period of time) the SHIFT obj import,04,aa889a8672204937e1fde0ae7a75e952f8209827,2022
+3D-survey-collection,2022-05-17T14:55:11Z,emanuel,Update export_3DSC.py,05,a79c26b987a7993ec0bd185338b95f7a5fe21b14,2022
+3D-survey-collection,2022-09-19T22:16:52Z,zalmoxes-laran,refactoring the batch exporter to support instanced fomalization,09,109a10ab169ccacd716df0d913997853a6c4700f,2022
+3D-survey-collection,2022-10-24T09:23:40Z,Emanuel Demetrescu,Update LODgenerator.py,10,5f83795d42eafde60503cea8b3b5ae084d5a23e6,2022
+3D-survey-collection,2022-11-21T11:51:35Z,Emanuel Demetrescu,Update export_3DSC.py,11,bc08d86573709db27c30d8dd3a01f6ab638698fb,2022
+3D-survey-collection,2023-02-25T13:04:26Z,zalmoxes-laran,Added funcionality to create LODs with scene light settings,02,a02a752879bb82f92a05b59d880f1572690c6cf1,2023
+3D-survey-collection,2023-03-24T11:21:17Z,Emanuel Demetrescu,fixed gltf export,03,6d28cd730863cf04b1bc4c12d27eb4e0dba1aa58,2023
+3D-survey-collection,2023-06-12T07:55:53Z,Emanuel Demetrescu,Update .gitignore,06,9d70611a676be056597f093f562b1e89708e5c2a,2023
+3D-survey-collection,2023-11-30T20:07:13Z,Emanuel Demetrescu,Starting to add support to Blender 4,11,1fd9bb2457397d8129c20ecd49558e4ac2faa69d,2023
+3D-survey-collection,2024-01-26T18:17:42Z,Emanuel Demetrescu,Update export_tile_model.py,01,5ded508ea47a7e208fa4af1d0dd0dbe1965f080a,2024
+3D-survey-collection,2024-02-28T17:07:16Z,Emanuel Demetrescu,Update functions.py,02,0ca33d798e9749e55e154a4554f332ab243242af,2024
+3D-survey-collection,2024-03-31T19:15:44Z,zalmoxes-laran,Adding integration BlenderGIS 3DSC,03,b3fee909bafb61d53d7fba43e08a1bcbfb33677b,2024
+3D-survey-collection,2024-04-22T09:58:21Z,Emanuel Demetrescu,Update QuickUtils.py,04,b1689a7b33bbde1bbb5b2e49dddd516ab81d4c43,2024
+3D-survey-collection,2024-05-26T09:17:40Z,zalmoxes-laran,Update __init__.py,05,64a4b7aff50206d52a0c40d1c7c5f49f46a3fa4e,2024
+3D-survey-collection,2024-07-29T21:21:38Z,Emanuel Demetrescu,Added support for linked meshes,07,a700aa516b5b2dcd59080f21aa9394bc2272b2b8,2024

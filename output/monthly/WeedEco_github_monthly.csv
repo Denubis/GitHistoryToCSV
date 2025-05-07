@@ -1,0 +1,18 @@
+item_name,date,author,message,month,sha,year
+WeedEco,2022-02-22T11:51:22Z,Elizabeth Stroud,changed model names to model1 and model2,02,fbeb79c145dd6df62f25b8935a3c4858ce7d3669,2022
+WeedEco,2022-03-29T15:15:11Z,Elizabeth Stroud,add legend option to plot 3 and plot 4,03,88bb438fc0f28698fcd8374e5df29537127bec90,2022
+WeedEco,2022-04-20T16:34:46Z,Elizabeth Stroud,working for data manipulation function,04,0d62e3157d15a6639aa4cf54d1aef15ffb63b0cc,2022
+WeedEco,2022-05-12T09:41:41Z,Elizabeth Stroud,delete file and update data_org Rd,05,1d8367e13063b2633e7f20451cd000222f4a6290,2022
+WeedEco,2022-08-31T16:10:20Z,Elizabeth Stroud,Major editing and file moving,08,6eb30220e53b94344cd095249353f7fbc207f886,2022
+WeedEco,2022-09-16T15:26:02Z,Elizabeth Stroud,Testing trait data verisons,09,02b5d60fdf11b73b6da9a6e31cfd7b9bd9726ee4,2022
+WeedEco,2022-11-15T17:01:00Z,Elizabeth Stroud,modifications from November,11,064e1a0d5b0a559b86f0cd6fd8ba2b883aee4dad,2022
+WeedEco,2022-12-02T17:43:49Z,Elizabeth Stroud,Early december updates - wplot_phase,12,a93851a82f841b5c8b2b0ee4a8de034fd7f53213,2022
+WeedEco,2023-01-25T12:19:16Z,Elizabeth Stroud,editing help documents and clean up,01,9dfeff3008a108f87c038d0a0e9c0e7d9d3f863b,2023
+WeedEco,2023-02-09T14:28:56Z,Elizabeth Stroud,Editing manual,02,0048f225d1b76dbea11cad2b45846bc521476e7b,2023
+WeedEco,2023-03-23T11:03:34Z,Elizabeth Stroud,correct error in column selection,03,d9f58c228130e0d2038cdb882e706564f5b0f1d3,2023
+WeedEco,2023-05-25T16:37:18Z,Elizabeth Stroud,Fix model names,05,393b47b4dd29d7e47792abbcea2713e9b0882de8,2023
+WeedEco,2023-06-20T09:35:39Z,Elizabeth Stroud,update LDA plot column,06,a37d9c0a335402bcba23be43dca26971187ec39f,2023
+WeedEco,2023-07-10T14:26:27Z,Elizabeth Stroud,update trait data file,07,92b36486e2a6f45e26b4083c5974dde3535fe4e5,2023
+WeedEco,2023-09-18T11:12:15Z,Elizabeth Stroud,Update README.md,09,22b02fb940d0bb63ea9351e9ec3c5314c9daf5f2,2023
+WeedEco,2024-05-03T14:47:43Z,Elizabeth Stroud,Update wplot_geog.R,05,0dec21ec3c3c382f40adc9f2d976614027901013,2024
+WeedEco,2024-09-20T15:05:17Z,Elizabeth Stroud,Update README.md,09,b8500dcc9082657a6e1011f1a0940ea464cd2896,2024

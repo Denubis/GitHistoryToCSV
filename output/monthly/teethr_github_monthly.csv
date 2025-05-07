@@ -1,0 +1,7 @@
+item_name,date,author,message,month,sha,year
+teethr,2023-07-04T09:36:51Z,bbartholdy,initial commit,07,0b1e443aed744330959f58aa1e21eb9372b38bd4,2023
+teethr,2023-08-22T20:06:11Z,bbartholdy,upload actual package,08,d1854ced91c1d714e7e55bcfc2b2cefc45857a5c,2023
+teethr,2023-12-07T10:28:31Z,bbartholdy,temp fix for #1,12,98b4c6ab3e715f667f797e0cad2a3ce9af66cb19,2023
+teethr,2024-01-05T15:25:16Z,bbartholdy,fix example,01,2f43ca5d070ecf59f6aed16564d04f7446dfdfff,2024
+teethr,2024-02-25T09:37:09Z,Bjørn Peare Bartholdy,Update README.Rmd,02,0f972e76cfebf822dfb982192f2a940c916b6356,2024
+teethr,2024-07-23T21:11:07Z,bbartholdy,remove convert_notation function,07,b4a48209ec2be06f420f37720722ec5a1e532d0a,2024

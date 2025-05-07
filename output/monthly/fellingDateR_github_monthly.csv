@@ -1,0 +1,14 @@
+item_name,date,author,message,month,sha,year
+fellingDateR,2020-06-30T19:40:04Z,hanecakr,initial commit,06,703fc9198c8a5c5e2deccea190800d0e634d4329,2020
+fellingDateR,2020-07-31T20:09:17Z,hanecakr,- example for sapwood_SPD() added,07,47698e0e536505eb2f7870b66a5ad3e1b00e35ed,2020
+fellingDateR,2020-08-12T20:29:57Z,hanecakr,update of documentation for sapwood_SPD(),08,1a711739422ddd5ba97ed18dccb5df73002aa1e2,2020
+fellingDateR,2020-10-19T19:12:49Z,hanecakr,update in press,10,c66d0861980f092ca938be031687f79eb7ea8739,2020
+fellingDateR,2023-02-26T19:26:48Z,hanecakr,update README with examples,02,91026101414cfdc449e7d22caa457b549d816908,2023
+fellingDateR,2023-03-31T12:54:09Z,hanecakr,adding CITATION,03,405e987bec1741133eb4dc42d01af238f87bf7f7,2023
+fellingDateR,2023-04-27T17:06:02Z,Koen Van Daele,Remove .Rhistory,04,2551a20063083091339e5754b74d28e35649d974,2023
+fellingDateR,2023-05-25T06:30:32Z,hanecakr,lag() function removed from cor_table,05,16b3be8293599fbac1999063148ac4a82318de0b,2023
+fellingDateR,2023-10-30T16:39:57Z,hanecakr,update code and documentation for read_fh() and get_header(),10,797bec18c3abe353ad86333c6608a358df88c4ca,2023
+fellingDateR,2023-11-30T19:46:42Z,hanecakr,removing .Rproj.users folder from github repo,11,1b1abfbc21b4d7ad2c5f63ea226331ba830db52d,2023
+fellingDateR,2024-02-24T21:39:27Z,hanecakr,initiating new branch and first edits according to rOpenSci review,02,8bbd7c4bcba8db9c3cd61dfd219d1cc4a4595392,2024
+fellingDateR,2024-03-21T21:33:55Z,hanecakr,draft-pdf.yml typo fix,03,68df8190c5af6dd70b2e615480b925e42211ccb3,2024
+fellingDateR,2024-04-24T13:28:03Z,hanecakr,shortened version of paper.md,04,bff1c93d735e2f20e83512e9b9fe8dde9d3a6f06,2024

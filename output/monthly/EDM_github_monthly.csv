@@ -1,0 +1,20 @@
+item_name,date,author,message,month,sha,year
+EDM,2019-08-22T14:22:54Z,Shannon McPherron,fixing colors and fonts,08,e7d3cee7387c24adb264876a7dfa48cef6636812,2019
+EDM,2021-06-08T15:54:52Z,Shannon,reorganization,06,634623864ea017f5d6d99bc65598054fb86f61cc,2021
+EDM,2021-08-20T13:19:37Z,Shannon,adding total stations,08,95c3906b405febc5f85600cc9ae2b97fa2e058ea,2021
+EDM,2022-05-19T10:17:11Z,Shannon,added button events,05,e187c7198feb498b8c386264b3a5f55d1c725d3b,2022
+EDM,2022-06-22T12:04:47Z,Shannon,readme fixes,06,1bf04b7d492b65f20e56d6da81859c664273493e,2022
+EDM,2022-07-22T05:59:48Z,Shannon,return to old csv code,07,0070561c8ff71482a313c7fa4c2c693dc10474c6,2022
+EDM,2022-08-12T16:00:10Z,Shannon,changed how save works on editing points,08,0dcc23886f02354f5ea44bfc8041945953eb2c82,2022
+EDM,2023-01-31T11:00:35Z,Shannon McPherron,Rebuilt windows exe,01,2fc19a3c2ce0c3ddf893fde2f5b64acc2596a5d1,2023
+EDM,2023-03-29T13:42:54Z,Shannon McPherron,"chromebook, readme, and refactoring",03,58ec9eb303e6627f5fb037921f8ededbef4af287,2023
+EDM,2023-04-26T11:42:02Z,Shannon McPherron,fixing long-line issues,04,66fd3168507f3af2dbfef506cc6b56b32efd626c,2023
+EDM,2023-05-24T08:11:00Z,Shannon McPherron,formatting fix in readme,05,1d93b587856cfb29620c4b08ce609a51be7c8674,2023
+EDM,2023-06-21T10:30:14Z,Shannon McPherron,continued tox debugging,06,ff3c59a4365a7cc4688105a6acfff321698f1722,2023
+EDM,2023-08-15T20:38:08Z,Shannon McPherron,fix version number,08,2add821deaffdfbc75a0e2ecae96075b639605ce,2023
+EDM,2023-12-04T13:55:12Z,Shannon McPherron,Added Geomax and refactored library structure,12,9950baea138485403b5fec07f902344ee099ea73,2023
+EDM,2024-04-22T11:20:15Z,Shannon McPherron,1.0.40 exe rebuilt,04,b19873cdb5097639de37fae5a71bf3f93c9b7199,2024
+EDM,2024-05-31T12:41:38Z,Shannon McPherron,Version 44 - Issues with auto finding units,05,cec931343d98ac2218028d61d1618ca0a3cffd9a,2024
+EDM,2024-07-10T14:49:34Z,Shannon McPherron,added cloud pushing of data,07,12a67a8e083fd332df6dc1fac6b1967327e5ea58,2024
+EDM,2024-08-06T12:57:39Z,Shannon McPherron,fix continuation shot that crosses unit boundaries,08,ee31567344866ae4f29bbbaa31e954b4c4af16e8,2024
+EDM,2024-11-08T14:27:17Z,Shannon McPherron,trapping file i/o errors,11,b5ab351328ccc1b120dd143fa73198b16734b026,2024

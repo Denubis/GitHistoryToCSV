@@ -1,0 +1,5 @@
+item_name,date,author,message,month,sha,year
+aoristic,2020-04-24T03:19:00Z,Jerry Ratcliffe,Version 1.0.0 pre-release,04,d6eba11a1b5ed3004a274ba69627d5164440aafe,2020
+aoristic,2020-12-28T17:11:21Z,Jerry Ratcliffe,v1.1.0 20201228,12,99ebf2eaf07b979261051afa019eb2143b187517,2020
+aoristic,2021-01-31T22:30:26Z,Jerry Ratcliffe,v1.1.0 20210131,01,56b49607382ef77e3e1df768df24335c402927cc,2021
+aoristic,2022-10-20T17:23:06Z,Jerry Ratcliffe,Merge remote-tracking branch 'refs/remotes/origin/master',10,95ee72f7ea624b114bba97d37c569170b29dfa18,2022

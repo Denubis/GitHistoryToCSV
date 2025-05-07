@@ -163,7 +163,7 @@ def log_error_to_csv(error_filename, repo_info, platform, error_message, status_
 class RateLimitHandler:
     """Handle rate limiting for Git APIs."""
     
-    def __init__(self, initial_delay=1, max_delay=60, max_retries=5):
+    def __init__(self, initial_delay=5, max_delay=60*60*2, max_retries=50):
         self.initial_delay = initial_delay
         self.max_delay = max_delay
         self.max_retries = max_retries
@@ -179,23 +179,52 @@ class RateLimitHandler:
             except Exception as e:
                 # Check if this is a rate limit error
                 is_rate_limit = False
+                error_str = str(e).lower()
                 
-                if any(rate_term in str(e).lower() for rate_term in 
+                # Look for rate limit indicators in error message
+                if any(rate_term in error_str for rate_term in 
                       ["rate limit", "rate_limit", "ratelimit", "429", "too many requests"]):
                     is_rate_limit = True
+                
+                # Check if it's a 403 error that might be a rate limit
+                if "403" in error_str:
+                    # For GitHub API specifically, 403 errors often indicate rate limiting
+                    if "github" in error_str and any(term in error_str for term in 
+                                                   ["api rate limit exceeded", "secondary rate limit", "abuse detection"]):
+                        is_rate_limit = True
+                        
+                # Check for rate limit headers if response object is available
+                if hasattr(e, 'headers') and isinstance(e.headers, dict):
+                    # Check GitHub's specific headers
+                    remaining = e.headers.get('X-RateLimit-Remaining')
+                    if remaining and int(remaining) == 0:
+                        is_rate_limit = True
+                        
+                    # Check for Retry-After header (used by multiple APIs)
+                    if 'Retry-After' in e.headers or 'retry-after' in e.headers:
+                        is_rate_limit = True
                 
                 if not is_rate_limit or retries >= self.max_retries:
                     # Not a rate limit error or max retries reached, re-raise
                     raise
                 
-                # Check for Retry-After header in the exception
+                # Extract retry time from headers if available
                 retry_after = None
                 if hasattr(e, 'headers') and e.headers:
                     retry_after = e.headers.get('Retry-After') or e.headers.get('retry-after')
+                    if retry_after and retry_after.isdigit():
+                        retry_after = int(retry_after)
+                    
+                    # For GitHub, calculate wait time from rate limit reset
+                    if 'X-RateLimit-Reset' in e.headers and 'X-RateLimit-Remaining' in e.headers:
+                        if int(e.headers.get('X-RateLimit-Remaining', 1)) == 0:
+                            reset_time = int(e.headers.get('X-RateLimit-Reset', 0))
+                            current_time = int(time.time())
+                            retry_after = max(0, reset_time - current_time)
                 
                 # Calculate delay with exponential backoff and jitter
-                if retry_after and retry_after.isdigit():
-                    delay = int(retry_after)
+                if retry_after:
+                    delay = retry_after
                 else:
                     delay = min(delay * 2, self.max_delay)
                 

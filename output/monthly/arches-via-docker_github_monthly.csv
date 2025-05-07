@@ -1,0 +1,19 @@
+item_name,date,author,message,month,sha,year
+arches-via-docker,2022-06-02T20:29:37Z,Eric Kansa,Initial commit,06,d72104e10ec313be49e94b5f7dd7751d3d80556a,2022
+arches-via-docker,2022-12-22T20:52:24Z,Eric Kansa,Fixed a typo,12,4d38124df3bec307c2c719e548ae9bed9db4ba00,2022
+arches-via-docker,2023-01-27T01:09:03Z,Eric Kansa,Added port to celery url,01,7abbdfdab29c9520b2df922e3692345a582d4413,2023
+arches-via-docker,2023-02-14T21:01:21Z,Eric Kansa,Added non-default celery.py to arches container build,02,1c40b156d92f835b29fd4a67684cc61be49edf62,2023
+arches-via-docker,2023-03-28T21:12:20Z,Eric Kansa,Cleaned nginx gzip compress configs,03,0a45b0913c9d0a5601a179972db290a75c9f4b32,2023
+arches-via-docker,2023-04-18T21:49:48Z,Eric Kansa,Removed nginx dependency from webpack,04,f8c0c599f7e30b30fb94b5e589a0780bafc17efe,2023
+arches-via-docker,2023-05-23T18:28:24Z,Eric Kansa,"Update README.md, added note about v6 install",05,c4fd9817621f711c7f49d88ca29fe736092a2fd9,2023
+arches-via-docker,2023-06-15T16:54:13Z,Eric Kansa,Updated README.md for v7.4.0 release,06,2e1068c4ac9add7728f20f1f9ed5f9366811be8f,2023
+arches-via-docker,2023-07-18T22:37:02Z,Eric Kansa,Update celery start for supervisor,07,3676e7d5199d07b96136f9e7b1bfb9db35d1516d,2023
+arches-via-docker,2023-08-23T22:47:31Z,Eric Kansa,Updated instructions for localhost deployment,08,a85436705c5cc0247f6c972f10868663a0eea6f4,2023
+arches-via-docker,2023-10-30T23:53:47Z,Eric Kansa,Added local-afs-dev-1-1-x to README.md,10,b50f499fcc8d35b151f74104260cf43313450d92,2023
+arches-via-docker,2024-01-29T20:39:52Z,Eric Kansa,Add a CSRF trusted origin config to settings_local,01,b9545e2bbee22a1ca78f37011b76269733eac967,2024
+arches-via-docker,2024-04-30T23:50:09Z,Eric Kansa,Comment out package.json copy,04,df0220528b224038d3f92bd42f20671dd234ee78,2024
+arches-via-docker,2024-06-07T22:06:19Z,Eric Kansa,Added user permissions cache,06,54ef4332a20758ccb8095d3196dd834115c4a946,2024
+arches-via-docker,2024-08-06T16:11:23Z,Eric Kansa,Update Dockerfile clarified Arches version,08,5dcc8792d23d44f1033b3bbdca41a4b0ee42c085,2024
+arches-via-docker,2024-10-14T19:17:11Z,Eric Kansa,Update README.md re Arches 7.6,10,bcb0831d80fae6ffa99f2ada5c874078e75c455e,2024
+arches-via-docker,2024-11-19T19:20:37Z,Eric Kansa,Updated comments,11,ff49cef7fa641cf078ee960e3dc40c3b700afc36,2024
+arches-via-docker,2025-02-06T22:38:12Z,Eric Kansa,Update README.md Make port more clear,02,ff6796b1cfe49dd9774b26a16af129ea4b0b295d,2025

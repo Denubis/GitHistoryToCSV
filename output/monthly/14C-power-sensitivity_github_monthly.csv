@@ -1,0 +1,6 @@
+item_name,date,author,message,month,sha,year
+14C-power-sensitivity,2021-07-23T10:09:44Z,Pete Jacobsson,Updated README,07,bdefc6ba98174636fb7e60417180f13583faef39,2021
+14C-power-sensitivity,2021-08-23T15:04:13Z,Pete Jacobsson,cleanup + set up wmds histograms,08,2bcbc651b46a805e35b2945a29a88715e212ff0e,2021
+14C-power-sensitivity,2023-06-30T13:30:58Z,Pete Jacobsson,Finished first EDA Figure :alien:,06,618491bad7924c805fcec083ac861813f849f97d,2023
+14C-power-sensitivity,2023-07-31T06:56:48Z,Pete Jacobsson,"Composed the plots, made observations",07,a11c51378c1c563d191339e8361069e32294131e,2023
+14C-power-sensitivity,2023-08-29T11:56:05Z,Pete Jacobsson,started stan plotting function,08,56474508da7745fc93b729578144f3d2dcf76186,2023

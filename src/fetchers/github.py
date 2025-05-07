@@ -111,7 +111,7 @@ class GitHubFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Repository not found or not accessible (could be moved, renamed, or private)"
-                log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
                 return []
             
             # Get commits
@@ -138,7 +138,7 @@ class GitHubFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Error fetching commits: {str(e)}"
-                log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
             
             # Get releases and tags
             releases = []
@@ -149,7 +149,7 @@ class GitHubFetcher:
                 # Log error to CSV
                 from src.utils import log_error_to_csv
                 error_msg = f"Error fetching releases: {str(e)}"
-                log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+                log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
             
             return commits + releases
             
@@ -158,7 +158,7 @@ class GitHubFetcher:
             # Log error to CSV
             from src.utils import log_error_to_csv
             error_msg = f"Error fetching GitHub commits: {str(e)}"
-            log_error_to_csv('output/errors.csv', repo_info, 'github', error_msg)
+            log_error_to_csv('output/errors/error_log.csv', repo_info, 'github', error_msg)
             return []
     
     def fetch_releases(self, repo, item_name):

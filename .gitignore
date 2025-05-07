@@ -51,8 +51,6 @@ ENV/
 *.log
 logs/
 
-# Output directory
-output/
 
 # Jupyter Notebook
 .ipynb_checkpoints

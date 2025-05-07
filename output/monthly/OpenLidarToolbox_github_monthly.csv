@@ -1,0 +1,13 @@
+item_name,date,author,message,month,sha,year
+OpenLidarToolbox,2021-03-31T08:11:44Z,BenjaminStular,Update README.md,03,9c098928fd18ee4734f65d2af6293d644d6ffce5,2021
+OpenLidarToolbox,2021-04-07T12:49:08Z,stefaneichert,readme formatting,04,58e7a8d4109c143423d720dfdbe1b7b61d3d17a5,2021
+OpenLidarToolbox,2021-05-18T11:43:46Z,stefaneichert,pychache,05,a35dedc842047ff6113dd9caaac2185375f55d27,2021
+OpenLidarToolbox,2021-06-25T14:30:24Z,stefaneichert,split modules,06,8ad2adf7e0bf8669944764bb48df01db813787a4,2021
+OpenLidarToolbox,2021-07-15T13:35:33Z,stefaneichert,help text edits,07,f4a62d0a8646b6dcb7edb565bcef906b27e459f2,2021
+OpenLidarToolbox,2021-08-25T17:29:27Z,stefaneichert,corrected misspelled variable,08,9dcfcf357cd78c35f60d1588f07191e453f6a6be,2021
+OpenLidarToolbox,2022-03-17T10:50:00Z,stefaneichert,changelog update,03,1d638c802f4555b45fa291d046c0170f8265771e,2022
+OpenLidarToolbox,2022-04-22T10:13:27Z,stefaneichert,readme update,04,19be43815e4ba17a9c064bcd67eed9cbd436152a,2022
+OpenLidarToolbox,2022-05-04T08:07:10Z,stefaneichert,readme update,05,8d95bb8f1d2f5689faa9287c407f0d53bd159da1,2022
+OpenLidarToolbox,2022-07-22T12:27:22Z,stefaneichert,update troubleshooting,07,e875e661d43104237ccbba1bc2b540390eb99966,2022
+OpenLidarToolbox,2023-02-27T10:31:15Z,stefaneichert,fixed bug with non-default resolution,02,28cc8de07c4cbdb3612819dd57f99d54cbb08a23,2023
+OpenLidarToolbox,2024-08-23T09:19:02Z,Stefan,update zip file,08,38a189625a3b8d4e67c6a7004fdc180408829a75,2024

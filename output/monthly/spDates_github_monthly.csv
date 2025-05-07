@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+spDates,2020-02-29T18:11:22Z,Jonas Gregorio,Update README.md,02,6b36e55462f57a41bdaf6c0655183e4e2f5949c4,2020
+spDates,2020-03-30T08:58:17Z,Jonas Gregorio,Update README.md,03,b44d7ef4c8323442f15c0dacc2e7ef546576b766,2020
+spDates,2020-04-02T09:59:27Z,Jonas Gregorio,Update README.md,04,2f7697a19c0f36ea6d56dbceea4ffaa4ae6f55b2,2020
+spDates,2020-09-29T14:56:56Z,jgregoriods,"change description, remove reference to globalenv, add dontshow to tests",09,1d3e839af7af1c538a1954e0868c9d5a48ca6994,2020
+spDates,2020-10-09T09:20:41Z,Jonas Gregorio,Update README.md,10,3e8a90adc76b8bcfa1e75395e61ff6f5c5c7b098,2020
+spDates,2021-06-16T08:03:29Z,Jonas Gregorio,Update README.md,06,b00f18e65435a4eee7cf8e0d7ccf98ae280948b0,2021
+spDates,2021-10-23T12:36:06Z,Jonas Gregorio,Update README.md,10,9a22c596a4a8ce6e77afd4d6721e13b678a99bbc,2021
+spDates,2022-07-26T10:29:22Z,Jonas Gregorio de Souza,Delete .DS_Store,07,365be9a1d1b7a40d5b65ac3710e984df77b9e351,2022
+spDates,2022-10-09T10:13:45Z,jgregoriods,remove dependency on gdistance,10,7868ec49d2e2665f8fd67a6b7fbfd494bae0198f,2022

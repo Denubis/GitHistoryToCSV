@@ -1,0 +1,7 @@
+item_name,platform,repository,error,timestamp,error_type,status_code,redirected
+kidstats,github,ElaineYChu/kidstats,Repository not found or not accessible (404 response),2025-05-07 11:29:24,Not Found,,No
+Open History Map,github,openhistorymap,Repository not found or not accessible (404 response),2025-05-07 11:29:24,Not Found,,No
+archchron,gitlab,https://gitlab.com/oliver.nakoinz/archchron,Error fetching GitLab monthly commits: 404: 404 Project Not Found,2025-05-07 11:29:25,Not Found,,No
+tutorials,gitlab,https://gitlab.com/oliver.nakoinz/tutorials,Error fetching GitLab monthly commits: 404: 404 Project Not Found,2025-05-07 11:29:26,Not Found,,No
+rarcheo,github,nfrerebeau/rarcheo,Repository not found or not accessible (404 response),2025-05-07 11:29:29,Not Found,,No
+archeoViz Portal,github,sebastien-plutniak/archeoviz-portal,Repository not found or not accessible (404 response),2025-05-07 11:29:29,Not Found,,No

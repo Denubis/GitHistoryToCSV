@@ -1,0 +1,57 @@
+item_name,date,author,message,month,sha,year
+seriation,2015-10-11T04:20:57Z,mhahsler,Initial commit.,10,a36a285c707b80b618889af4442a42568149419f,2015
+seriation,2015-12-22T20:17:39Z,mhahsler,fixed RGAR.,12,461d20d2ace77ea35d21e0311bd65d45f929a4ff,2015
+seriation,2016-01-25T21:02:26Z,mhahsler,changed noise definition.,01,d5cb7681ccdbbec6dd1cc90bdbb35b35063a4b58,2016
+seriation,2016-02-22T17:45:14Z,mhahsler,New CRAN release.,02,abce86de96b5133dba65d866340b5ea86940eb76,2016
+seriation,2016-03-15T14:07:01Z,mhahsler,Start new development release.,03,2136e53b74ba46785268eb97b6af504701733d3a,2016
+seriation,2016-05-26T20:14:59Z,mhahsler,bugfix for tsp control arguments.,05,47898faeb54c7dc99ef6c48eabb0d7d2ebfe1fae,2016
+seriation,2016-06-01T15:47:34Z,mhahsler,TYPO.,06,4b80d26f0d585097ebb85e75e8733bdf53866aeb,2016
+seriation,2016-07-30T21:55:26Z,mhahsler,updated reference.,07,b136fb345d4439f3176e3b688638bb4080ce7bf7,2016
+seriation,2016-08-20T22:07:35Z,mhahsler,Added documentation and simplified code.,08,7151603271424bd27ed4d91847d9e4524138a92f,2016
+seriation,2016-09-13T22:05:42Z,mhahsler,pimage now supresses the color key for logical matrices and checks for all NAs and infinite entries.,09,5eeb88ed681633cd7656307ad564372128318a29,2016
+seriation,2016-10-25T03:39:30Z,mhahsler,Added and updated references.,10,22b73ddf1bdb08f945784936fba4749a35a77ba8,2016
+seriation,2017-02-28T17:29:43Z,mhahsler,Added some methods and criteria to vignette. Corrected that ARSA optimizes for LS.,02,98f3e275099a0f84457163bb5f7006b31de56706,2017
+seriation,2017-03-30T18:39:16Z,mhahsler,typo.,03,7795bcaa8a7567fd7351e22ffcb29f7ee68e7b5c,2017
+seriation,2017-04-03T22:42:09Z,mhahsler,Added seriation method SA.,04,59e74a42a149c7f72e236c53a42fb10604bb2f20,2017
+seriation,2017-05-08T15:20:27Z,mhahsler,Release.,05,92b6c3be877499380996df5e37dee6f4952111f5,2017
+seriation,2017-06-26T21:13:02Z,mhahsler,"seriation method ""BEA"" is now not longer masked by ""BEA_TSP"". Also the FORTRAN calls now work.",06,c870e1493b32e962211ff3ab5d9f6d55add7f5b2,2017
+seriation,2017-07-26T06:20:50Z,mhahsler,Updated news for bug fix.,07,2e927702ce6b8dcdbbda40e31e79e5955d64b525,2017
+seriation,2018-02-05T23:05:00Z,mhahsler,New release.,02,c2a0c95f9f44aae8e271ad4f04049f7405443baf,2018
+seriation,2018-10-24T19:35:10Z,Michael Hahsler,bertinplot: panel colors can now be specified in highlight and as shading.function.,10,00259d3e41335b5697dfadaedd9884efe17a0b9d,2018
+seriation,2018-12-19T23:00:17Z,Michael Hahsler,Updated description.,12,19683af7e2c63339d0b9edbcf1f6e8b15ad1e48b,2018
+seriation,2019-01-07T02:53:49Z,Michael Hahsler,git push origin master Merge branch 'dirkseidensticker-fix/bertinplot-frame',01,550d9a69a7bc5b6e91eb97093875c0d945afb637,2019
+seriation,2019-03-13T15:31:11Z,Michael Hahsler,Improved code as suggested by RichardKav.,03,df069effe73b961e720712ce0c0d88b7201e4464,2019
+seriation,2019-05-30T17:57:01Z,Michael Hahsler,Fixed Fortran compiler warnings and new release.,05,26098bd9af58befb01890c8f7f3f98a2eb9f7867,2019
+seriation,2019-06-20T21:11:42Z,Michael Hahsler,Updated parameter names after change in package ga.,06,5e34bd808411a24158e2acfcfe5e380825bfd37d,2019
+seriation,2019-08-27T18:22:06Z,Michael Hahsler,Added object files.,08,d35f8ec89d6033cb0e427aabea4e8bcfe80e5465,2019
+seriation,2020-02-20T18:52:53Z,Michael Hahsler,Improved documentation.,02,89ee0093e4a272369e6a64b0cd98efcbf908008e,2020
+seriation,2020-04-19T16:58:09Z,Michael Hahsler,removed dependency on methods.,04,23f93bd2927f0b3d34f94160c0f86f8ab4e17383,2020
+seriation,2020-09-29T22:59:34Z,Michael Hahsler,Link now to rdocumentation.,09,b2b3937da20b9cd7d8b7fd9774d8714c91cc3dd3,2020
+seriation,2020-10-02T15:34:02Z,Michael Hahsler,Finalized move of dendextend to suggested.,10,f6a6380f72a3de5df872c7aa0caf943918aaac71,2020
+seriation,2020-11-20T22:08:46Z,Michael Hahsler,added ser_align example.,11,9a495baf0b5e9f1ab25edf1bf96f7ee5708ab385,2020
+seriation,2021-05-29T03:42:05Z,Michael Hahsler,added ggplot2-based ggpimage.,05,2db0cbad5e24a661833a3068bff9db3837168401,2021
+seriation,2021-06-30T16:48:13Z,Michael Hahsler,added seriate for data.frame,06,3b785a9b145f9f590330bf4b43c464f91469760b,2021
+seriation,2021-07-12T18:50:36Z,Michael Hahsler,VAT now shows both triangles.,07,dbbbe6b2f8daee79074d34ebd909d4fde06a9eac,2021
+seriation,2021-10-29T15:33:56Z,Michael Hahsler,moved examples for correlations.,10,9444c8b9286a6c79cbc0ea4ad4d4655035e791a6,2021
+seriation,2021-12-10T05:19:05Z,Michael Hahsler,use ggplot2 standard colors.,12,d26fd4986db7aea285a4c1f19124113718f8b393,2021
+seriation,2022-02-21T20:56:16Z,Michael Hahsler,improved man pages.,02,c8b08cae620c235495dd0366ffb5fdbaa9346da9,2022
+seriation,2022-03-28T15:13:48Z,Michael Hahsler,added missing export for register function.,03,d8435b815a4d270b5baab6bb425a1232f44a3799,2022
+seriation,2022-06-29T16:25:26Z,Michael Hahsler,use just integer vectors again.,06,5f222fadacd342b900989aeb9dad07150b317aa4,2022
+seriation,2022-07-16T16:09:57Z,Michael Hahsler,added logo.,07,ed9b903a9026730e6681b9b94d985faab57f280b,2022
+seriation,2022-09-22T14:25:45Z,Michael Hahsler,added contributor.,09,eb77924e2e231704d9a1449cb11ac28ebe00f329,2022
+seriation,2022-10-18T14:24:10Z,Michael Hahsler,improved manual page.,10,f2dd4dc42eb7f4f0be9bd2ba852dfd41e22eb1e5,2022
+seriation,2022-11-02T01:06:38Z,Michael Hahsler,Improved the description of permutation vectors.,11,d02b3e10440f6e1666b4133062ae689fa474d19f,2022
+seriation,2023-01-25T22:54:18Z,Michael Hahsler,permute needs now ...,01,fb7bc1a77eefaabf7700d65796fa17197645723f,2023
+seriation,2023-02-13T15:20:05Z,Michael Hahsler,added ORCID.,02,e052cdccfd6ecc905b2feedad03f5d865479c139,2023
+seriation,2023-03-08T14:49:08Z,Michael Hahsler,CRAN submission,03,c339e85327434c74239b1de4b90b0209eff2b9c9,2023
+seriation,2023-06-30T17:46:20Z,Michael Hahsler,Added Spearman's rho as a seriation criterion.,06,058bc6efa107445fc7c1469e10890a3e5e267159,2023
+seriation,2023-07-24T03:43:03Z,Michael Hahsler,optimizes now contains a criterion. all seriation has now rep.,07,fdca109f53aa8d1314c7163200d584fa165a7f9d,2023
+seriation,2023-08-13T20:58:16Z,Michael Hahsler,wording.,08,890f101932d8b80cf82b0fbaedffbe85f6da4df9,2023
+seriation,2023-11-30T18:43:10Z,Michael Hahsler,remove compiler warnings.,11,980c153e6cf7002bee181750cb3587a843c79ad6,2023
+seriation,2023-12-12T01:20:08Z,Michael Hahsler,fixed order code.,12,768efef12e381ab4d4cca023930220374a6ab3a6,2023
+seriation,2024-04-20T16:47:20Z,Michael Hahsler,Added two missing package anchors to palette man page.,04,68f98c9a5bcba4788a3cdcea0756f730c14cdd44,2024
+seriation,2024-05-15T16:17:14Z,Michael Hahsler,Merge branch 'master' of github.com:mhahsler/seriation,05,fca0d0485d81bb249f29d9118c1bebb36b8ac48b,2024
+seriation,2024-08-27T22:13:53Z,Michael Hahsler,Fixed badges.,08,502e83b51f608a9044a3d5fe2e4f7a188252d6ef,2024
+seriation,2024-10-24T21:08:48Z,Michael Hahsler,Cleanup.,10,5231a4f9f9a0bef11fcd5019193ca22344eb0fd5,2024
+seriation,2024-12-06T14:14:37Z,Michael Hahsler,CRAN release.,12,0aa32d4ca68a9ad2577ad2bd35a67699860537cc,2024
+seriation,2025-03-26T19:18:30Z,Michael Hahsler,"Linear seriation criterion follows now the original definition of Hubert, L. and J. Schultz (1976) and is a merit measure. (reported by Lucew)",03,f109b9bc99278c81b05464b255b1809c43b04761,2025

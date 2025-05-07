@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+shoredate,2022-08-30T16:16:33Z,isakro,Slight adjustment to figure,08,504c15725f61ede11e559439f0251550377658d1,2022
+shoredate,2022-09-28T22:22:23Z,isakro,Minor edits,09,8a69b06044c7382310c887267f27ba13d17d19c0,2022
+shoredate,2022-10-10T14:44:00Z,isakro,"Fixed check for raster. Running is.na() on a raster returns a summary of na values in the raster, not a binary TRUE/FALSE",10,19c5bf5f9b95462554df1785471270a935575347,2022
+shoredate,2022-11-28T14:19:32Z,isakro,Added codecov workflow and ORCID,11,403570c573b967ccf6fda250bcab3f7e2ad74c9d,2022
+shoredate,2022-12-27T15:29:23Z,isakro,"Updated readme, tried re-building vignette",12,ed3ca48270a7503efe75d57c2326979b43a4e12a,2022
+shoredate,2023-01-31T13:01:44Z,isakro,Minor update to documentation,01,31609c907fd9bfd7387af86272d2e2bc42055081,2023
+shoredate,2023-02-28T16:34:22Z,isakro,Updated readme and vignette,02,85613ff52e638903b614e8bc0d6e38b1a7732eb5,2023
+shoredate,2023-03-13T15:35:11Z,isakro,Updated documentation,03,910ce600def6987a1b9d0b6c41b94748eab2281d,2023
+shoredate,2023-04-21T07:32:27Z,isakro,Made target_plot() check for geom column,04,192b85a35390466f14d2452f5691576b4bfaaab1,2023
+shoredate,2023-05-31T17:06:31Z,isakro,Updates with publication in JOSS,05,d9783eec849e7a4724ae017904ee454bc26917ba,2023
+shoredate,2023-06-04T22:29:33Z,isakro,Updated documentation and NEWS,06,e2fb2c89e33493c2acc9b605f5003ea5a7f70e78,2023
+shoredate,2023-08-23T21:04:57Z,isakro,Minor edits to readme,08,0c82bb0d86e7b2304365ecb5108bb614f73b4647,2023
+shoredate,2023-10-26T08:03:14Z,isakro,Minor edit to news.md,10,d6d3fa4f98aa5f7463d71a4ac4e98ab7e63f7382,2023
+shoredate,2023-12-23T23:38:36Z,isakro,Updated snapshot,12,854c95fd630810f4fde690daf3096fbc23b7a734,2023

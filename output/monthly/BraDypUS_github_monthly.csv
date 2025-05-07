@@ -1,0 +1,75 @@
+item_name,date,author,message,month,sha,year
+BraDypUS,2014-03-30T16:44:22Z,Julian Bogdani,Minor code cleaning,03,5dec0538141fcc840f21330b2eeadfdc67d4ab53,2014
+BraDypUS,2014-04-27T17:58:44Z,Julian Bogdani,"3.1.26 Bug fixed with record::showResults method, ignoring select_one parameter",04,2bc9944b23fea617fb24e8432d4dd948a49e8ca6,2014
+BraDypUS,2014-05-18T18:11:00Z,Julian Bogdani,3.2.1 Bug fixed with user data editing module,05,7babdd3db2d877fdad354393530a89b22285cc54,2014
+BraDypUS,2014-06-22T18:09:34Z,Julian Bogdani,3.2.3 - Bug fixed with user template setting,06,b9cbf0507121998e2943ee18a7e1143fe123c2ed,2014
+BraDypUS,2014-07-29T09:43:07Z,Julian Bogdani,v 3.2.9 -Bug fixed with javascript compressing tool,07,e5c5185e27afd52bae95a7ac83e1640e243f905f,2014
+BraDypUS,2014-08-12T15:26:21Z,Julian Bogdani,v 3.2.9: Bug fixed with vocabularies link in main page,08,6b09aa29d50253da40edda128f4eb8108015b2ef,2014
+BraDypUS,2014-10-12T11:23:16Z,Julian Bogdani,3.2.10: API accepts new optional GET parameter: records_per_page (default value: 30),10,8ebd8bd7c4a3d52efe5c654121f551ba80341c15,2014
+BraDypUS,2014-12-17T13:30:18Z,Julian Bogdani,3.3.0: Removed composer vendor folder,12,622b3423a7d3c2d98f5770411bc3b55577df0c62,2014
+BraDypUS,2015-01-21T12:11:44Z,Julian Bogdani,3.3.0: Added support for Italian in getIP module (windows only),01,25398d87985ff68b2bfa3c2b45d97254cbf6b804,2015
+BraDypUS,2015-07-12T10:38:06Z,Julian Bogdani,3.3.2: Inline docs enhancement,07,752b2df8e8614069eed0a901d57e23381201a3f3,2015
+BraDypUS,2015-12-27T14:19:40Z,Julian Bogdani,v. 3.3.4: Minor graphical improvements in Geodata Import Module,12,fae48ec1e4c0f1a7b3458e915f5787e50ef8f8cf,2015
+BraDypUS,2016-02-03T14:47:54Z,Julian Bogdani,v. 3.3.6: Session files older than 24h will be deleted on logout,02,559a610a01d22e642ec79913cf98435f566ea528,2016
+BraDypUS,2016-03-14T13:42:47Z,Julian Bogdani,Minified js and css are refer to main version number when loaded,03,8f3713333b89cfe56818cf9684a8f4a2d5a95ea8,2016
+BraDypUS,2016-04-02T12:38:14Z,Julian Bogdani,Fixed minor graphical issue: image thumbnails without proper margin,04,7be43713c811317315e4f0608e2396300cf1217e,2016
+BraDypUS,2016-05-26T08:15:23Z,Julian Bogdani,Javascript & CSS minification for v.3.3.9,05,ab05e15076029e5c2504c5152d6fd7efff36fede,2016
+BraDypUS,2016-09-29T18:05:09Z,Julian Bogdani,Plugin fields in Advanced query UI bear the name pf the plugin,09,3b13729d01e3a7cac4a8976072bf507d9c50f7dc,2016
+BraDypUS,2017-01-08T17:46:11Z,Julian Bogdani,Text linkify function considers also https protocol,01,c110be2271f855e2fc39cd364eee126b8d7d1faf,2017
+BraDypUS,2017-02-04T20:13:09Z,Julian Bogdani,Field help is now tooltip content not titl,02,206e5634f7535a5464f841208de34e2e5cdd159d,2017
+BraDypUS,2017-04-26T12:35:06Z,Julian Bogdani,Bug fixed with userlinks using first cell of row for row id. The tr#id is used now,04,7a57be423b7b03cb651948cf66f8a91371a5ec09,2017
+BraDypUS,2017-05-29T20:43:07Z,Julian Bogdani,Minor typo fix,05,f9d6a6a54ea743495dc5aafc37290a5880b6f7ae,2017
+BraDypUS,2017-06-28T20:43:37Z,Julian Bogdani,Bug fixed with advanced search (select2 inputs) interface,06,f238e596e5f79251c1506ee77af7f5fa055791d7,2017
+BraDypUS,2017-07-24T13:14:18Z,Julian Bogdani,Typo fix,07,be292762432a5d458997f224af23684e697f0d52,2017
+BraDypUS,2017-08-18T15:02:54Z,Julian Bogdani,Aborted XHR calls do not throw errors anymore,08,8441eb4a45380c1847c5f8e75693ef51eb5945fd,2017
+BraDypUS,2017-09-28T14:33:33Z,Julian Bogdani,Log file's max size lowered to 3 mb,09,6409338917fe229c8fcfeecedbd4020c1ff1c1df,2017
+BraDypUS,2017-10-12T08:46:42Z,Julian Bogdani,Google maps key moved to main application data,10,3329f2976062bad7e5f096e972ae29d44c187bb3,2017
+BraDypUS,2017-11-25T07:44:19Z,Julian Bogdani,No round corners in layout,11,fb3d79c66749e9085478786f8d0dde608e93f70d,2017
+BraDypUS,2017-12-13T12:01:09Z,Julian Bogdani,Added foreign keys constraint for sqlite,12,389be99414c20fdead0ec38cc3dc06d5cb053030,2017
+BraDypUS,2018-01-31T19:39:17Z,Julian Bogdani,Fixed bug with vocabulary lit not being editable,01,ce97fe1accb49b3fbde18b522cef7116791e2d41,2018
+BraDypUS,2018-02-18T17:06:12Z,Julian Bogdani,PRS 2 compliance,02,790af4cf2a2bc59275fa5515eec3821704a68d40,2018
+BraDypUS,2018-03-26T19:51:41Z,Julian Bogdani,Added support for sorting plugins items using the `sort` field,03,6ad1a8812e4b85840f05ee343ae77fe60037cb1a,2018
+BraDypUS,2018-04-17T06:58:49Z,Julian Bogdani,Appi support for geoJSON,04,40a239395311d8fb4accf0065eef1b40e032050a,2018
+BraDypUS,2018-05-07T18:00:08Z,Julian Bogdani,Typo fix,05,ffa58c35b16805973c08cc386196421220265264,2018
+BraDypUS,2018-06-28T09:18:01Z,Julian Bogdani,Page parameter is always converted to integer and is bigger than 0,06,53efdd6fd66ac145191799409f6252d2c4ea32ae,2018
+BraDypUS,2018-07-27T10:57:07Z,Julian Bogdani,Merge branch 'master' into api2,07,5e3d9d23ab742172e07c390cd86835e94ff1dcad,2018
+BraDypUS,2018-08-30T08:19:06Z,Julian Bogdani,Backlinks return DISTINCT values,08,8528fa7b0cf81265fee0845e8a42187b9efc8a9c,2018
+BraDypUS,2018-09-17T08:44:24Z,Julian Bogdani,Fixed warning,09,365fa7440978f50bb72a3740871d5ff895e181c8,2018
+BraDypUS,2018-10-21T13:02:17Z,Julian Bogdani,Bug fixed with getUniqueVal in id_from_tb fields,10,83e8f083020cd598ab25a902c1d49a391b0caa41,2018
+BraDypUS,2019-01-28T18:00:27Z,Julian Bogdani,Files are sorted in ReadRecords,01,38846f6ad6e147836409f1026132f92ef05c1ada,2019
+BraDypUS,2019-05-20T14:02:20Z,Julian Bogdani,Merge branch 'api2' into api2-no-prefix,05,48e5178fbc5517b4da9cc8434aa6a9939c90d24b,2019
+BraDypUS,2019-06-28T16:04:23Z,Julian Bogdani,Merge branch 'master' into dev,06,101a5977f2f8aa08fbee86dce8e06a06cb917751,2019
+BraDypUS,2019-07-16T13:41:33Z,Julian Bogdani,"Fixed bug with JOIN statement in read record, api version 2",07,ec9bae1bdc020ed1bddf32869d822a90055fcf75,2019
+BraDypUS,2019-08-06T09:52:42Z,Julian Bogdani,Fixed minor bug in support for automated internal links in the form of @tb.id or @tb.id[label],08,bbcdc53c3ca471fe49797aeb672e753701b6c5e7,2019
+BraDypUS,2019-10-26T09:02:47Z,Julian Bogdani,Removed log,10,41c197eca541558157e63a3b80d6bdb07f450fc2,2019
+BraDypUS,2019-11-19T09:49:10Z,Julian Bogdani,Typo fix,11,101bf6ed5cd91508150ab79966051d162d114fec,2019
+BraDypUS,2019-12-22T21:49:55Z,Julian Bogdani,MOved and updated SqlFromStr,12,01f1b7961c07c3284e366caa7400942a211695db,2019
+BraDypUS,2020-01-11T20:22:32Z,Julian Bogdani,Api2::getUniqueValue uses Short Sql syntax,01,ddb2209cf205120819713b4f43fc284fbbaf8c55,2020
+BraDypUS,2020-02-15T10:25:08Z,Julian Bogdani,Bug fixed with GetUniqueVal and false values,02,17171352d3c7b97b327990a6d1600e5ba5e3f933,2020
+BraDypUS,2020-03-27T11:40:55Z,Julian Bogdani,Fixed bug with ShortSQL and field names used as values,03,1101418df9cdc5e16252d3009daf6d5752b30d49,2020
+BraDypUS,2020-05-29T16:06:55Z,Julian Bogdani,Enhanced error reporting,05,2c4b321113b206eb2f4c1ca1d430c6415ae2bfbc,2020
+BraDypUS,2020-06-10T05:33:51Z,Julian Bogdani,Dropped support for FTP sync,06,6856982173caeb93a5722d29c31499e1d26d5307,2020
+BraDypUS,2020-07-31T19:54:20Z,Julian Bogdani,JSON tr loaded on bootstrap,07,fa517fe8fdbba5f6d3d5977740e7cb834bf84a70,2020
+BraDypUS,2020-08-31T13:51:07Z,Julian Bogdani,Dropped support for cfg in \API2\getUniqueVal,08,f37c77b2d5e1a7935310ee83956c040b5cb85a94,2020
+BraDypUS,2020-09-30T12:52:36Z,Julian Bogdani,Updated Record\Edit and Record\Persist and added Record\Edit::persist method,09,1611ee8affce7e7473cc7bb0097464956bb13b2b,2020
+BraDypUS,2020-10-26T14:19:04Z,Julian Bogdani,chart.sql renamed to chart.sqltext,10,34c4a3b2fc4bb900214ea88825168b8d57f57159,2020
+BraDypUS,2020-11-22T20:50:37Z,Julian Bogdani,Rewritten .htaccess,11,32d31f4bfe8139e2dcf4207c0b1f02f99eb9f66f,2020
+BraDypUS,2020-12-23T16:59:16Z,Julian Bogdani,Undefined index fix,12,f72d08ac61cd6e8e77c575a894ec856a34cb623c,2020
+BraDypUS,2021-01-29T15:47:27Z,Julian Bogdani,Removed in-app docs in favour of documentation site (docs.bdus.cloud),01,990d10af680c1e5b02f094bd071941359aac0a05,2021
+BraDypUS,2021-02-26T08:59:05Z,Julian Bogdani,typo fix,02,8190ae16d065efa0614bed80eb43dff1cc30908e,2021
+BraDypUS,2021-03-31T20:59:37Z,Julian Bogdani,Updated .gitignore,03,aade62613be307736ccee6ed1cbd52ab1808a308,2021
+BraDypUS,2021-04-17T11:46:29Z,Julian Bogdani,Updated Changelog,04,154c034916e5b2d43eeb9615c660c3725eb7bcea,2021
+BraDypUS,2021-05-31T20:09:00Z,Julian Bogdani,Added new function keepAlive: session is automatically updated every 3 minutes,05,f612247bd06fe51bc37b3e98ca13d614322a51af,2021
+BraDypUS,2021-06-27T19:32:50Z,Julian Bogdani,Code cleaning and fixed indentation,06,d5be7e7000f1eb0a0a16c14c27a9c632cea1c2f1,2021
+BraDypUS,2021-07-05T13:29:45Z,Julian Bogdani,Fixed bug with utils::recursiveFilter,07,43f62ee67a2f0ddca881303745efbd33b028acfe,2021
+BraDypUS,2021-08-29T20:12:07Z,Julian Bogdani,Typo fix,08,e8b070bba71b9af01803397643b52fc28dd79ee0,2021
+BraDypUS,2021-09-30T10:47:36Z,Julian Bogdani,typo fix,09,4a19f58a93e61987c940fd9cb14682320692d0c9,2021
+BraDypUS,2021-10-19T08:24:35Z,Julian Bogdani,Dependency & dev updates,10,27d417e799553dfca4120ab7880bc1498f44e931,2021
+BraDypUS,2021-11-12T07:58:40Z,Julian Bogdani,Fixed typo auth for aut(omatic),11,6943e9ab647d05654a71da094d5b2b464a55db12,2021
+BraDypUS,2022-01-28T14:37:54Z,Julian Bogdani,Fixed issue with pluging not being shown with api.record.read used id_field,01,7726661e78bc5570849497195b16b3aa4878e91c,2022
+BraDypUS,2022-02-18T10:41:59Z,Julian Bogdani,Updated monolog/monolog from v2.3.2 to v2.3.5,02,f90fde580e4cec7aabb56f50bcd9889335d42f7b,2022
+BraDypUS,2022-03-29T05:17:05Z,Julian Bogdani,Merge branch 'master' into dev,03,acabbcd1b588487a248802afd5075109a8215ce4,2022
+BraDypUS,2022-08-04T19:53:43Z,Julian Bogdani,Fixed bug menuValues not working with PostgreSQL. Closes #8,08,e8bff1e5163d45ca7aea75e9c7012a26aba7dc35,2022
+BraDypUS,2022-11-28T21:12:18Z,Julian Bogdani,Released v. 4.4.0,11,44b2dbbc703f61115198b2307def31219100050a,2022
+BraDypUS,2022-12-22T13:44:58Z,Julian Bogdani,Fixed issue with line-bvreaks being removed from template text upon update,12,4b39a38213248c47accec46566ce48fa43722474,2022
+BraDypUS,2024-02-06T15:00:13Z,Julian Bogdani,Added missing property declaration,02,8126bdd567f803b2772f01de45d1ab5aa6411f3e,2024

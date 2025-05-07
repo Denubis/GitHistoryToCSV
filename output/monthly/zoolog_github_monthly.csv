@@ -1,0 +1,14 @@
+item_name,date,author,message,month,sha,year
+zoolog,2020-10-20T10:24:27Z,josempozo,Changed use of utils:type.convert to make it compatible with older versions,10,a4196fd7a02536dd8358aaceccfbe0ac4d0fb147,2020
+zoolog,2020-12-22T15:13:18Z,josempozo,Added functionality and documentation to function CondenseLogs (previously,12,f4e08d551d6c9833f7c86849c12e7f8236ee0170,2020
+zoolog,2021-01-28T12:45:44Z,josempozo,Added references for new references.,01,caf666f1d6e8e1ed3ca88d493e01d28db6830bd5,2021
+zoolog,2021-02-25T14:04:50Z,josempozo,Corrected one entrace of bota in dataValenzuelaLamas2008. Two measures missed a decimal comma.,02,d7ff83f4da03d72f602ef6b5e63020aeb79c2da5,2021
+zoolog,2021-03-30T10:40:52Z,josempozo,"Added 3 new references (Haifa) for Dama, Equid, and Gazelle.",03,2d0e6851040ac21afefb3f825f2e4c8e4e5612cd,2021
+zoolog,2021-04-13T05:02:56Z,josempozo,Added filenames to .gitignore and .Rbuildignore.,04,a314ea4ad2a137a4be447ba17ca301b80a9ede4b,2021
+zoolog,2021-05-13T14:17:23Z,josempozo,1. Improved structure of function CondenseLogs. Now the methods are defined,05,28c0734c7f818bc7d489e32fc014b1e7cfc134e9,2021
+zoolog,2021-08-31T13:01:47Z,josempozo,Small syntax simplification using class as function instead of calling,08,bfb92bdc7615f2b7bbbd567c6174d6edfd3d944c,2021
+zoolog,2021-09-20T17:01:04Z,josempozo,Corrected a few measurements in the reference Equus_Johnstone.,09,97162ff266449941f428592ee8593dabc2e668b0,2021
+zoolog,2022-04-30T20:00:43Z,Jose M Pozo,Merge pull request #3 from josempozo/release1.0,04,c095953c5a2921c2661d27e87326818fdda0d522,2022
+zoolog,2022-05-13T09:46:40Z,Jose M Pozo,Delete R-CMD-check-2.yml,05,5253cc3ec3db12d11f96aea371772b5ff45c5b47,2022
+zoolog,2022-08-29T17:02:55Z,Jose M Pozo,STYLE: Improved some internal code for clarity.,08,1765530395d4378453d88b93511ed0a6b0ba1233,2022
+zoolog,2022-09-07T07:10:19Z,Jose M Pozo,"BUG: In AddToThesaurus, removing repeated names with sensitiveness",09,a7a340a4bfedbf88d86afa85dfbf343e6d752470,2022

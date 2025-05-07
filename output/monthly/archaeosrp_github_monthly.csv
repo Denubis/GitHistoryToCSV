@@ -1,0 +1,12 @@
+item_name,date,author,message,month,sha,year
+archaeosrp,2021-03-31T21:13:08Z,SBergin,Initial Paper Commit,03,6e9a67987f67e60e7180d3bbc719ecfcba7bb8d7,2021
+archaeosrp,2022-02-18T17:51:00Z,Sean Bergin,Update DESCRIPTION,02,78f92002a77efe779649fb7a357fca744fcc5a8d,2022
+archaeosrp,2022-03-02T18:07:23Z,Sean Bergin,Update processPDFDirectory.R,03,7d73cc26a08cb06c1790fe5b4f116775975439d4,2022
+archaeosrp,2022-04-21T23:26:22Z,Sean Bergin,Update DESCRIPTION,04,d2e46311d93119545b4b021037425eeb3357263a,2022
+archaeosrp,2022-05-20T17:58:05Z,SBergin,Update README.md,05,67739a5acef82aa74d4fdb06bd1ea7f75fc1eab5,2022
+archaeosrp,2022-06-10T20:22:06Z,Sean Bergin,types 16 and 21 updated,06,820f0cf68c884fec4f667c45e2880ea3cc95df6a,2022
+archaeosrp,2022-09-19T18:15:39Z,SBergin,Update CITATION.cff,09,8b44d5be8cc3df18127c842e468e5fade0518689,2022
+archaeosrp,2022-10-27T16:10:51Z,Grant Snitker,Update README.md,10,8ce4bbeb0e58765561c2070036f7b84cd9765f1a,2022
+archaeosrp,2023-05-30T21:03:03Z,SBergin,Update README.md,05,bd566a180353e7b1d2a0b8722f39a2e318b28252,2023
+archaeosrp,2023-06-01T22:16:50Z,SBergin,Update README.md,06,67f67f07ae93a54d4ffcafa99c5f38528c856f97,2023
+archaeosrp,2023-07-28T21:23:40Z,SBergin,Update README.md,07,b4de2ddab323b92c8f7f9b3522df72200ab9f429,2023

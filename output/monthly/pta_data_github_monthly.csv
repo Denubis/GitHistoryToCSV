@@ -1,0 +1,16 @@
+item_name,date,author,message,month,sha,year
+pta_data,2018-12-19T11:19:47Z,Annette von Stockhausen,Move data from old repository; updated readme,12,98ba85736be76c1ad82157d44dd8a2d90a0f7628,2018
+pta_data,2020-08-30T13:16:53Z,Annette von Stockhausen,Update readme,08,cd1ed6aac4c984db0894ed93b9538e2883e2872a,2020
+pta_data,2020-10-27T13:08:31Z,Annette von Stockhausen,Create .travis.yml for HookTest,10,4ebaf8fa5331590baf98928c4611f5b43507c3ee,2020
+pta_data,2021-02-12T11:19:58Z,Annette von Stockhausen,undo part of last commit,02,235a6bea0adf58e00b0b500031b140a940621c4d,2021
+pta_data,2021-05-06T16:35:41Z,Annette von Stockhausen,Update metadata,05,6720b358bc2b57b83c25be86df2501673820a698,2021
+pta_data,2021-08-14T09:10:04Z,Annette von Stockhausen,Update metadata,08,03095d9a9bec2dac1453221d6c898c80ee5ce278,2021
+pta_data,2021-11-25T15:51:39Z,Annette von Stockhausen,Update metadata,11,ee530b10408fa8ba9c0efdf381e5d822983a3db4,2021
+pta_data,2022-07-12T13:24:13Z,Annette von Stockhausen,"Update zenodo.json, add CITATION.cff",07,a5b97c2fb63666e5384d39981529b3f607d20f00,2022
+pta_data,2022-10-20T06:12:24Z,Annette von Stockhausen,Update metadata,10,c986051e460e798fdd4bbed3ee09f2c3238d68bd,2022
+pta_data,2023-07-11T14:04:21Z,Annette von Stockhausen,Workflow changed,07,a42f46dc6afb77b8f58c4cb51e51d2c03970e03d,2023
+pta_data,2024-06-27T07:49:38Z,Annette von Stockhausen,update workflow,06,95493b9e460cb6019a03d06b3f6bf3a239c2b368,2024
+pta_data,2024-07-29T09:20:25Z,Annette von Stockhausen,update workflows,07,2314741d7c83e7add04d397c981acd0c061b751d,2024
+pta_data,2024-08-04T10:35:44Z,Annette von Stockhausen,Update workflow,08,77d129ad80df33a4af1aef671633c5060c6b8230,2024
+pta_data,2024-10-29T18:01:16Z,Annette von Stockhausen,Cat in Col erste Fassung,10,0da402600ed3809b3e64394a23c623aa440bff9c,2024
+pta_data,2024-12-14T16:01:02Z,Annette von Stockhausen,Update announce.yml,12,885ef1658d9189f335520b53bb5aec22f2104137,2024

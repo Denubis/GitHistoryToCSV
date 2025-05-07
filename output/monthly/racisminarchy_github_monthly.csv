@@ -1,0 +1,16 @@
+item_name,date,author,message,month,sha,year
+racisminarchy,2020-06-25T06:14:04Z,Liying Wang,added code for frequency of keywords,06,61f557adb1f7f0c2c0dff0eb5137c3d4a32cd2a6,2020
+racisminarchy,2020-07-20T23:02:38Z,Ben Marwick,resolve merge conflict,07,59cb5dfefa45fa00d1043c175d2ff600cd9aec8b,2020
+racisminarchy,2020-08-31T14:39:52Z,Gayoung Park,Merge branch 'master' of https://github.com/parkgayoung/bulletinracisminarchy,08,abed6555f9b657cbfefe4b14d2d38c58bf179d7e,2020
+racisminarchy,2020-09-30T14:07:32Z,Liying Wang,use paste0,09,10c8af86f397a59adcdc5034a6adfcbf380a384f,2020
+racisminarchy,2020-10-07T16:09:50Z,Ben Marwick,give binder it's own dockerfile,10,32018cde31d9dd733e4b3a2872b42f62abafe3b8,2020
+racisminarchy,2020-12-23T23:27:11Z,Ben Marwick,add magick pkg to DESCRIPTION,12,7b7e979e50a9474406120e064a4f0e400a5c3356,2020
+racisminarchy,2021-02-22T08:57:55Z,Ben Marwick,many changes to figure 5 to make it clearer to understand,02,463d27494c047243c04fe78ea28f4a7b39577138,2021
+racisminarchy,2021-03-27T01:28:16Z,Ben Marwick,change correlation to similarity,03,8f8658f4ce97a4b9d8b403ad779fd427b6458eac,2021
+racisminarchy,2021-05-31T23:23:05Z,Liying Wang,Merge branch 'master' of https://github.com/parkgayoung/racisminarchy,05,a58e56701926a0eb750ad450903f9f7b432fa3ce,2021
+racisminarchy,2021-06-24T18:09:15Z,Ben Marwick,update linear model diagnostics,06,931eccefee87feb9bf2e25f91e955336c3ee69ac,2021
+racisminarchy,2021-07-31T04:40:18Z,Ben Marwick,replace lm with glm.bm,07,21ed1dbfe36f03aad3d3e361bf7a7df462eb2054,2021
+racisminarchy,2021-08-10T18:39:41Z,Gayoung Park,commit to pull Ben's new changes,08,3b3af005fe0b10aa32d1a89c56206e4145e41c43,2021
+racisminarchy,2022-04-29T06:28:59Z,Ben Marwick,Update Dockerfile,04,97dd1aef381e73bcf63ff76eacb7c292e6d42620,2022
+racisminarchy,2023-03-07T23:23:33Z,Gayoung Park,edit readme file,03,19a2aae5660adf12516733bca4030a2aa4b0d0ed,2023
+racisminarchy,2023-06-23T15:52:55Z,Ben Marwick,Update Dockerfile,06,6e6bbf5b15fb920f203a4317cbc5eb6166e6d2ab,2023

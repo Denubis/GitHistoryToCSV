@@ -1,0 +1,12 @@
+item_name,date,author,message,month,sha,year
+charcoalhearths,2020-05-29T22:00:28Z,Jeff Blackadar,Save 1_,05,284dc0b7cf4c4ee9a2ea61e8bf8c511e2e4fd778,2020
+charcoalhearths,2020-06-30T11:31:42Z,Jeff Blackadar,Programs to split up geotifs and make Mask R-CNN predictions 20200628,06,6eeecc5feb3ae823b4d1fcfa025bddd231419ae4,2020
+charcoalhearths,2020-07-25T21:40:53Z,Jeff Blackadar,Moved files to /home/student  Added remarks,07,f9e8b8494a9d9937b414bd6a8cb90ce9c0fc63c8,2020
+charcoalhearths,2020-08-30T15:35:40Z,Jeff Blackadar,"Updates from 30 Aug 2020. (Model scoring, model configuration, correction to .crs for geodataframes",08,3de4d1fd3f07c94e546a90515e749ed8453727e9,2020
+charcoalhearths,2020-10-10T12:35:37Z,Jeff Blackadar,Update notes_2020_10.md,10,c54cffece8541745733eff402702f04f062d3428,2020
+charcoalhearths,2020-11-28T22:01:25Z,Jeff Blackadar,Created using Colaboratory,11,195cb042c3db28fe4e16189b5b21955bbb836a97,2020
+charcoalhearths,2020-12-13T18:07:29Z,Jeff Blackadar,Update 5_plot_results.rmd,12,cf3d6e6d3d9e17d28b33711aff85084d052e6c60,2020
+charcoalhearths,2021-02-11T12:16:49Z,Jeff Blackadar,Delete qgis_3_load_rasters_north_east,02,b5dbbd34b4e7f38ff43f5114033fb9a7d1c63601,2021
+charcoalhearths,2021-05-14T20:47:44Z,Jeff Blackadar,Update README.md,05,dc48504ef166e3018c456b3946ff144b02952bb8,2021
+charcoalhearths,2021-07-09T01:47:44Z,Jeff Blackadar,Created using Colaboratory,07,5bc09ff2f327694593b25016ed46b99b12a50be4,2021
+charcoalhearths,2021-08-08T13:32:20Z,Jeff Blackadar,Created using Colaboratory,08,160856ef4140348fdff915fb7fa58f9c7f455171,2021

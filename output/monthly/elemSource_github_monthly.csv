@@ -1,0 +1,4 @@
+item_name,date,author,message,month,sha,year
+elemSource,2018-02-08T17:25:16Z,Robert Bischoff,"Updated error with directories, now choose your own and fixed global variable",02,fd99cf456d1e54fa07963c42d06904cc36628ae4,2018
+elemSource,2018-05-18T18:35:05Z,Robert bischoff,Update README.md,05,a18016523932573f70722f7f57a6c23c96f91ca7,2018
+elemSource,2020-01-06T18:15:19Z,Robert Bischoff,Create SampleData.csv,01,a577ba1901c8d66d0e2f8dd69db4325bbb1af5fe,2020

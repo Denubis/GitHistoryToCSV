@@ -1,0 +1,22 @@
+item_name,date,author,message,month,sha,year
+idaifieldR,2021-03-24T18:57:25Z,Lisa Steinmann,Update get_uid_list.R,03,b168d81b72f634474ac2f5d5eb08480e202bb9b8,2021
+idaifieldR,2021-04-13T16:20:28Z,Lisa Steinmann,adjust stop(),04,21770fa2db8615d806d4513a79582155df17462a,2021
+idaifieldR,2021-07-15T09:59:42Z,Lisa Steinmann,expand gather_trenches to lieswithin for more grouping,07,59fec78730c45878523ce724165798023fe5550e,2021
+idaifieldR,2021-12-07T15:54:11Z,Lisa Steinmann,Update README.md,12,2265f8100a85723b14bb015741b51f7e8777db43,2021
+idaifieldR,2022-02-10T11:50:08Z,Lisa Steinmann,Update R-CMD-check.yaml,02,7362f03bf5781d72597373e84849658cbba64c59,2022
+idaifieldR,2022-05-19T14:21:58Z,Lisa Steinmann,Merge branch 'main' of https://github.com/lsteinmann/idaifieldR,05,c78b58226ba5da027593a6e0e0dd8caed46a9d2f,2022
+idaifieldR,2022-10-24T14:00:30Z,Lisa Steinmann,add test for find_layer(),10,0f898a04a2b618d4c398231e5297b63cea90cf75,2022
+idaifieldR,2022-11-06T14:12:59Z,Lisa Steinmann,Update test-simplify_idaifield_resources.R,11,c6b18edcaf0bc538b66de755041613f54809ebd9,2022
+idaifieldR,2022-12-06T18:43:47Z,Lisa Steinmann,remove check_if_uid because its unnecessary,12,b5392c5bbd252a7136c903332bac59a90dc2293b,2022
+idaifieldR,2023-02-24T18:54:52Z,Lisa Steinmann,error handling in get_cofiguration(),02,c58438ced1e2e8a9f9835a7d32fc7ce260ab1532,2023
+idaifieldR,2023-03-31T22:27:44Z,Lisa Steinmann,add get_index: db query,03,e291cb152e044a6991d401b82ae40c7172dc87de,2023
+idaifieldR,2023-04-15T16:42:57Z,Lisa Steinmann,Merge pull request #8 from lsteinmann/v0.3.x,04,2d1d9cba6d17295603b112c42e95b6ec8bab1509,2023
+idaifieldR,2023-05-25T16:12:41Z,Lisa Steinmann,typos,05,5fe0e08e261f01294502a22a7aa982ced2acc5c0,2023
+idaifieldR,2023-07-17T18:32:04Z,Lisa Steinmann,Update README.md,07,9f6eb790d62fa8e26948ad3bf684f470b79a50fd,2023
+idaifieldR,2023-10-31T13:41:54Z,Lisa Steinmann,add message to remove_config_names(),10,b929df2fc00242a4c9673bb583a58e476b2db0e9,2023
+idaifieldR,2023-11-24T16:17:36Z,Lisa Steinmann,re-add remove_config_names to `get_field_index()`,11,4e4c676b411070089ec21cb5df859ffb0b398937,2023
+idaifieldR,2023-12-22T08:41:26Z,Lisa Steinmann,Update .gitignore,12,350dc506731b6fa020ef8e7c9faaa85a68c79465,2023
+idaifieldR,2024-01-28T17:20:14Z,Lisa Steinmann,Update test-coverage.yaml,01,920d68c7749d307dbb9118dc16328296a55b2ff8,2024
+idaifieldR,2024-04-29T13:03:11Z,Lisa Steinmann,add config as NA in simplify_idaifield if db cannot be pinged,04,f902d1c7818efd75a57411807df7690068a5f37a,2024
+idaifieldR,2024-10-19T08:31:06Z,Lisa Steinmann,Merge branch 'v0.3.x' of https://github.com/lsteinmann/idaifieldR into v0.3.x,10,7671f611a82056103f132add76f2bd74ec71c97f,2024
+idaifieldR,2025-03-08T16:46:30Z,Lisa Steinmann,Update R-CMD-check.yaml,03,900c3fc2f0b4c8390e13ab1dcbc245e3a4a46090,2025

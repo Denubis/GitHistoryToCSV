@@ -1,0 +1,22 @@
+item_name,date,author,message,month,sha,year
+paleocar,2015-03-25T17:15:14Z,Bocinsky,Merging PaleoCAR-dev into PaleoCAR,03,96c597316daedf85420a8a27f0efc711563b0b5b,2015
+paleocar,2015-05-28T19:23:00Z,Bocinsky,fixed missing data problem,05,23e9d3a543ca76d9b7c6dde7113056ecb4893a4c,2015
+paleocar,2015-06-28T17:49:47Z,Bocinsky,Fixing carscore calculation to fail gracefully when there is missing predictand data.,06,160497e6efc7c38051fefbe6a45d31e907e081a3,2015
+paleocar,2015-09-30T23:02:02Z,Bocinsky,efficiency,09,2f1b4d6cdda1a51ae9c84c6c0411f38fcbdfc5b4,2015
+paleocar,2015-10-07T20:17:55Z,Bocinsky,trying this again,10,565e27c1dfdfd475b704909ecee0f794f527469c,2015
+paleocar,2016-02-24T14:45:10Z,bocinsky,Improved example and added example data,02,92278ca86e52b29f4b7569888c8b18da6ae34672,2016
+paleocar,2016-09-28T16:47:30Z,Bocinsky,Importing to try and clear some warnings in CRAN check,09,8141041db9e77b4d4dd792e59dfdcefe2559538d,2016
+paleocar,2016-11-29T16:49:16Z,Bocinsky,Added Bocinsky 2016 extractor,11,717f48a387202099e4b71dcbd82e9d34817d19ba,2016
+paleocar,2017-01-20T00:57:20Z,Bocinsky,"Improved accuracy of make_monotonic, and added test ensuring paleocar_models and paleocar_models_simple return the same results",01,dc5fbb7aed369ea75f123a1801a9cb4391a256e3,2017
+paleocar,2017-02-22T23:40:51Z,Bocinsky,Added new optparse example script in inst,02,540f9140259e38cdced46cae55363cfa7b1e35c9,2017
+paleocar,2017-10-09T17:59:53Z,bocinsky,"get_bocinsky2016 now allows for not calculating the niche, and is faster",10,7cd9eff181434ecfeba5866896ea38433fd7ac33,2017
+paleocar,2018-01-02T17:04:07Z,bocinsky,updated bocinsky_2016 extractor,01,aa6100782ab44dbfd8135fd498df9d8e4f9a2a06,2018
+paleocar,2018-03-08T15:25:52Z,bocinsky,fixed bug where the uncertainty extraction tool didn't work for tiles with missing data,03,3a38a59763b8ad2ea150fe25fb5d9848ce51db06,2018
+paleocar,2019-04-10T01:22:29Z,R. Kyle Bocinsky,bug fix in get_bocinsky2016,04,6d1b8c0d706fe8804f016b095ca06fab00eeaa1d,2019
+paleocar,2019-05-31T20:37:24Z,Bocinsky,version 3.0.0.9000,05,3a34279c58dbd88260020027a7a7897f72e80d4e,2019
+paleocar,2021-02-04T20:42:14Z,Kyle Bocinsky,updated prediction to gracefully deal with empty pixels,02,8bbf536c1dd58ad0d7150ad040390294874c40aa,2021
+paleocar,2021-11-22T03:13:32Z,Kyle Bocinsky,fixed writing,11,d6e7eca5d814a4c4079eddccf4d831feb282232b,2021
+paleocar,2021-12-06T19:23:06Z,Kyle Bocinsky,implemented suggestion from @kbvernon to specify directories using,12,30728877090de9607e250768d725a2f0564b12f1,2021
+paleocar,2023-01-30T22:33:38Z,Kyle Bocinsky,update to reprojection in get_bocinsky2016,01,b3e23e267fce8420156ebad08e3f4a835b3e27c7,2023
+paleocar,2023-02-22T19:48:02Z,R. Kyle Bocinsky,Merge pull request #2 from kbvernon/master,02,23e8338da5b08aef82d6b28b7d594ffc9f6bb414,2023
+paleocar,2024-05-28T16:23:54Z,Kyle Bocinsky,fixed bugs in mlm versus lm,05,eb73fe13ff10f0af62ff8e7c7e4cb2b6b750069c,2024

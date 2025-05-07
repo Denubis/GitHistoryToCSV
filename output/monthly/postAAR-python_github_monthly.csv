@@ -1,0 +1,14 @@
+item_name,date,author,message,month,sha,year
+postAAR-python,2019-05-28T06:37:51Z,WerthersEchte,Merge branch 'rechtecke_zusammennaehen',05,9ac6ce2d3e0123dacfd7faa36e74e6bc7d28c7d9,2019
+postAAR-python,2019-06-25T08:51:28Z,crinne,"check data provided by the user (pointlayer, projected, unique id's)",06,09dfbb85ca7abd2ef693afd0614163f07ef6ae2d,2019
+postAAR-python,2019-07-17T16:37:17Z,crinne,"integrated find-rectan code ok, still missing exit on user input errors",07,0b1c929a30bd48e739443af19151b1169ee4744f,2019
+postAAR-python,2019-08-28T16:19:33Z,crinne,adjustments in algorythm.calcRectsInWindow due to geometry logic,08,41f55bb7592f6c51e668c9dce2986f64618a7907,2019
+postAAR-python,2019-09-25T15:35:40Z,crinne,returned to distance calculation without angles,09,ab304ded78e06d7eb34756740f11052c299e3fd3,2019
+postAAR-python,2019-10-23T19:30:31Z,crinne,postAAR.ico,10,55127fb2903085bfbe7304db6b78443b7f05efa5,2019
+postAAR-python,2019-11-16T12:08:49Z,Nils Müller-Scheeßel,Update postaar.py,11,e392e162d9be2bfafb11941b5ee0bfb085f9783d,2019
+postAAR-python,2020-02-19T11:01:32Z,Eike Petersen,added check and info for shapely,02,923c0d77dba220777dc24d4823823462bcbc4727,2020
+postAAR-python,2020-09-16T09:10:04Z,Eike Petersen,changed folder structure,09,88078709d377b952a43c29ccaf99b2bc4454522d,2020
+postAAR-python,2020-12-16T15:22:37Z,Eike Petersen,fixwd maybe #15,12,2b6cb8739c520ba45fa220cb9632adf6bc29efac,2020
+postAAR-python,2022-11-30T08:25:45Z,Eike Petersen,added and changed testsets for rectangles,11,22c2fd6080cae99749f7da202f5f7d9c1e99f4f4,2022
+postAAR-python,2023-02-25T17:49:29Z,Christoph Rinne,some changes to the text not the code,02,0d5163bf399c019333bd75400fe78944dfa78308,2023
+postAAR-python,2023-07-06T12:41:31Z,Eike Petersen,Small fixes and release preperations (#26),07,6fa1f53791c8dc68c2ab62963143dfa9163332af,2023

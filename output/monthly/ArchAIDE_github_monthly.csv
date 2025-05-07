@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+ArchAIDE,2017-09-28T16:17:06Z,Barak Itkin,Update the README to discuss the usage of the shape package,09,73fb81e4b1fe899489091f76ff5a5e26f84f1bd2,2017
+ArchAIDE,2017-12-28T17:50:21Z,Barak Itkin,Introduce the new generation of the appearance classifier,12,66f4b0676ca77a2031e8330d7b60b4260a5bbad2,2017
+ArchAIDE,2018-03-17T11:45:15Z,Barak Itkin,Introduce scores in the appearance classification serving.,03,75849114dee1e07845197d120059d01e2a3d57e6,2018
+ArchAIDE,2018-10-12T16:03:45Z,Barak Itkin,Update the documentation for the latest shape classifier,10,2e785e06f4d07687b30e33c53427369d219df2da,2018
+ArchAIDE,2018-11-09T17:26:51Z,Barak Itkin,"Remove breakpoint from non-closed outlines, they exist",11,f11fca1c49a630b6cc665e5428efdd1f3ec6ddd5,2018
+ArchAIDE,2018-12-25T15:51:00Z,Barak Itkin,Fix argument issues when running foreground extraction,12,adddfac9ff82d5d1eb85fa8c17e9f56506605690,2018
+ArchAIDE,2019-01-16T19:16:09Z,Barak Itkin,Enable overriding the trained resnet dir,01,9080e47cde66333a051ab89995eaf1e5389d2666,2019
+ArchAIDE,2019-02-17T15:54:11Z,Barak Itkin,Newest version of the outline classification method,02,7d56e41e408edd4ab153e9d469212b965ce38b73,2019
+ArchAIDE,2019-06-07T13:45:54Z,Barak Itkin,Another round of changes - support more shape edge cases,06,8e9e4349ae563e747450a6a6c1d694478092786e,2019
+ArchAIDE,2020-12-27T22:36:05Z,Barak Itkin,Resolve issues with skimage.transform.rescale in fg_extract,12,d137bc3ee2a7d66c303e33b08cb302d39a2526e6,2020
+ArchAIDE,2021-01-16T10:31:55Z,Barak Itkin,Small compatiability fix for TF2,01,bd156670bcede4444f84996f27edd36bb2af921c,2021
+ArchAIDE,2021-02-27T14:51:26Z,Barak Itkin,Improve checkerboard detection by comparing a 2-color estimation error.,02,9e9cb81865bb433929f40cb189607c5365612dd8,2021
+ArchAIDE,2021-11-27T09:46:34Z,Barak Itkin,Update the readme with status of TensorFlow v2 support,11,09d0b93c16f4c8fd2fbd8d310224ef16f812858c,2021
+ArchAIDE,2022-01-22T19:39:59Z,Barak Itkin,Fix shape2 classify to work with non-dataset dirs,01,b2a8415699ad6bea8c4dde24f604923b4bea8dd7,2022

@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+alkahest,2022-08-31T17:01:58Z,nfrerebeau,Small edit in documentation,08,dd2d7dfdcd70b5906f8beb2cabb7ce9d1e160f96,2022
+alkahest,2022-09-15T10:25:32Z,nfrerebeau,Bump package version,09,96929f8e086b8679a1ceb3b40562b07dd709e0c6,2022
+alkahest,2023-05-18T09:18:40Z,nfrerebeau,Bump package version,05,3ef38c0a1990287ad5fa362a3f9e2013db57dd19,2023
+alkahest,2023-06-13T07:45:21Z,nfrerebeau,Bump package version,06,47fbc8de1cbcb9589536698f1686b26ca61b58cd,2023
+alkahest,2023-11-20T12:29:32Z,nfrerebeau,Update pkgdown configuration,11,6213ad92fcc1364aec75d04d491459d3f658c05a,2023
+alkahest,2023-12-12T13:46:13Z,nfrerebeau,Fix use of sparse matrix in AsLS,12,0425e6cc5634e414c9cd6afd9783c5c2dfeb9fc6,2023
+alkahest,2024-01-19T12:15:26Z,nfrerebeau,Add SNV transformation,01,b329ff163c16d5c10aa712d6000fb209258f9255,2024
+alkahest,2024-04-30T15:25:21Z,nfrerebeau,Remove pkgdown workflow,04,a7a07d3fcc443f3c0374aa2b8063b061c9c060e6,2024
+alkahest,2024-07-26T12:06:34Z,nfrerebeau,Prepare for next release,07,ecd85e40ae7fbd1db9d009b57dd2e1d68a60c299,2024

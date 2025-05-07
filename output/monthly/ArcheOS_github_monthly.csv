@@ -1,0 +1,15 @@
+item_name,date,author,message,month,sha,year
+ArcheOS,2011-11-29T16:23:29Z,Fabrizio Furnari,Closes #124,11,671d08a39d50a6f31aa224a2deb771e7f22e8f2c,2011
+ArcheOS,2012-04-29T09:49:35Z,Fabrizio Furnari,To close issue #32,04,92997f69361f396eb2e2b5bbb110c1347f5b2ce4,2012
+ArcheOS,2012-07-25T11:52:35Z,Fabrizio Furnari,fixed syslinux entries (?),07,fd7d9a0502a7fb07da39573ca2949a3205d732b6,2012
+ArcheOS,2013-01-25T18:11:51Z,Fabrizio Furnari,New banner for theodori,01,9ee37b837737ebce9be096869234791ead429204,2013
+ArcheOS,2013-03-25T14:37:03Z,Fabrizio Furnari,Closes #76,03,6fbb1b9abfcf74a86e85501a7764884fde982698,2013
+ArcheOS,2013-09-28T12:21:20Z,Romain Janvier,Corrects version number,09,c97a823b382aab87ea0a6aa90dd47bc4a40f132e,2013
+ArcheOS,2013-10-25T10:25:05Z,Fabrizio Furnari,temporary commented gfoss repos,10,65168734f6eb32ac0feb1774f5fdd0e45c950e14,2013
+ArcheOS,2014-01-21T15:30:22Z,Fabrizio Furnari,added firmware options,01,b61e39072acc4797359441cf4ec9453cef2c6fe5,2014
+ArcheOS,2014-04-23T14:37:00Z,Fabrizio Furnari,updated gitignore,04,4e76647c579f7d855ab5141515322396c6a3f4c1,2014
+ArcheOS,2014-05-02T11:17:12Z,Fabrizio Furnari,fixed,05,d12d1f1e0caa1136b5cebabe30ff8d0507f8c3f6,2014
+ArcheOS,2014-09-05T14:57:14Z,Fabrizio Furnari,new qgis key,09,30555bc739802addcd593c06e3155354c9253c60,2014
+ArcheOS,2015-02-27T15:13:56Z,Fabrizio Furnari,removed unused udeb,02,6c5f9985477e033ca419878baa78f7b837240ec7,2015
+ArcheOS,2015-03-06T15:16:49Z,Fabrizio Furnari,closes #53,03,0a69d15891b2be7f59457ba6f480d7d5b23a1fe7,2015
+ArcheOS,2015-04-16T13:16:13Z,Fabrizio Furnari,removed case: breaks build with different arch,04,cc6ceefbf511ef8746df1ff8951706dcaed81f3e,2015

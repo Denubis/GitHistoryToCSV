@@ -1,0 +1,24 @@
+item_name,date,author,message,month,sha,year
+IntCal,2020-08-12T18:24:17Z,Maarten14C,"added IntCal calibration curves of 20, 13, 09, 04 and 98",08,d71848b3e98dc825541fa7d884cd6eab39868753,2020
+IntCal,2020-09-26T11:16:38Z,Maarten14C,CRAN version,09,0c6e9750d23bbf22f5d0fabd4b656218f28efe84,2020
+IntCal,2021-07-29T07:26:05Z,Maarten14C,adding doc folder,07,bde25eeb7a2082ce8dee23b9cbbccf1b402647b8,2021
+IntCal,2021-08-18T18:55:23Z,Maarten14C,updated description,08,607a3e72a9be7db08720bd43e2310d2de3741abd,2021
+IntCal,2021-10-06T19:49:15Z,Maarten14C,prepare for CRAN,10,7219dfd68de5f1bf0005aea507377e38600aaf27,2021
+IntCal,2021-11-25T12:20:35Z,Maarten14C,preparing for CRAN release,11,71ff43239aef94b4199f0cf6c36113f6d0c6f9bd,2021
+IntCal,2022-07-11T17:42:34Z,Maarten14C,repaired C14.lim in calibrate function,07,4e60fa8b82c8b9e6918588d01e3e4c588b2b85dd,2022
+IntCal,2022-08-22T18:26:01Z,Maarten14C,some cleaning up,08,e4e5b8509038e3b9b087d913571a7cdd35d5ebb0,2022
+IntCal,2022-09-30T16:06:58Z,maarten,enhanced postbomb calibration,09,8a83366a7419f21283eeb6afa367333915e10f28,2022
+IntCal,2022-10-05T15:42:02Z,Maarten14C,corrected a vignette entry,10,0c197b4d35e0aca0b6587aeee9c3b51affa65ae9,2022
+IntCal,2022-11-30T21:11:11Z,Maarten14C,preparing for CRAN submission,11,b4d4fb316a907001c6d86cba0edbd9e7f2b2bebd,2022
+IntCal,2023-01-31T15:51:40Z,maarten,CRAN version updated,01,fbb48592292b6a411ff6e80edff63bffab1af499,2023
+IntCal,2023-02-28T20:09:23Z,Maarten14C,hpd drawn better,02,e6e64a6dff7719040656624e5e3eb13c410e2951,2023
+IntCal,2023-04-30T20:02:12Z,Maarten14C,preparing for CRAN submission,04,74db3795e238f229ad9c1a157a824ef06a771be5,2023
+IntCal,2023-06-30T11:49:30Z,maarten,preparing for CRAN submission,06,9493ddb44310d93f62843dc3600e29dafa6cf923,2023
+IntCal,2023-07-24T21:01:21Z,Maarten14C,updated vignette,07,71cb102d6daf17163ddbe824ab4afabf31f5f42f,2023
+IntCal,2023-08-22T14:09:45Z,maarten,adding aliases,08,b692e0ced2fdffcab3c3f23903a3c4c1109bbf53,2023
+IntCal,2023-10-06T12:25:33Z,maarten,preparing for CRAN submission,10,d808ebee90d5e9d3cc773575b81cf9739ea0a360,2023
+IntCal,2024-09-23T13:03:54Z,maarten,CRAN accepted,09,ab87dbb50c686d4bdcdfc3e4fc6d5f5040a95470,2024
+IntCal,2024-11-28T13:22:54Z,maarten,preparing for CRAN submission,11,a74f05b82d152646c544f91e85e5aca8f1345940,2024
+IntCal,2024-12-19T19:44:16Z,Maarten14C,preparing for CRAN submission,12,6b4bfe34838d7b128f3b1c804b5c43f23b28cb6b,2024
+IntCal,2025-01-12T15:39:46Z,Maarten14C,preparing for CRAN submission,01,e2511fe0bf26787431cf83e5b5d1ccfac729aee6,2025
+IntCal,2025-04-04T13:05:48Z,maarten,preparing for CRAN submission,04,2913f2e79e86c1853c4dd8aca2c6fc9eea28dd84,2025

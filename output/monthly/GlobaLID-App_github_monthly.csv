@@ -1,0 +1,30 @@
+item_name,date,author,message,month,sha,year
+GlobaLID-App,2021-07-30T16:17:32Z,archmetalDBM,Initial commit,07,1432fe4c21c3af94a2146078ee95da47854fcba5,2021
+GlobaLID-App,2021-08-23T14:19:18Z,Thomas Rose,include new data,08,a61a67929c26b8f13ac4b5f5a11b601964983c56,2021
+GlobaLID-App,2021-09-30T20:18:31Z,Thomas Rose,clean up,09,b2f298433a03bd706562814bb07ba18313bc00cd,2021
+GlobaLID-App,2021-10-22T21:16:00Z,Thomas Rose,update links,10,ee4e2e29f4cab87c0741e30d5f9f00935fc7b6ac,2021
+GlobaLID-App,2021-11-27T20:16:30Z,Thomas Rose,Links open in new tabs,11,d8501ce6b9b4cc00beb00d5b7bc15b10ecb23424,2021
+GlobaLID-App,2021-12-08T20:14:51Z,Thomas Rose,include matomo script,12,26b734c05be6c6036e96e7c9ab95ebd2d8291b83,2021
+GlobaLID-App,2022-01-18T20:45:53Z,Thomas Rose,update contribute modal dialogue,01,880c3d5fa66f6f4f25b3f020542d4e4d1203041e,2022
+GlobaLID-App,2022-02-27T08:12:35Z,Thomas Rose,fix typos,02,ff5f45332b2fc458dabc7ba243dbe69ea608cbbf,2022
+GlobaLID-App,2022-03-28T07:02:45Z,Thomas Rose,bug fix in upload function,03,35ecc9b7ff390213f58a3118654a8d4c2d08311b,2022
+GlobaLID-App,2022-05-31T21:36:07Z,Thomas Rose,add license,05,9cb39cc1205c78e08254c62ee82dee9be2c77253,2022
+GlobaLID-App,2022-06-19T15:50:01Z,archaeothommy,add CITATION,06,72cb18e7ac40bd3b5682b48f95036c26ee6bf523,2022
+GlobaLID-App,2022-11-26T11:28:24Z,Thomas Rose,bugfix legal notice,11,75dd6e3e59a1878da0e9b9e2c92123138fb13278,2022
+GlobaLID-App,2022-12-21T22:52:47Z,Thomas Rose,include references of added  data,12,773c5f6c7d700448e0d089d2b1c02c3a5235fae7,2022
+GlobaLID-App,2023-01-31T21:43:19Z,Thomas Rose,update database status,01,6c81d6934c05edef00c1423f7c010828bfe27264,2023
+GlobaLID-App,2023-03-06T19:49:52Z,Thomas Rose,correct coordinated for Sklavopoulou,03,3924ef693e27d3e8af0bb0e26236c6926f7e66c5,2023
+GlobaLID-App,2023-06-18T07:52:34Z,Thomas Rose,include new data,06,f1ed390dd87876ce1e2b1991732a60bd568caf48,2023
+GlobaLID-App,2023-07-23T17:46:29Z,Thomas Rose,update team,07,cc9c03e21559f065b1b521ae25ad811c8b413fb1,2023
+GlobaLID-App,2023-08-20T14:43:50Z,Thomas Rose,correct link to open in new tab,08,f1ed8494533ab718aef7641684d0beebd4588e43,2023
+GlobaLID-App,2023-11-19T12:43:48Z,Thomas Rose,"publish data from Argentina and additional metadata, update template for contributors",11,202096eb5e807043ad5c132db05bb3b0b9da3007,2023
+GlobaLID-App,2024-01-28T11:11:05Z,Thomas Rose,update citation,01,2922b239ce23ae7652462e9e5dcc0ffb394250fd,2024
+GlobaLID-App,2024-02-27T15:03:02Z,Thomas Rose,adjust image size,02,d47c89fb4387c94583dc8cdedcda841fa73663ff,2024
+GlobaLID-App,2024-03-31T16:48:30Z,Thomas Rose,include new data,03,5be28b45140e20e516f7554b8db514af52f5ed12,2024
+GlobaLID-App,2024-05-20T16:07:00Z,Thomas Rose,fix broken links,05,655d5589087325380c9f31d1c92d06e1854c00f7,2024
+GlobaLID-App,2024-07-20T14:19:09Z,Thomas Rose,include new data,07,e703e98dc9dd5bb790d36abc8bbf1890e60aa942,2024
+GlobaLID-App,2024-08-11T14:46:34Z,Thomas Rose,Merge branch 'main' of https://github.com/archmetalDBM/GlobaLID-App,08,574c75ac3d5d5b22bae3f2d374c8af7576da2990,2024
+GlobaLID-App,2024-10-08T23:59:56Z,Thomas Rose,update team,10,57dc348428c63437ec86a49c077871780eabcdf7,2024
+GlobaLID-App,2025-01-31T14:37:28Z,Thomas Rose,include data from the Alps and Romania,01,396b20012e65ed59e34e22534fe3eae86258505a,2025
+GlobaLID-App,2025-03-04T20:43:59Z,Thomas Rose,fix formatting,03,ac05067d84b86b7e9a7a90eebaad1c06af80ff09,2025
+GlobaLID-App,2025-04-26T13:45:11Z,Thomas Rose,update image,04,09a6a8e0733e993a97ed83167c28ba0c98790191,2025

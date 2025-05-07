@@ -1,0 +1,6 @@
+item_name,date,author,message,month,sha,year
+pygeoroc,2020-04-09T14:12:34Z,xrotwang,updated citation info,04,cd0d249aeb43c33222d452bc57a9f64b06a82714,2020
+pygeoroc,2020-11-20T09:57:45Z,xrotwang,gh actions,11,e108a351bf6ce4e8b18a5e3b861962de4a77be08,2020
+pygeoroc,2021-03-16T07:00:19Z,Robert Forkel,closes #3,03,aadf0de99187001c0fd9833318ebace465615b67,2021
+pygeoroc,2022-06-29T12:52:34Z,Robert Forkel,bump version for development,06,c722da35ab36f2fdcc3d793a025bb81d217238e1,2022
+pygeoroc,2024-09-26T20:50:12Z,Aymeric Hermann,.DS_Store banished!,09,42acdbf1c0492fe7ed35e2deaa6dfa3752af0a05,2024

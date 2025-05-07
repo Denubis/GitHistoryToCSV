@@ -1,0 +1,30 @@
+item_name,date,author,message,month,sha,year
+Akkademia,2019-09-28T23:35:51Z,arielazary,adding MEMM and HMM learning products,09,17f66bbbca3f5e101d6fc1de35f961e18dceff4c,2019
+Akkademia,2019-10-31T07:02:45Z,gaigutherz,Add support to Linux and MAC OS paths,10,0853179c2ba7c741e26e71d7a1c1a7b21043dcaa,2019
+Akkademia,2019-12-26T06:08:23Z,gaigutherz,Add ribo corpus and check its translation,12,58a2e259684788aa682394a9c6271567cdf137f8,2019
+Akkademia,2020-01-13T20:32:33Z,gaigutherz,Add accuracy ignorant to case and segmentation,01,a94b5500093ed2cd9d6fb4acd0292e99e3502a74,2020
+Akkademia,2020-02-29T18:34:44Z,gaigutherz,Add F1 and accuracy without segmentation to BiLSTM and HMM,02,ea7e628cb1526eeb6b9cbb116577ecf4fc5c5b52,2020
+Akkademia,2020-03-29T14:37:52Z,gaigutherz,"Add tokenization to sings, transliteration and translation",03,4838e79aa9e27dfff103f0603c8670feee24e4af,2020
+Akkademia,2020-04-12T21:46:54Z,gaigutherz,"Divide all signs, transliterations and translations we can by broken parts (""..."").",04,393c2b2f51d4432ee37cd90aa838994df60564a3,2020
+Akkademia,2020-05-23T08:36:06Z,gaigutherz,Use new memm_model.pkl,05,a44d7cf89b6dd500f6a7ec2d02385515b79ee4d2,2020
+Akkademia,2020-07-28T16:29:57Z,arielazary,Update README.md,07,91e90050f86160e1a695010e297f4fbed6eca284,2020
+Akkademia,2020-08-31T20:23:59Z,gaigutherz,Update to version 1.0.10 with improved hmm,08,7ef32b50145a5a407335c032e768af6c382e3f0c,2020
+Akkademia,2020-09-09T21:36:03Z,gaigutherz,Improve HMM and MEMM by splitting to lines and update to version 1.0.11,09,e708be26ba5c9e6c9ee136f3e43fab6d625ce5c0,2020
+Akkademia,2020-10-31T13:28:38Z,Debian,Add output of fairseq-preprocess command,10,0e4fbafff97cdae4b5be31c28841fe996f599bd5,2020
+Akkademia,2020-12-30T22:13:52Z,gaigutherz,"Add line separators to train, valid and test files",12,9c02891ea38124b97e0c3a88bfa21903ed384fc4,2020
+Akkademia,2021-03-31T16:53:23Z,Gai Gutherz,Fix slurm config file,03,1ebe03183dc480bf442ddd6e809b22d6645cec42,2021
+Akkademia,2021-04-03T18:39:13Z,Gai Gutherz,Fix slurm running to support many arguments at once,04,0cfb059f1670dd434d92fe52fa58156beadbc4d3,2021
+Akkademia,2021-05-24T22:36:36Z,gaigutherz,Change the bust_run_test_data_translated_dotokenized.txt file to contain only core data,05,12182a58abcc4efa9537758684f241762914ae05,2021
+Akkademia,2021-10-16T19:03:29Z,gaigutherz,Add option for data preparation without dividing using three dots,10,5481ae52e930ce2c8eddc8d1d38b00b4f23767c7,2021
+Akkademia,2021-11-08T23:21:00Z,Gai Gutherz,Add best_run_test_data_translated_not_divided_by_three_dots.txt file,11,f4ac34602889f55b2202827d47ebcdc85d1339d9,2021
+Akkademia,2021-12-25T20:09:19Z,gaigutherz,Fix bug in file deletion of tokenize(),12,ea30267a7da3e84dfe0de7bb8629900b4460ad9a,2021
+Akkademia,2022-01-15T13:00:25Z,Gai Gutherz,Add input files for custom translation,01,9841818d9ee54ffd3b3f7bf948d0791ec0db6e3d,2022
+Akkademia,2022-03-30T21:23:41Z,gaigutherz,Fix a bug confusing file name with file object,03,045d38e2eb1d2e1eb8fdf70695e9aa16e0475b3e,2022
+Akkademia,2022-04-07T20:39:49Z,gaigutherz,Fix another issue with the English detokenization,04,05f54d43b36ca7c491e770c7e28296cc1346b137,2022
+Akkademia,2022-06-25T21:48:12Z,gaigutherz,Add fix_numbers() and fix_acute_grave() to organize_transliteration_line(),06,715ec7ac5f787fcb12350e5b80f70b169440415d,2022
+Akkademia,2022-07-09T20:21:11Z,gaigutherz,Fix bugs in detokenization based on SentencePiece,07,1764ee213da8bc2736a7b3539ec0afae3a96056b,2022
+Akkademia,2023-02-19T08:04:14Z,gaigutherz,Add code and results for translation memory baseline.,02,0d41e86b5ebb1fd523cca2e395bf8bb550c3c26f,2023
+Akkademia,2023-05-10T21:43:35Z,gaigutherz,Make necessary changes for new pypi python library version,05,baafbf330bb2af39962b95a1dea701b14abace87,2023
+Akkademia,2024-04-11T14:22:06Z,gaigutherz,Merge pull request #5 from leedrake5/master,04,40b360b0664aa666386253d9234f6116b3d84a69,2024
+Akkademia,2024-09-11T00:14:27Z,Lee Drake,Transformers,09,77cef97942ba06ff414abcf5e9340c231d208a6c,2024
+Akkademia,2024-11-16T22:00:02Z,gaigutherz,Merge pull request #6 from leedrake5/master,11,4684b30d95cfc02c22ec2b4d006ba65d2bbd6996,2024

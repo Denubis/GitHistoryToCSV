@@ -92,7 +92,7 @@ def process_repositories(csv_file, output_dir="output", yearly_mode=True, monthl
     Path(output_dir).mkdir(parents=True, exist_ok=True)
     # Create monthly output directory if it doesn't exist
     Path(f"{output_dir}/monthly").mkdir(parents=True, exist_ok=True)
-    # Create error directory if it doesn't exist
+    # Create error directory if it doesn't exist - single location for all error logs
     Path(f"{output_dir}/errors").mkdir(parents=True, exist_ok=True)
     
     # Set up progress bar

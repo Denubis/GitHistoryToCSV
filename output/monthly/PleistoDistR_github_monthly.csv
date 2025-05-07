@@ -1,0 +1,11 @@
+item_name,date,author,message,month,sha,year
+PleistoDistR,2022-01-29T01:30:38Z,g33k5p34k,Several bugfixes involving required dependencies and the default sealvl file,01,e40762a87e59991573fd8ea0539a6a62b9934f8a,2022
+PleistoDistR,2022-02-10T22:38:26Z,David Tan,Update DESCRIPTION,02,0d3ea86aa237eda38e08aa3ac1339cfa3286affe,2022
+PleistoDistR,2022-03-10T02:07:55Z,David Tan,Update calcmetrics.R,03,b83b2ee59f89376929047e807e3c5ead46a6fb69,2022
+PleistoDistR,2022-04-29T23:09:07Z,g33k5p34k,minor cran comment updates,04,52f2f9961815ba0ace73709ae91096ffae49e9d8,2022
+PleistoDistR,2022-05-13T21:08:25Z,g33k5p34k,update documentation with example code,05,b02b24b16995078c68a4e2b70f5f41e8bac68da2,2022
+PleistoDistR,2022-08-29T05:34:02Z,David,Merge branch 'main' of https://github.com/g33k5p34k/PleistoDistR,08,21168ac4a396ce6673ed16231118cde3cb9c26bb,2022
+PleistoDistR,2022-10-07T17:16:21Z,David Tan,Create LICENSE,10,392cc3f1aca80380935b52f919707a1167ec7a84,2022
+PleistoDistR,2024-09-25T03:07:22Z,David Tan,Update makerasters.R,09,d533f59d5c29afe92b5b783467ce8d88689ddd24,2024
+PleistoDistR,2024-10-28T08:42:34Z,David Tan,Update README.md,10,fe4e45e7226f1dafdf273f1d64ee9c9f1c9e0046,2024
+PleistoDistR,2024-12-10T23:36:27Z,David Tan,Update makerasters.R,12,bd89a57b46fef938e1e5482d74faa71a35e7378a,2024

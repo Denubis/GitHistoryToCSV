@@ -1,0 +1,40 @@
+item_name,date,author,message,month,sha,year
+THANADOS,2019-10-28T14:13:59Z,Stefan Eichert,first version of thanados website,10,0a016383ecdc69f777c3df15809bf511f62f9b7f,2019
+THANADOS,2019-11-27T13:24:22Z,Stefan Eichert,Merge branch 'master' into thanados,11,bbd4fd51f4a9310a38f8321a46467383f981a73d,2019
+THANADOS,2019-12-23T15:34:46Z,stefaneichert,complete catalog in entity view,12,a592835657f46318310d0af55b2414c004533ce2,2019
+THANADOS,2020-01-29T08:37:13Z,stefaneichert,Merge branch 'master' into thanados,01,65487a97d08bdd497627c067749b28592112f410,2020
+THANADOS,2020-02-27T11:32:50Z,stefaneichert,dropright button for data download,02,c7f8025946e39a1ee565888056f41485462453fa,2020
+THANADOS,2020-03-31T16:06:37Z,stefaneichert,legend for multiple color layers,03,0e1b0305476d5340a9a12973563c2e746a003f3e,2020
+THANADOS,2020-04-29T17:00:18Z,stefaneichert,enlarged charts in modal,04,9a8e15e2a7da46ba78fba5d78ee7153392657a71,2020
+THANADOS,2020-05-29T09:27:29Z,stefaneichert,url fixes,05,2497269a79fb792ed2c9a08cbdbb3fa0f89073c6,2020
+THANADOS,2020-06-30T12:26:32Z,stefaneichert,set maintype to default if none,06,e00254b3f2ff5131221001d29ea877da6d4001a2,2020
+THANADOS,2020-07-31T14:38:32Z,stefaneichert,3d models metadata,07,ce7ee31c027e63b0fc12679a0bf1c722b92995b4,2020
+THANADOS,2020-08-20T07:27:17Z,stefaneichert,dashboard,08,e4749e08ce9ddf4af2d27b104a69fd256178d75e,2020
+THANADOS,2020-09-30T13:28:51Z,stefaneichert,bodyheight pearson combos,09,8e2a3fdd3002b6a65811174ef035a5178d2e7319,2020
+THANADOS,2020-10-28T14:29:53Z,stefaneichert,dashboard additions,10,a0e41daab5b8d96a190da20a11de3905ab447478,2020
+THANADOS,2020-11-30T19:11:20Z,stefaneichert,acknowledgements and contributors update,11,9893ba3dd1d8f99c4e0b28856967df3eeda8f64a,2020
+THANADOS,2020-12-17T11:29:28Z,NinaBrundke,set http://creativecommons.org/licenses/by/4.0/ to target=_blank,12,245ac2ee1e71e6dbdfd3c92852ade031870982d0,2020
+THANADOS,2021-01-28T11:47:04Z,stefaneichert,Merge branch 'main' into thanados,01,abbb5a6a790b9dec4745ff4fd9cc5ec10df652e0,2021
+THANADOS,2021-02-26T18:44:54Z,stefaneichert,Merge branch 'main' into thanados,02,95ee996147fcd889dc7b4944b2df829f66569d28,2021
+THANADOS,2021-03-23T13:38:21Z,stefaneichert,Merge branch 'main' into thanados,03,178306762bcf7049526db7b77fda22a118b72c40,2021
+THANADOS,2021-04-09T09:02:03Z,stefaneichert,Merge branch 'main' into thanados,04,d99c7bf7259bb11c2ae70ebdfc84c006465df8e0,2021
+THANADOS,2021-05-10T13:22:53Z,stefaneichert,radiocarbon dating,05,c3760923892ca81497c7d83e5c047dab229efe92,2021
+THANADOS,2021-06-29T09:29:24Z,stefaneichert,typos,06,3d12cf9949a54f84d8ad80cbc8701db5a6e7fc13,2021
+THANADOS,2021-07-30T12:03:25Z,stefaneichert,.cache gitignore,07,7a33d2c771a5ef784f4ee37dbb851627d453db99,2021
+THANADOS,2021-08-31T08:52:43Z,stefaneichert,image tools,08,2473d5e2b4358aedba928bb549ad0a6332c1b841,2021
+THANADOS,2021-09-21T09:29:17Z,stefaneichert,import prepare,09,4d36057e110f7163e14e7084e8b2a05fc16d2793,2021
+THANADOS,2021-10-21T14:16:44Z,stefaneichert,email changed,10,e6c6feaf35dd17707465f173252ffb6d77eb382a,2021
+THANADOS,2021-11-19T12:23:48Z,stefaneichert,fixed enlarge button for 3d models,11,8e4e23aff7aa5f240c47788642d58ce868f37e24,2021
+THANADOS,2021-12-17T08:50:38Z,stefaneichert,fix isotope bug,12,8e92b14d6434c43c5bdb13449f6739ab8de1c8bb,2021
+THANADOS,2022-01-31T16:34:38Z,stefaneichert,count sites on map,01,6b3f835daec5d9c5d7a29924207b1330afa3f71b,2022
+THANADOS,2022-02-11T10:29:14Z,stefaneichert,cleanup,02,6d730e7bb58c03f88be7a7ec00ceaaeaa70075c8,2022
+THANADOS,2022-03-31T12:30:28Z,stefaneichert,online array of available sites,03,f08786a154dba9d9bba6339499b73b717ecb5d2a,2022
+THANADOS,2022-04-27T07:39:55Z,stefaneichert,update key label,04,898d9f3b62dec6301dc91fac5c6ccd6e771687f9,2022
+THANADOS,2022-05-30T13:14:02Z,stefaneichert,fixes,05,b4775012403524df908459a9071fb77b083a463e,2022
+THANADOS,2022-07-22T12:59:19Z,stefaneichert,encodingFormat changed,07,d4c0a30eb1bba089d7750944db3068d5dffd9264,2022
+THANADOS,2022-11-23T15:18:53Z,Alexander Watzinger,Fixed location of __name__ = __main__ check,11,13a90bf207676c03d1409804d8d4afea5072edb3,2022
+THANADOS,2023-01-11T15:41:57Z,stefaneichert,fix bug with sites from projects,01,26397e57117b076aa60265d11b5dd132a5fd2077,2023
+THANADOS,2023-02-10T08:38:31Z,stefaneichert,update fullscreen,02,93fcfbdd43ceba598748174fd603d5271defd79b,2023
+THANADOS,2023-03-13T13:26:41Z,stefaneichert,fix orientation chart,03,256a7aeb7a830624202212cfd6d9b33ddd17cba8,2023
+THANADOS,2023-06-21T14:58:34Z,David Novák,Update index.html,06,f8bf812fac029b9acc53929c31a5d5e8f3923dfb,2023
+THANADOS,2023-07-24T09:20:03Z,stefaneichert,merge and adapt mfc-cb,07,1a046b0e6d828b680604fd60d404e97f9c512f9f,2023

@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+bleiglas,2020-01-05T12:53:31Z,Clemens Schmid,wrong link,01,caaf5b89c974ad24dfaf775667173dfb6d414e89,2020
+bleiglas,2020-05-19T11:29:10Z,Clemens Schmid,removed progress bars - annoying for temporal resampling runs,05,9d491b5493aff2b70b65c9c4b639b37a1b67eed3,2020
+bleiglas,2020-06-10T20:10:22Z,Clemens Schmid,started to think about a vignette,06,2a39f42b644f0b80dc16e2dfeaf118949916f7d4,2020
+bleiglas,2020-07-31T21:52:35Z,Stephan Schiffels,updated documentation.,07,1223f14bfb9f93d3075a1481f23de4df5a8c3511,2020
+bleiglas,2020-08-05T12:53:56Z,Clemens Schmid,Merge pull request #5 from nevrome/better_unit_scaling,08,68220dbcac03a73919be2de0860fcb9fc12426b8,2020
+bleiglas,2021-02-11T15:59:06Z,Clemens Schmid,the version does not have to be named here,02,de6a29d7fef7523e762118982a15465280df499c,2021
+bleiglas,2021-03-29T15:49:54Z,Clemens Schmid,small changes in phrasing,03,bb2b6fc566f9970fe494d3bace7e2412259fde6d,2021
+bleiglas,2021-04-10T13:49:14Z,Clemens Schmid,updated citation and README,04,25026ddc504b28b8a9378f423871e78999747486,2021
+bleiglas,2021-09-15T09:28:45Z,Clemens Schmid,version bump,09,18ab78c57d498de787bccfb1a8e460e02076810c,2021

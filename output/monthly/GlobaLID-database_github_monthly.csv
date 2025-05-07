@@ -1,0 +1,27 @@
+item_name,date,author,message,month,sha,year
+GlobaLID-database,2021-07-30T16:24:06Z,archmetalDBM,Initial commit,07,741cd7462a649d26d3b5776994b3789c289e5917,2021
+GlobaLID-database,2021-08-31T08:14:12Z,Thomas Rose,update GlobaLID,08,7cf050e6e6f30a8637f2c39b64642891de9e9b9a,2021
+GlobaLID-database,2021-09-30T19:38:14Z,Thomas Rose,update Links,09,6f5e83860b85a58a124d3d276efcdd6ecbd6b312,2021
+GlobaLID-database,2021-10-10T11:29:00Z,Thomas Rose,include orcid,10,f9e7f88f721a482d2913111603d5d5110195bdb1,2021
+GlobaLID-database,2021-11-26T19:45:31Z,Thomas Rose,add coverage map to readme,11,aea4c6cb0c890b166e9e5209022cea3faf3105a5,2021
+GlobaLID-database,2021-12-01T18:01:55Z,Thomas Rose,add contributor,12,d8c8d47ad51b2a809d8ac663c4f3dc896aa92e1f,2021
+GlobaLID-database,2022-01-18T20:24:54Z,Thomas Rose,update DB,01,57e89ea4f44060cf8478fd984d4d355309b13371,2022
+GlobaLID-database,2022-03-28T06:18:56Z,Thomas Rose,update map,03,e9e82afb37026057ac0f730c78ad101a61171eec,2022
+GlobaLID-database,2022-06-19T15:50:54Z,archaeothommy,add CITATION,06,f08528358e7361c654c3d0217c31f11eef712432,2022
+GlobaLID-database,2022-12-21T22:45:22Z,Thomas Rose,update contributors and affiliations,12,c5a0e41c9ee2f1a5a031087deb3d46e79183c119,2022
+GlobaLID-database,2023-01-31T19:21:24Z,Thomas Rose,add missing metadata for Durali-Müller 2006,01,7695c38ecbd4d12a39d9e8a5c75564d5ffecd6ca,2023
+GlobaLID-database,2023-03-06T19:50:13Z,Thomas Rose,update map,03,8003818277f8888fb78270436472ee9c5c352bda,2023
+GlobaLID-database,2023-06-18T07:48:40Z,Thomas Rose,correct typo,06,862f52dc98c75829360a53c83a20efaecb07fe98,2023
+GlobaLID-database,2023-07-03T13:52:04Z,archaeothommy,update team,07,1978d525625bb6f969f01718b87bd8079b2d27d3,2023
+GlobaLID-database,2023-08-20T14:40:34Z,Thomas Rose,update team,08,bea35dac3c077766ff3e0a97d66a307311b0b56b,2023
+GlobaLID-database,2023-11-19T15:13:17Z,Thomas Rose,update reference,11,4d6331c21ad32abc8d01056387fa15865de9e6ad,2023
+GlobaLID-database,2024-01-28T11:18:46Z,Thomas Rose,Update README.md,01,aa4e7af032e9b7273887abcce44df2dbb9f35f0f,2024
+GlobaLID-database,2024-02-27T10:05:10Z,Thomas Rose,update team,02,4da47f2a61a36e88f14b895c0a020a0006b0f8f2,2024
+GlobaLID-database,2024-03-31T16:12:18Z,Thomas Rose,update cff,03,92dd51790867042d897b782097523b55a3368117,2024
+GlobaLID-database,2024-05-15T21:03:34Z,Thomas Rose,update link,05,c03c78f611520158e5a54954d9e60c9ba32c2866,2024
+GlobaLID-database,2024-07-20T14:06:35Z,Thomas Rose,include data from Central America and new data from SE Europe,07,224043b748797dd621c1fd90e0e7c9f679706fc0,2024
+GlobaLID-database,2024-08-11T14:47:44Z,Thomas Rose,update team,08,6f4b1258768796212b56e9a5ce185161ab40b4d2,2024
+GlobaLID-database,2024-10-08T23:56:03Z,Thomas Rose,update team,10,50eb42075ca3cce3f633044704461c6d88af050b,2024
+GlobaLID-database,2025-01-31T14:31:26Z,Thomas Rose,include data from the Alps and Romania,01,619cb93c1056b2792b1ef70382ef2fc836cdf4c3,2025
+GlobaLID-database,2025-03-04T20:35:49Z,Thomas Rose,fix typo,03,566d684c0631972905b5bcdf0f6275172195f876,2025
+GlobaLID-database,2025-04-26T13:44:10Z,Thomas Rose,data curation,04,21bffe7b38275ea0bee0aae58dc75c0722ca1ab7,2025

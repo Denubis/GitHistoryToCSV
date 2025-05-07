@@ -1,0 +1,11 @@
+item_name,date,author,message,month,sha,year
+civ5-prehistoric,2013-12-11T23:26:14Z,carlos,trying to cleanup,12,332d9e62f15929bdc7a4a0aaf3314815493c879b,2013
+civ5-prehistoric,2014-01-23T15:21:25Z,carlos,release v0.2.8a (steam-v11) package build civ5mod,01,d01b5389dd3f7667ff93cc3c348ef195685dcefc,2014
+civ5-prehistoric,2014-02-05T03:04:44Z,Carlos,Update README.html,02,10eb3884008a5630428f23489e1ab28c7e6d55a9,2014
+civ5-prehistoric,2014-03-29T01:15:03Z,carlosfhernandez,big wonders update,03,9ec74647c85f66413e0a6cd2ef9e7a4aac757214,2014
+civ5-prehistoric,2014-04-24T23:46:22Z,carlosfhernandez,finish tech core and start unit core,04,1a572789176708e1843936cbb1b47082713e7d7b,2014
+civ5-prehistoric,2014-05-30T15:11:35Z,carlosfhernandez,building trigger and notes,05,4d3abf84a8c7e841e7d7d766b5be407267915066,2014
+civ5-prehistoric,2014-06-18T14:51:47Z,carlosfhernandez,add building functionality; comments game defines,06,f187f4d2b9157a7b70a23b5206cb940a66782b91,2014
+civ5-prehistoric,2014-08-31T13:49:19Z,carlosfhernandez,readying for preview preview release; notes; more,08,c9ebe73737c0a3db0ad1ca7572dc1c2598bba05a,2014
+civ5-prehistoric,2014-09-21T21:36:42Z,carlosfhernandez,small building changes and notes,09,0f90b8af01b0aec4e3acf1772d0ffe894b1f8a83,2014
+civ5-prehistoric,2014-10-22T15:08:55Z,carlosfhernandez,"art, buildings, fixes, builds",10,3761757f07b3dfdfbc8ec6934f98cf9a710bb61b,2014

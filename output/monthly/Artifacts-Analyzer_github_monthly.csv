@@ -1,0 +1,6 @@
+item_name,date,author,message,month,sha,year
+Artifacts-Analyzer,2022-08-31T09:58:43Z,Eythan Levy,"Initial upload of the artifacts analyzer, with example files related to",08,ecb606b2fe1b4968318fae1ea6badab61a566c1c,2022
+Artifacts-Analyzer,2022-12-22T15:36:52Z,Eythan Levy,Added possibility to not negate categorical variables.,12,a59d4b541dc61dc22fed30977a7ee29d331a1e5c,2022
+Artifacts-Analyzer,2023-02-13T10:17:59Z,Eythan Levy,Added table of oppsing pairs.,02,743dd046bd5b395b488e90e4c3f685ea5e6c6153,2023
+Artifacts-Analyzer,2023-05-22T18:37:22Z,Eythan Levy,Adding source file,05,426ad674993470137211c5bb76e7ddaddc6fbba7,2023
+Artifacts-Analyzer,2023-08-20T18:42:04Z,Eythan Levy,Adding GUI version,08,e185b78a407ff711e8f5de5a5ebd5cb9420ea66a,2023

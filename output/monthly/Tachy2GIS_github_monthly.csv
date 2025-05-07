@@ -1,0 +1,11 @@
+item_name,date,author,message,month,sha,year
+Tachy2GIS,2018-01-30T08:24:44Z,jraether,Update README.md,01,7c0728612344e8f6711cf785286c5048fe49543f,2018
+Tachy2GIS,2018-02-27T08:57:32Z,schlimme-gegend,Merge remote-tracking branch 'origin/master',02,48926a469f774b76c336dffb80701f8e1766ee2f,2018
+Tachy2GIS,2018-03-15T10:36:27Z,schlimme-gegend,"Removed docutils import, it only caused trouble anyway.",03,c4b82b9163144eb17f35da8889b3feb25b524991,2018
+Tachy2GIS,2018-04-26T11:24:12Z,schlimme-gegend,Removed previously unseen .bats,04,2c11c6ea8f0b650d75b468d0ed6d51332c26381a,2018
+Tachy2GIS,2018-05-08T13:40:00Z,schlimme-gegend,"TachyReader now tolerates short strings (e.g. the '?' sent by the tachy when connecting) and dumping now emits a 'dataChanged' event in an attempt to get the legend to realise that in fact, data has changed. This doesn't work.",05,098ce5f14071f3cd5fa41a154eaecfabe8665f36,2018
+Tachy2GIS,2018-06-19T10:46:44Z,jraether,Update README.md,06,0af84352d9af8394e34197d61ea69c1786663c31,2018
+Tachy2GIS,2019-02-16T15:04:06Z,krkl,Fixed Rubberband behaviour.,02,7486998f100b6bea96c3bc9d2bc349aea73987bc,2019
+Tachy2GIS,2019-05-05T11:52:27Z,krkl,Added credits to README.,05,db47bba8cade477378c6c2faa3ff472043d2b4d3,2019
+Tachy2GIS,2019-11-28T16:16:52Z,schlimme-gegend,Delete Installation_T2G_QGIS3_Win10.pdf,11,070f9f54682b9151974713ffa4338d12661acc63,2019
+Tachy2GIS,2021-03-16T14:48:25Z,schlimme-gegend,Updated README.md to reflect the situation after moving to GBV,03,d6c1a294997236888128bb688d02fcffe7ef7fae,2021

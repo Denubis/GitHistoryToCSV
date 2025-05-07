@@ -1,0 +1,3 @@
+item_name,date,author,message,month,sha,year
+ElementSourcing,2018-01-29T20:45:25Z,Robert Bischoff,Updated README,01,5313366fdb69066abde994b2066cd8c0c862e296,2018
+ElementSourcing,2018-02-06T20:28:05Z,Robert Bischoff,Updates to packages for cleaner coding and ensure functions load required packages and do not depend on global variables,02,b97951c039c120f2c34ffb6aa126095421a920f8,2018

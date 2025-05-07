@@ -1,0 +1,48 @@
+item_name,date,author,message,month,sha,year
+EM-blender-tools,2018-12-02T11:46:19Z,Zamolxes-laran,Initial commit,12,0f1161a2b03fcbee06932f964aebee904a46582c,2018
+EM-blender-tools,2019-02-28T17:04:08Z,Emanuel Demetrescu,bug fixing,02,59bdc450078b9430af309966c098f878925780e3,2019
+EM-blender-tools,2019-03-14T07:54:19Z,Emanuel Demetrescu,Update UI.py,03,8290c1aff6cf61afc92ee3bbaf749912996b93bb,2019
+EM-blender-tools,2019-04-12T11:23:50Z,Emanuel Demetrescu,Update __init__.py,04,3ce9dcb62b4a19d78a02dd389afca591bee9cd86,2019
+EM-blender-tools,2019-07-25T08:04:15Z,emanuel,Changed taxonomy,07,95538a06391216c4a5adbdfc3e22b671ef8f82c7,2019
+EM-blender-tools,2019-08-05T16:48:02Z,Emanuel Demetrescu,Update __init__.py,08,d338932433f5049bc8e02c32a549374bd77274ce,2019
+EM-blender-tools,2019-09-13T11:24:05Z,Zamolxes-laran,Merge pull request #1 from zalmoxes-laran/Soloing-feature,09,a9db340db8eab6f5e3ff0c4a03a68bad83aa50eb,2019
+EM-blender-tools,2019-11-29T16:57:35Z,emanuel,Update UI.py,11,b5f0773b9638b46ec38bac419d9ea3608ec57bc5,2019
+EM-blender-tools,2019-12-19T07:22:29Z,Emanuel Demetrescu,csv exporter completed,12,6f19ad54cac3067d1ab322880479b34b4f41dee8,2019
+EM-blender-tools,2020-01-07T16:05:01Z,emanuel,Added helper for errand proxies,01,bacebe9cf2623be4de02eb6a17edca11330a9799,2020
+EM-blender-tools,2020-03-30T14:52:24Z,Emanuel Demetrescu,Update __init__.py,03,126a706f02626adf4bba5fef4e0c2605ccdcfd04,2020
+EM-blender-tools,2020-04-07T14:10:54Z,Emanuel Demetrescu,Fixed bug in EMviq export,04,e4cb224bbdb35a66aed350f4232876800ef86eb3,2020
+EM-blender-tools,2020-09-25T09:15:13Z,Emanuel Demetrescu,Update functions.py,09,c8502cdb9d94007babe1a4c9c04dc998653a976d,2020
+EM-blender-tools,2020-10-19T08:21:59Z,Emanuel Demetrescu,Create GPL3-license.txt,10,49d32efb2083e7274079f8801603b520fe3e62fa,2020
+EM-blender-tools,2020-12-21T10:02:06Z,emanuel,EMtools v.1.1.73,12,761efbc84f71f8f289c8f52024f81021cc84e369,2020
+EM-blender-tools,2021-02-04T18:22:50Z,Zamolxes-laran,Update README.md,02,e07506e16cceaba6ccd5c0f1d233c819867580f1,2021
+EM-blender-tools,2021-03-04T16:02:09Z,emanuel,Update __init__.py,03,b2af8eac9c28cf8b34148a6b628e765f41fd27df,2021
+EM-blender-tools,2021-04-30T15:26:01Z,emanuel,EMviq exporter fixed,04,0b4af3a3326651098745367fc3ae62df0fe063c1,2021
+EM-blender-tools,2021-05-13T17:03:40Z,emanuel,update,05,820a20ca3809da029c97c207c868f8709d915704,2021
+EM-blender-tools,2021-06-07T14:10:08Z,emanuel,Update __init__.py,06,9355919030a2787794a9b9f0e29c71fc9d1d3734,2021
+EM-blender-tools,2021-09-28T12:34:32Z,emanuel,Update __init__.py,09,05326dc2794ca61ae4f7d2b9805eea6ae7f00b87,2021
+EM-blender-tools,2021-10-22T07:08:30Z,zalmoxes-laran,Update export_manager.py,10,fc18ede09122c51ed0adba0c0c18f4c8ec26ffb4,2021
+EM-blender-tools,2021-11-23T15:32:17Z,emanuel,EMtools ver. 1.2,11,3ef87328abb7e34fc6d619391c6a8a14586a7158,2021
+EM-blender-tools,2022-02-25T14:29:22Z,emanuel,Update functions.py,02,77b9697b8363d7350a1b4d530a9980709256df8c,2022
+EM-blender-tools,2022-03-17T07:22:37Z,zalmoxes-laran,Update visual_tools.py,03,e2fa1d0dda74584396843e0793069e5dc2caea67,2022
+EM-blender-tools,2022-06-28T14:22:15Z,filipposala91,adding collection creation function,06,10e440a4594158151b8da945f93aa0227370d1a4,2022
+EM-blender-tools,2022-07-29T14:09:20Z,zalmoxes-laran,Update __init__.py,07,c53ed6e027744d3d207af5d5eae40b5d2913fc6c,2022
+EM-blender-tools,2022-08-16T14:03:12Z,zalmoxes-laran,Update visualisation_mode.py,08,29265d166c9dda4398bb6a07b99a6ae24782c7ba,2022
+EM-blender-tools,2022-09-21T13:27:33Z,filipposala91,EMdb_Update_U.I.,09,dc466b369f11dceaa830a2f9aec114a72acf709a,2022
+EM-blender-tools,2022-10-19T15:42:03Z,zalmoxes-laran,Added support to read the sqlite db from pyarchint,10,1be4bd1a416d18ce55b74377700ad27c0bb9d235,2022
+EM-blender-tools,2022-11-20T15:46:42Z,zalmoxes-laran,Update functions.py,11,806e9ec7d6858b14e8a485aa33a853c83ffb03c0,2022
+EM-blender-tools,2022-12-29T14:47:43Z,Emanuel Demetrescu,Version 1.3.2,12,88bcc8c2f63caa0c227efe4fa5fd4722314bb542,2022
+EM-blender-tools,2023-01-31T16:50:22Z,zalmoxes-laran,added new brand JSON exporter for EMviq v.0,01,fe5e398a6795258343946b66229c9d33bc14c1d4,2023
+EM-blender-tools,2023-02-27T20:47:50Z,zalmoxes-laran,Update em_setup.py,02,c1280a52efa2011f7e3bbd9fe530b5e2c2c7e1cf,2023
+EM-blender-tools,2023-03-06T16:39:35Z,zalmoxes-laran,Fixed importer xlsx and avoiding source nodes redundancy,03,77ead3ca140ab91e3ebed396413c37f9951d079c,2023
+EM-blender-tools,2023-05-31T07:01:52Z,zalmoxes-laran,Added support for 3D graph ver.0.1,05,2d34f6edcdd3e252700f7360174dbc7343a99b72,2023
+EM-blender-tools,2023-06-30T19:07:11Z,zalmoxes-laran,Update functions.py,06,d14e196e2230c119b8846eb5cccf0feed864d786,2023
+EM-blender-tools,2023-07-15T16:03:37Z,zalmoxes-laran,Update README.md,07,d65d4837cb674b8a578d3a4e7a4e0ec33847e838,2023
+EM-blender-tools,2023-08-02T13:46:48Z,Emanuel Demetrescu,retini,08,0fb2039d01fc7fc9b1a4f8df76f51b1d53eca3ca,2023
+EM-blender-tools,2023-11-30T15:35:06Z,Emanuel Demetrescu,Update export_manager.py,11,382a0c000d6ff48f7b41507f3ab6970372356f7c,2023
+EM-blender-tools,2023-12-13T18:37:12Z,zalmoxes-laran,"Major improvement - Dev 8 release ""Spadaro""",12,04476f1753322674245f0ca0c04346edfcaaaea0,2023
+EM-blender-tools,2024-03-25T20:29:29Z,zalmoxes-laran,refactoring of the code,03,bfe49604dcbc9c8eb23dde97b7005c347d341cc3,2024
+EM-blender-tools,2024-04-18T12:11:44Z,zalmoxes-laran,Update export_manager.py,04,fa072c1dfce3500fc2e68ba180f4be8dad2e98d9,2024
+EM-blender-tools,2024-05-26T09:07:21Z,zalmoxes-laran,Update __init__.py,05,61c125f7246932e9bcc11ed59c57e8216c3ba018,2024
+EM-blender-tools,2024-08-05T20:16:13Z,zalmoxes-laran,Update functions.py,08,4b1130d36b43e109b708356a9ba60cd3f7704b7f,2024
+EM-blender-tools,2024-10-15T15:58:51Z,zalmoxes-laran,Update README.md,10,a46c5b5c44d3e62f2169d9a58edb546063d1965e,2024
+EM-blender-tools,2024-12-09T15:26:37Z,zalmoxes-laran,Version EM tools 1.4.1,12,dc7c9756505ec151716a5b8593f1c24f9eee8c74,2024

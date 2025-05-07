@@ -1,0 +1,7 @@
+item_name,date,author,message,month,sha,year
+ZooarchMixMod,2022-06-27T19:42:46Z,Jesse Wolfhagen,create posterior_analysis script,06,c47ff268d2c8a1543fdd6e6226045b1b3a8c574c,2022
+ZooarchMixMod,2022-07-13T18:24:16Z,Jesse Wolfhagen,updating manuscript,07,cb5e2967d675830e8a77f56fa8af5235c0dba9de,2022
+ZooarchMixMod,2023-03-20T18:15:01Z,Jesse Wolfhagen,updating supplement,03,3c8ff58ea0bb3f6fcf88194c287c4d176f899667,2023
+ZooarchMixMod,2023-05-31T18:49:01Z,Jesse Wolfhagen,Update README.md,05,6889ec05d66b55cfb8e5615c6d231601fb807f96,2023
+ZooarchMixMod,2023-09-14T15:41:06Z,Jesse Wolfhagen,amending prior predictive check (Rho simulation),09,346e15f9ae0eb0f98390025189f8a6453a3f8325,2023
+ZooarchMixMod,2024-09-17T19:11:37Z,Jesse Wolfhagen,Updating Stan array syntax,09,32af2770de21b9434fec8693fcd17563332b46ef,2024

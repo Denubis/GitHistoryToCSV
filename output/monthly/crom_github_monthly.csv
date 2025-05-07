@@ -1,0 +1,43 @@
+item_name,date,author,message,month,sha,year
+crom,2016-12-21T20:43:01Z,Rob Sanderson,Merge pull request #4 from gri-is/rob,12,cfb5ee441bb7e70fc045f6a148c8964ed6638ad4,2016
+crom,2017-01-25T16:57:22Z,Rob Sanderson,Merge pull request #10 from gri-is/theft,01,7180daa1817424f4ef9cd6a6f86ad2d326279186,2017
+crom,2017-02-28T00:33:37Z,Rob Sanderson,remove unnecessary dimension test,02,b3a02245fdd291cf4fba3d3a46a499d07118eb08,2017
+crom,2017-03-19T01:43:24Z,Rob Sanderson,related in extra,03,d3daa4d1a0dabbee436d62b1daf7fd7d5fea03f9,2017
+crom,2017-04-28T16:52:01Z,Rob Sanderson,remove test debug,04,5284e475a61609aa1b569813cad5ef1d6236e19c,2017
+crom,2017-06-29T22:46:07Z,Rob Sanderson,Merge pull request #19 from gri-is/magic_list,06,68a252c40cfd907c42383431aae0c712e5f31c6d,2017
+crom,2017-07-05T22:23:53Z,Rob Sanderson,Add package data,07,a15de491986f49d69c7e695b0938ba88b5b51593,2017
+crom,2017-08-09T15:53:15Z,Rob Sanderson,Make component not a warning (rights shares),08,d83392c15d04768b19e91ae62ef1536506234a85,2017
+crom,2017-09-05T23:01:17Z,Rob Sanderson,"Fix some tests, add effective predicates, P106 to includes/included_in",09,450c2ccca59b7481a8de9910b7a0eb3fedac12c3,2017
+crom,2018-01-22T19:55:56Z,Rob Sanderson,unrecurse definitino,01,ad1634817f459462c3e51eb471b3a6825c4259c0,2018
+crom,2018-02-12T20:16:51Z,Rob Sanderson,upates,02,a8ff0c34e856d52ae6a14c1e113feb45ea184715,2018
+crom,2018-03-23T17:36:54Z,Rob Sanderson,version bump,03,d81cbceed3eff5e3fb1bd0799564f237e2807e88,2018
+crom,2018-04-13T21:08:03Z,Rob Sanderson,"Nationality, Gender --> Aggregations",04,d5beaa76e2b2b019269aae80abd42ef8d7b06f58,2018
+crom,2018-06-22T23:41:54Z,Rob Sanderson,move technique in data/ contexts,06,3d415199b62a8df59e81b11a0f99ad05eda5cc3e,2018
+crom,2018-07-31T22:17:40Z,Rob Sanderson,remove errant _,07,4bdcfd1c76133a1b32003e3a6da3a3a929edb9d2,2018
+crom,2018-08-31T23:30:34Z,Rob Sanderson,more tweaks to context files,08,2ddb84bd9bd640adc7c9f8b0d25d1b8d732678a5,2018
+crom,2018-09-28T22:57:40Z,Rob Sanderson,"Update docs, bump version",09,b3f83b1b91d08039febdb168930c98fe03ce7d84,2018
+crom,2018-10-03T20:12:49Z,Rob Sanderson,Allow unordered representation,10,728e8b65ddd64b34e1d4a9045d011af0fb8f632d,2018
+crom,2018-12-21T20:04:29Z,Rob Sanderson,"python3, PIR updates",12,b8902cfb93f44bbf2a37645726b083184acbc5f8,2018
+crom,2019-01-26T00:33:12Z,Rob Sanderson,Add ownership phase,01,fc4fca931f2c386b0429706f2faf0210bde3093d,2019
+crom,2019-02-25T21:55:21Z,Rob Sanderson,update vocab,02,e153c83a0ef831a995efdd85861258f488b99382,2019
+crom,2019-03-29T23:33:47Z,Rob Sanderson,"fix key order, fix tests, add _label",03,c655c88bc8ebd0df2a1367889a878caa27f62f32,2019
+crom,2019-04-26T21:19:15Z,Rob Sanderson,Merge pull request #41 from thegetty/new_vocab,04,c84191621d4b6bd83320075e01eac6dd327714d4,2019
+crom,2019-05-16T21:08:02Z,Rob Sanderson,Merge pull request #50 from thegetty/explicit_bnode,05,8b9cd9ab208c9a80a2a8dada4dc6afba7440fe38,2019
+crom,2019-06-26T23:32:09Z,Rob Sanderson,Merge pull request #60 from thegetty/new_vocab,06,5af7f6011005186070186dc2fc310cb1d379fd1a,2019
+crom,2019-07-30T23:23:58Z,Rob Sanderson,Version bump,07,f48f2e7125d03e412d59797612a55f0bfed6316a,2019
+crom,2019-08-29T16:13:41Z,Rob Sanderson,version bump 2,08,2fb4971f05aa2faa66c786ef185e2c5762151b92,2019
+crom,2019-09-30T22:38:30Z,Gregory Williams,Improve cromulent.extract.normalize_dimension to handle values with only partial units (#87).,09,109538b924b92d7cc26e8f29a1b7b1e9703ebcec,2019
+crom,2019-10-25T21:46:25Z,Gregory Todd Williams,Merge pull request #99 from thegetty/monetary_amount,10,4c9a82671ad7c944538f8991aa61c3f333b5501e,2019
+crom,2019-11-28T00:37:49Z,Gregory Williams,More Group classes to allow modeling of sales attribution modifiers.,11,31aa977098cce6fc47e22aa735bb8460f4e60401,2019
+crom,2019-12-20T19:15:15Z,Gregory Todd Williams,Merge pull request #120 from thegetty/new-vocab,12,99b0ce43cbeaa8fffe46d6bb59f4cdc306dd2083,2019
+crom,2020-01-30T19:13:26Z,Gregory Williams,Improve price extraction:,01,9cfbd629dac15b53cf717ab1d4b65af7609a49e6,2020
+crom,2020-02-27T19:31:38Z,Rob Sanderson,Merge pull request #142 from thegetty/french-roles,02,b70954bd29ff049b225a4406f95d6275a59519c9,2020
+crom,2020-03-27T20:11:00Z,Rob Sanderson,Merge pull request #155 from thegetty/folios,03,4c59548716c1cdcbebaa1001b9f43fda69342ef9,2020
+crom,2020-04-29T21:58:17Z,Gregory Todd Williams,Merge pull request #170 from thegetty/identifiers,04,ad61a97b00139337fbbd406fa593f237201efd70,2020
+crom,2020-05-21T18:23:07Z,Rob Sanderson,Merge pull request #174 from thegetty/inventorying,05,2e1e6591770f9000c2e64238cb1281ca216db0f5,2020
+crom,2020-07-31T22:29:34Z,Gregory Williams,Improve extraction of monetary amount source data.,07,73c98813a978ff2769dea6a95aded2fd2e68299a,2020
+crom,2020-09-08T17:45:33Z,azaroth42,-debug,09,ecdb2e173c4ac32545fdc5d902b932dcf331377b,2020
+crom,2020-10-05T13:35:00Z,azaroth42,"New vocab, copy date_cleaners from pipeline",10,d55e207eb1395eada52878d3f1a3bd763ff20e54,2020
+crom,2020-11-03T19:05:52Z,Daniel Sissman,Merge pull request #179 from thegetty/update_crom_and_maintain_compatibility_for_production_DEV-6985,11,6abddef0299b82fb2d3e23964f10ae67470d556a,2020
+crom,2021-10-14T17:49:21Z,Daniel Sissman,Merge pull request #180 from thegetty/add_support_to_linked_art_context_for_attribute_assignment_multiplicity_DEV-10291,10,90ff2394f69102d9b44a2264e708c3d79b524557,2021
+crom,2022-04-19T20:31:50Z,Daniel Sissman,Merge pull request #182 from thegetty/merge_latest_upstream_commits_DEV-11971,04,29885dd41ef29db3d294ea8130f74c1e8e852027,2022

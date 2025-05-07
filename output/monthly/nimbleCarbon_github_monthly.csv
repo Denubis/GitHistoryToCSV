@@ -1,0 +1,17 @@
+item_name,date,author,message,month,sha,year
+nimbleCarbon,2020-12-30T17:41:42Z,Enrico R. Crema,Added vignette with first example initial draft,12,bfdd026aeca14050303cf72267fd976a59775e57,2020
+nimbleCarbon,2021-01-21T08:58:29Z,Enrico R. Crema,Revised installation instruction,01,c5234b2aa0345f7d16f71fe5fcacf26fa117372a,2021
+nimbleCarbon,2021-02-15T18:48:11Z,Enrico R. Crema,Updated vignette,02,d87911fc94857ec9c3f954fa0b89580fd17e2f3a,2021
+nimbleCarbon,2021-03-25T17:11:34Z,Enrico R. Crema,New arguments (add and col) for modelPlot(),03,6510b6843a55a288a8ce62113db5c2873b400086,2021
+nimbleCarbon,2021-04-26T09:53:34Z,Enrico R. Crema,Updated vignette,04,de5db36ab81e6f2040fa5ee01a7f46e48c0e5d77,2021
+nimbleCarbon,2021-05-26T19:44:53Z,Enrico R. Crema,Update NEWS.md,05,28861920e5b4742190b1116380571b5a704aa26a,2021
+nimbleCarbon,2021-06-17T15:27:15Z,Enrico R. Crema,Update README.md,06,693d3d2f582b1253e3a1d38a040ffdca552783c9,2021
+nimbleCarbon,2021-07-13T15:37:08Z,Enrico Crema,Updated GitIgnore Files,07,a15f02ce0b655c354269b0fa384e77595fa447df,2021
+nimbleCarbon,2021-10-24T10:17:05Z,Enrico R. Crema,Merge remote-tracking branch 'origin/main' into main,10,c134044d4c4ceeeb09c28ea1d13d3803393bc8a7,2021
+nimbleCarbon,2021-11-19T17:32:43Z,Enrico R. Crema,Updated compare.models,11,003c551a90a850855a19233db2b671abfcd06172,2021
+nimbleCarbon,2022-05-09T10:09:41Z,Enrico R. Crema,Fixed cranlog download badge for CRAN submission,05,bf6b1a9e6e1366df1c06256842414befb105d455,2022
+nimbleCarbon,2022-07-27T16:28:00Z,Enrico R. Crema,Updated lot functions to allow for custom x and y labels,07,1b2040df535b6ed2146e76536e6806b118016d68,2022
+nimbleCarbon,2023-05-06T13:33:15Z,Enrico R. Crema,Fixed error in modelPlot,05,465ddeb3e3ba900738d77b1acf705a0005490e24,2023
+nimbleCarbon,2023-08-24T07:55:08Z,Enrico Crema,Updated relevant doc files,08,0d5161cea039ef38a565d05155e75722adcf8565,2023
+nimbleCarbon,2024-06-17T14:22:34Z,Enrico R. Crema,Update README.md,06,30d392cb35a996cc33a2d6c2cd60795282fe06ff,2024
+nimbleCarbon,2024-09-07T07:26:23Z,Enrico R. Crema,Update README.md,09,c6f2b229493054f85060e4b0af5a4b7f4ba085f4,2024

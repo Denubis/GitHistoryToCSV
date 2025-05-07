@@ -1,0 +1,21 @@
+item_name,date,author,message,month,sha,year
+Pofatu,2017-11-29T14:22:31Z,Robert Forkel,Initial commit,11,a7fb4460cb0de79adbf53e252a7dadec681eeae7,2017
+Pofatu,2018-08-15T15:37:47Z,Tupuni,"Pofatu and Earthchem templates,and correspondances",08,cb5692108fca031913ed39bf203c670f6cf9e276,2018
+Pofatu,2018-09-28T08:21:53Z,Tupuni,Add files via upload,09,6a0a41aa7b069a01f580f50a03d64b5ca5623ff3,2018
+Pofatu,2018-10-31T09:18:54Z,Tupuni,Add files via upload,10,13c724bf62f66ffc1d80f9456ef85aaa781e720e,2018
+Pofatu,2018-11-21T22:30:22Z,Tupuni,Add files via upload,11,e394f051f9a0a7b7f20942886f57b3c95e7a6e11,2018
+Pofatu,2019-02-10T10:23:49Z,Tupuni,Add files via upload,02,6899fc31dc1b734fd213999698fb5f2a0eeb267d,2019
+Pofatu,2019-03-22T11:05:54Z,Tupuni,Update Pofatu Dataset.xlsx,03,c0417dc70c6a0d96677871ced0ce0917c2dd628b,2019
+Pofatu,2019-06-05T22:25:25Z,Tupuni,Add files via upload,06,dffe2b744f4f9c4d8cccc2c9e84e4b886ccfb8ff,2019
+Pofatu,2019-07-02T13:16:28Z,xrotwang,updated dumped data; added refs,07,67a7a513b7d4b418d8673fe0ebde589d91663fb6,2019
+Pofatu,2019-12-19T17:26:38Z,Tupuni,Delete Pofatu-update121219.xlsx,12,e1bb7457e74c3ff9b45de9645f26e0ca788122cf,2019
+Pofatu,2020-01-31T11:26:47Z,xrotwang,data rearranged,01,0fd08ce0b55a5125c0019ea353ed0745f12df0af,2020
+Pofatu,2020-02-17T12:05:48Z,xrotwang,release 1.0.0,02,13b02f07af05caf041e3e13dad07b44bb8573178,2020
+Pofatu,2020-08-19T16:22:36Z,xrotwang,created csv and dist,08,ddc77c90249e3483e98db756c79eea076c0d6def,2020
+Pofatu,2020-09-25T11:54:04Z,Tupuni,moved log,09,35067b881b2f7bafb3c971b04143814b442052e9,2020
+Pofatu,2020-10-26T13:16:29Z,xrotwang,fixed coordinates,10,888f82f7a7b3c9f77064734f917ea2467351398a,2020
+Pofatu,2020-11-28T22:53:32Z,Tupuni,deleted pofatu-sqlite (no content),11,ef71209d7d1f55e932d43e4d76ff89540fe065fe,2020
+Pofatu,2021-03-10T12:44:09Z,Robert Forkel,Update README.md,03,37a418368333b56908a4aecf1a61bb99a1fefbde,2021
+Pofatu,2021-04-29T08:26:12Z,Robert Forkel,Update README.md,04,4d5a0b6195bc17efa77015485f7e3d30019e61aa,2021
+Pofatu,2021-05-11T17:19:00Z,Aymeric HERMANN,updated submission template files,05,2528ba6a541023fdef67b7c0ca04f955f3f904ce,2021
+Pofatu,2023-11-09T14:36:44Z,Robert Forkel,Merge branch 'master' of https://github.com/pofatu/pofatu-data,11,9dc1929eff15a52d9b9df8cedb6a9d6ace939fe3,2023

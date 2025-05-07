@@ -1,0 +1,17 @@
+item_name,date,author,message,month,sha,year
+UThwigl,2018-03-25T12:24:02Z,Anthony Dosseto,Add files via upload,03,d9b6d601bf7d28c63542eee4d5eb680cdc05ac82,2018
+UThwigl,2018-12-31T21:49:27Z,Anthony Dosseto,Merge pull request #5 from benmarwick/master,12,d39e382e68a2bf0d12c28aee14eb05b83dbe0908,2018
+UThwigl,2019-01-28T04:52:01Z,Ben Marwick,make the functions write plots to the hard drive :O,01,8ab6993254f57dd13bb38b75336b9191f825278a,2019
+UThwigl,2019-02-18T11:36:08Z,Anthony Dosseto,app had csUTh instead of osUTh,02,cb1392a59b1554cd2772ba249d48528616cd50e4,2019
+UThwigl,2019-05-01T19:19:09Z,Ben Marwick,csUTh and osUTh both save output data to the user's computer and pass tests,05,8b195eb7f6d358bf577898e634af837fc9e6b199,2019
+UThwigl,2019-06-15T06:21:39Z,Anthony Dosseto,instructions app,06,a9e8f38c766b833d5a903f8414d664aad16b4c77,2019
+UThwigl,2020-06-21T09:51:19Z,Ben Marwick,copy-paste data input works,06,30f41e01c5a492a013413e4708aee6061ef7f473,2020
+UThwigl,2020-10-29T21:04:07Z,Anthony Dosseto,Merge pull request #16 from benmarwick/master,10,14a770def71f7d4e33471575355454eb6f01dd10,2020
+UThwigl,2021-03-22T06:14:10Z,Anthony Dosseto,update vignette,03,78f4373daea20a5531332349615e22c089378f89,2021
+UThwigl,2021-04-14T08:47:00Z,Anthony Dosseto,revised vignette,04,703d184ba5ad85ab3c3f2acd27b6cf1f75402a21,2021
+UThwigl,2021-05-12T23:21:38Z,Ben Marwick,Merge pull request #19 from benmarwick/master,05,f9d3648b992c68497e76ba07475c81353d0874f4,2021
+UThwigl,2021-07-30T00:31:09Z,Ben Marwick,minor edits to text after 2nd round of reviews,07,f5f2d01de7ad0e052d6990f7d53db34cb8af475d,2021
+UThwigl,2021-08-23T12:53:18Z,Anthony Dosseto,update app,08,eaa52cb86e342dd276c1fdc87dc43c9bc4f7be04,2021
+UThwigl,2021-09-30T22:41:36Z,Anthony Dosseto,re-build docs,09,655008a59b2984dde7b90e3499986be851f5dd4e,2021
+UThwigl,2021-11-01T21:52:56Z,Anthony Dosseto,updated citation,11,6c9c1ba4fabc926e802c8d2be65839e829989496,2021
+UThwigl,2022-11-02T20:53:39Z,Ben Marwick,fixes #22,11,2006fb2bdc99919a8724e548c13442397ea3fe0f,2022

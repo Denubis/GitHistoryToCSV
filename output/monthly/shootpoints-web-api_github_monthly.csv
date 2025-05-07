@@ -1,0 +1,22 @@
+item_name,date,author,message,month,sha,year
+shootpoints-web-api,2022-05-10T02:53:32Z,Paul Zimmerman,Change name of geometry DB table to geometries and improve data download robustness.,05,1be0f737217972614147d975d31a41da5933f4be,2022
+shootpoints-web-api,2022-09-11T03:22:41Z,Paul C. Zimmerman,First stab at improving handling of hardware clock discrepancies.,09,ba41971efd3ad76212b24bf8cd9daf7c7ad70cf8,2022
+shootpoints-web-api,2022-10-28T14:30:19Z,Paul Zimmerman,Minor feedback improvements.,10,382d5f220a43e48c3af4dbb19e225389bd7920fb,2022
+shootpoints-web-api,2022-11-03T03:49:08Z,Paul Zimmerman,Tweak README formatting.,11,f784d8c6c01b6fec715110fce6f3161e9935d72b,2022
+shootpoints-web-api,2022-12-26T18:37:43Z,Paul C. Zimmerman,Revert field name to descr,12,4d7cfef88ca0f76cf8a0e263b4f56ca6d303e5bd,2022
+shootpoints-web-api,2023-01-29T17:37:46Z,Paul C. Zimmerman,Reformat default azimuth string.,01,49ab771bf0b392e8db9cbb92aee6720c2503424b,2023
+shootpoints-web-api,2023-02-06T15:00:37Z,Paul C. Zimmerman,Add RealityCapture GCP exporter. Closes #16.,02,18e6814e26b1c63f18af0b54fb64d302b76497cc,2023
+shootpoints-web-api,2023-03-27T07:01:35Z,Paul Zimmerman,Minor code cleanup.,03,4fe1344de7d569b8ffbb5dd85543542cc19a6b57,2023
+shootpoints-web-api,2023-04-28T12:37:07Z,Paul Zimmerman,Change name of _save_new_station() function.,04,a837fc3a6507b13c004fdfcc3a93316f73f3b9c2,2023
+shootpoints-web-api,2023-10-22T12:39:40Z,Paul C. Zimmerman,Fix updating of RPi clock,10,728a01394a70d02dfd7b8bb395f2c3c397ed9793,2023
+shootpoints-web-api,2024-02-24T12:21:08Z,Paul C. Zimmerman,Handle omission of prj files for sessions that are done on local (site) coordinates instead of UTM,02,7b2412128051624976ebbbf4ffdcd31080774822,2024
+shootpoints-web-api,2024-04-28T20:14:19Z,Paul Zimmerman,"Remove ability to auto-select the serial port, since it adds confusion for minimal gain.",04,f3cfbbf3fb8c724ea8e735779affb7a0c33095bd,2024
+shootpoints-web-api,2024-05-25T22:14:57Z,Paul Zimmerman,Improve session exports with spatial control information,05,337d997c95ac66cdd75e40aa0af7b5727eadfffb,2024
+shootpoints-web-api,2024-06-12T20:48:08Z,Paul Zimmerman,Update path to frontend,06,31995c9acf04c7fb2d8321fcbc853b1c5c9cef30,2024
+shootpoints-web-api,2024-07-24T20:45:09Z,Paul C. Zimmerman,End active group when ending the current session.,07,1676bc95bf0c8854a396f73d3e5ae638421c366d,2024
+shootpoints-web-api,2024-08-29T02:00:08Z,Paul C. Zimmerman,Apply atmospheric corrections in totalstation module instead of survey,08,08358124263cb2df3106400bd53c97b00b06d807,2024
+shootpoints-web-api,2024-09-01T16:02:06Z,Paul Zimmerman,Have the surveyor explicitly name the new station when starting a session by resection,09,dc1a1683c2d113ba97768fc53d1e973d7fee7146,2024
+shootpoints-web-api,2024-10-23T15:56:05Z,Paul Zimmerman,Improve handling of 60 second edge case,10,1ded24f57abd77c21fe23c744c189dfa8a5ebec7,2024
+shootpoints-web-api,2024-11-19T22:26:23Z,Paul Zimmerman,Drop lower air pressure limit to 480mmHG to accommodate high altitudes,11,9a2c5844118377f0a4293821ff4ed10b2faa70dd,2024
+shootpoints-web-api,2024-12-18T21:33:45Z,Paul C. Zimmerman,Updated filenames and paths to work on Windows. Closes #35.,12,5d3f5615db34c3c9f63ff695a947e7589526deab,2024
+shootpoints-web-api,2025-03-26T14:48:50Z,Paul C. Zimmerman,Improved handling of database upgrade.,03,2882c5112e48860ef5508b7b0ea7b453493d17c1,2025

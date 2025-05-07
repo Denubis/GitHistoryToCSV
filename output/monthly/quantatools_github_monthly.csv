@@ -1,0 +1,4 @@
+item_name,date,author,message,month,sha,year
+quantatools,2018-07-09T20:04:53Z,Maciej Kasinski,refer to constants loaded on start,07,1768e0d6c3389ae3a10516a55986ad9f8332220f,2018
+quantatools,2018-09-23T21:25:23Z,Maciej Kasinski,add simple boostrap sample,09,2e308bc974b8b137f337be9ad4feade3b52a17a5,2018
+quantatools,2019-02-17T19:39:56Z,Maciej Kasinski,Merge branch 'master' of https://github.com/maciejkasinski/quantatools,02,330a1d0f90016df442e72a621a6651eca1d23d8e,2019

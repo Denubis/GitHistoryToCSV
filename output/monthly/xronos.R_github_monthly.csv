@@ -1,0 +1,10 @@
+item_name,date,author,message,month,sha,year
+xronos.R,2019-09-12T14:39:53Z,Clemens Schmid,missing namespace indication,09,30454443c983fccef7e68e27db879be3bbb76d82,2019
+xronos.R,2021-07-21T08:52:50Z,Joe Roe,Add usage section to README,07,ba37b537aeea19b8de375a9ce0cb285bcb23aefc,2021
+xronos.R,2021-08-16T10:53:23Z,Joe Roe,Add DOI badge and upgrade project status to active,08,63bdee489f93df637670ee609ffb3e0b50008317,2021
+xronos.R,2022-01-20T13:04:11Z,Joe Roe,Vectorise logo text,01,65a01d199b57f13fbf05f6a131966ecb997c0254,2022
+xronos.R,2022-10-20T14:33:52Z,Joe Roe,Fix logo placement,10,08172bfcfbc8bd9313837a3909305a0fdaf86d05,2022
+xronos.R,2022-12-21T12:57:33Z,Joe Roe,Increment version number to 0.1.1.9000,12,ea62919054be8560888589a6b06058967f73552b,2022
+xronos.R,2024-05-29T09:57:34Z,Martin Hinz,changed some functions to speed up parsing,05,6a17a667771f6bb7ab1db4638f19fb76e6e42e63,2024
+xronos.R,2024-06-10T13:12:51Z,Martin Hinz,"removed progress bar and hard coded list of attributes, solves #8",06,50f2c9eafb5b905aabbc8b54f42b1d850b938084,2024
+xronos.R,2025-02-06T11:08:24Z,Joe Roe,Update workflows,02,9ab4c6841e1aa2fe02f847a2d09f5ff2da90472a,2025

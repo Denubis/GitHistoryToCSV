@@ -1,0 +1,119 @@
+item_name,date,author,message,month,sha,year
+heurist,2015-08-31T07:06:12Z,Artem Osmakov,"cosmetics in search, notification and bulk email",08,89bc98e9cf3cd45b14286c08f8b0325fe9f16926,2015
+heurist,2015-09-30T18:38:52Z,Artem Osmakov,load map data on demand,09,16196d9275c4df17f1c8075285d2ea96bd4b03c8,2015
+heurist,2015-10-31T13:29:52Z,Artem Osmakov,timeline zoom and style,10,cfb6a1adb0fbce8baac100caab7ae506deb5bbc0,2015
+heurist,2015-11-30T14:04:00Z,Ian Johnson,"Layout of terms selection, minor menu updates",11,0b64197c2f6495386247a1933427080eef16a37b,2015
+heurist,2015-12-30T14:51:59Z,Ian Johnson,Minor cosmetics initialise.php and editRecStructure.js,12,2c58f015d6df99d3c483d26b0d9bc9822bf09de2,2015
+heurist,2016-01-31T18:59:52Z,Artem Osmakov,entity mgr for sys users and groups,01,e46e9ccd4a2d59dd982ee22e74d53cc394d776ec,2016
+heurist,2016-02-29T11:11:29Z,ijohnson222,The other memory refresh message ...,02,b3bab39aad5e86ddc5c7e71ff50b9e6bd748b2de,2016
+heurist,2016-03-31T08:58:10Z,Artem Osmakov,Remark time param for menu load (enable cache),03,503191e9284d640becb93a33d157c09af0d0d085,2016
+heurist,2016-04-27T16:39:10Z,Artem Osmakov,editRecordType icon for duplication,04,0a4b6617752473cc44f9b97188b5a81a42ad9711,2016
+heurist,2016-05-31T17:35:41Z,Artem Osmakov,Can not to cannot,05,6a8636a23a09cc949ddfdf6d2278bd5cb6ccfa56,2016
+heurist,2016-06-30T16:53:26Z,Artem Osmakov,result list: show owner,06,7395ae535853fc2f6401cba976f7cf31784beaaa,2016
+heurist,2016-07-31T19:47:43Z,Artem Osmakov,import CSV: change logic to resource fields,07,9e7e6bc469adfeec461b81989dd38cbf585e79be,2016
+heurist,2016-08-31T16:00:08Z,Artem Osmakov,selector for recently logged databases,08,60e28633017710c2a9dc711ced73a0f617ea886f,2016
+heurist,2016-09-30T17:38:44Z,Artem Osmakov,map legend position,09,4808258e39ee9025a295c8f13329d7288872551c,2016
+heurist,2016-10-31T22:57:29Z,ijohnson222,Distribution 4.2.13.beta,10,21e3fd8c4507c7673cc5d6b74c65a2a96077dce9,2016
+heurist,2016-11-30T18:24:02Z,Artem Osmakov,"map record popup: non-modal, render cosmetics",11,9a19359f360551e4a84356295a422a8d85d5c8c5,2016
+heurist,2016-12-31T19:00:17Z,Artem Osmakov,recsearch - request for count of records,12,2cd2c58c2d9d5c9e95fe92a05493944127287fc4,2016
+heurist,2017-01-31T15:23:47Z,Artem Osmakov,visualization: various cosmetics,01,1e423470b93760aa2af4f9044a5d216150197e89,2017
+heurist,2017-02-28T06:39:13Z,ijohnson222,"Delete old editPreferences function, relaced by widgets\rpfile\profile_preferences in h4",02,cfd49d7c26e1d3cdbe6f97823c9658aa179e5029,2017
+heurist,2017-03-31T05:29:53Z,ijohnson222,Differentiate and imporve three places where read of definitions gives corrupted db message,03,e3a15a83aba5feb7cc1205df19ee53fefef17f25,2017
+heurist,2017-04-26T17:18:10Z,Artem Osmakov,upload csv fix php file upload size validation,04,23c3e85906cdffce8c1442765e37118a10f12b45,2017
+heurist,2017-05-27T11:52:45Z,Artem Osmakov,"prevent unregister file, with more than one reference",05,cccd90750e97af318927cb27a60b29656bcfab4c,2017
+heurist,2017-06-30T13:56:10Z,Artem Osmakov,"cosmetics: tab width, save filter btn",06,77e06e10c3eed25f90aa673b1011cb89fc7c30bc,2017
+heurist,2017-07-31T17:13:02Z,Artem Osmakov,Entity: Record edit,07,cbdd7d235b8156f20235709c5a3fed934114241a,2017
+heurist,2017-08-28T10:35:04Z,Artem Osmakov,"edit record position, popup as new widget",08,3585086980a75ba0b785185b4c4c96d3b2b4684f,2017
+heurist,2017-09-29T12:24:02Z,Artem Osmakov,add record on filter tab,09,1120c8edb897c840bdf871f26fcc7670602e75ae,2017
+heurist,2017-10-31T08:58:46Z,Artem Osmakov,edit record reorganize summary tab,10,405ee7df3d06404682249143e09ee32217a174ec,2017
+heurist,2017-11-30T18:07:52Z,Artem Osmakov,parent entity selector workflow and cosmetics,11,ead3574f72ef5ed2d27d2a2cb93a1a631a06908c,2017
+heurist,2017-12-31T13:47:41Z,Artem Osmakov,select link type - context help popup position,12,9bc177fcf92bb8f283046c504547cb4090742213,2017
+heurist,2018-01-31T12:39:43Z,Artem Osmakov,edit fields warn for term,01,b40b9e31c75023ba238e29466958e6a6d7ba801d,2018
+heurist,2018-02-28T14:21:00Z,Artem Osmakov,import csv - add terms for all fields,02,470c5feef9a967ccd92cf3741b5dd8c6f3af6384,2018
+heurist,2018-03-30T15:28:18Z,Artem Osmakov,tests for rt treee lazy load and kml parser,03,34783ce2387dddf8da6919af4ccca7269b6653b2,2018
+heurist,2018-04-27T12:39:30Z,Artem Osmakov,set cookie secure to true for https connections,04,00c06a7ecc7202760ea88b90507f2723dd62e9a0,2018
+heurist,2018-05-31T14:02:45Z,Artem Osmakov,"mamage recctypes, field types",05,96ef6322a8a1bb317a658d94545e93a8123e3088,2018
+heurist,2018-06-30T08:58:04Z,Artem Osmakov,"mapping preferences, popup",06,33c7edf2c9d9ddc8b2b8126a8575564d7cde549b,2018
+heurist,2018-07-31T14:30:44Z,Artem Osmakov,search: ignore apostrophe,07,8aeac116864be2ec398211a6917d01354cf14d25,2018
+heurist,2018-08-29T07:23:06Z,Artem Osmakov,save saved searches tree - use latest user groups,08,36f766a538602de62619669b2f1eb552f4b8aa36,2018
+heurist,2018-09-29T15:29:37Z,Artem Osmakov,Verification - parent child pointer fields,09,1b1f80ac463d4f962b16a75ecff65ae10f8c1147,2018
+heurist,2018-10-31T17:34:11Z,Artem Osmakov,heurist logo icons,10,19e5a8beb7023f4bb5990d8c49d1ff76e3f6c204,2018
+heurist,2018-11-29T14:03:29Z,Artem Osmakov,fix various minor misprints,11,f4910008c93ab6bd7df239476f788dce952b09ed,2018
+heurist,2018-12-31T16:21:16Z,Artem Osmakov,position of selecmenu if out of extent,12,7e1463a37a0a56e9e8b635f9d0323a0375669168,2018
+heurist,2019-01-31T14:56:36Z,Artem Osmakov,export csv: relationtype labels and codes,01,74d39c64886f11df46bf9118009997df2ee6cea3,2019
+heurist,2019-02-28T18:45:32Z,Artem Osmakov,code clear - remove old and redundant code,02,6925f76d3e2066e5a9be11056310d00a664c3386,2019
+heurist,2019-03-31T18:11:23Z,Artem Osmakov,interdabase records import,03,dbde1ef941ef5166991fc85e978502974826e830,2019
+heurist,2019-04-29T16:37:08Z,Artem Osmakov,marker colors,04,8bcda63f1b862e1a576c88b3b13af20328343d42,2019
+heurist,2019-05-31T17:26:20Z,Artem Osmakov,smarty output geojson for geo fields,05,c3afc61be4c677a6e828de3af05207ce5cdb2f3b,2019
+heurist,2019-06-29T11:07:56Z,Artem Osmakov,search - autofill quick search selector for rt search,06,7500eb77bc60d9f8df3c0552ecf0e9047dc720e6,2019
+heurist,2019-07-31T16:36:57Z,Artem Osmakov,font size corrections,07,b0163ae652e39b2bc4a31efb27a90272b579f606,2019
+heurist,2019-08-30T09:44:48Z,Artem Osmakov,mapping: select all overlapped polygones,08,b1cc5ea17e97d51c803664c8711de9d08e363b1d,2019
+heurist,2019-09-27T08:32:43Z,Artem Osmakov,import csv: prevent duplications,09,7d98d49eac7b39eea408a3f7eca9c28ece24b180,2019
+heurist,2019-10-31T15:46:44Z,Artem Osmakov,"Heurist Theme Editor, Organize colors",10,c8ef60da79b282375a504c8e24efe58b428d5a29,2019
+heurist,2019-11-28T15:21:22Z,Artem Osmakov,editform: workaround for missed linked records,11,53e6dcbb25d272b601eef69c4435e894d6651692,2019
+heurist,2019-12-31T13:51:32Z,Artem Osmakov,collection widget,12,9460e8fdddcc833b6c80673c5ac3dd24e836a63d,2019
+heurist,2020-01-31T10:03:58Z,Artem Osmakov,Edit rt defs: fix bugs on new field addition,01,dc9b21f1c22a38a14553d8d75302e27ce8308784,2020
+heurist,2020-02-29T07:16:52Z,Artem Osmakov,Fix bug for saved filters order in publish ui,02,dd02a28eb7ea70b0a1817989d98a81dc2b9aa71c,2020
+heurist,2020-03-31T21:16:22Z,ianjohnson,Version 5.2.3 distribution,03,ad31eebb7d7e667c3decc44fc372d084b6a9d42a,2020
+heurist,2020-04-29T07:29:32Z,Artem Osmakov,import csv: uncheck already uploaded fields,04,517d2a188b0007bc8b6ad91bfbc86a28592eed1d,2020
+heurist,2020-05-31T21:32:14Z,ianjohnson,Merge branch 'dev' of https://github.com/HeuristNetwork/heurist into dev,05,6279f18ffc61445acc07d1e57b1b5da0ca29ac1f,2020
+heurist,2020-06-29T10:08:36Z,Artem Osmakov,cms: fix page target,06,d762256cd8dc372b6282456cb8a59921b3e55769,2020
+heurist,2020-07-30T15:55:07Z,Artem Osmakov,"H6 highlight in section menu, subheader in filter list",07,4ba1ad3ca4d2e3dd05dbb8ad4782115c89914687,2020
+heurist,2020-08-31T18:10:48Z,Artem Osmakov,H6 rectypes,08,bdb132391d4cac12b8c58cb66a6eb4c0f72a5a64,2020
+heurist,2020-09-30T14:48:16Z,Artem Osmakov,H6  move searches to main menu,09,5e50189f284d94b8b0358d2be31efefcb2b7a1a5,2020
+heurist,2020-10-30T13:29:40Z,Artem Osmakov,h6 main menu behaviour,10,69d6a935535956c8b35562a6a72292f1301b5009,2020
+heurist,2020-11-29T15:57:33Z,Artem Osmakov,"Terms delete  - verification, delete entire vocabulary",11,71404f54ae612cbb66fb5d4d99ff780e4a6eef3e,2020
+heurist,2020-12-31T21:43:07Z,ianjohnson,Typos in Design menu introductory help,12,924a8b780806cbd67af9faef2addf2cc292ad95f,2020
+heurist,2021-01-31T15:44:07Z,Artem Osmakov,Base field: fix type selection and modify vocab selection,01,31ea1fcea8c2786e86c89af7b663db30e5b6a118,2021
+heurist,2021-02-27T10:04:40Z,Artem Osmakov,cloneDB minor cosmetics,02,bd15ab338d3ffc00c765564677442511ccfb7500,2021
+heurist,2021-03-31T17:14:14Z,Artem Osmakov,Fix size for inline recinfo in recore list,03,d3de0a03284323bb438d07c77c5ce42b6ee3abc9,2021
+heurist,2021-04-30T15:36:21Z,Artem Osmakov,Fix import dates fromm zotero,04,24b8548d3630744839b1d3a5b673a55df74ce922,2021
+heurist,2021-05-31T16:29:05Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,05,79dc1c1d81cb766b4801f743057458c37a44722e,2021
+heurist,2021-06-29T06:21:48Z,Artem Osmakov,Edit record title mask - add revert link for parent,06,a3ff41e6b379e86804c07bc91680a0dc954a9089,2021
+heurist,2021-07-28T12:35:38Z,Artem Osmakov,checkPresenceOfRectype and download if missed,07,bc1e7606a44a7e71edfc8f57ddd0cb41bd808e8b,2021
+heurist,2021-08-31T12:31:39Z,Artem Osmakov,Verification terms: avoid exit for recursion or duplication terms,08,8527a9cfc2dff8f559af42866e406f80a6e9397a,2021
+heurist,2021-09-30T05:14:02Z,bmckay13,Remove debugging in recordLookupCfg.js,09,0a01549508677f4d1c68da100ad22197b7f922cf,2021
+heurist,2021-10-30T15:29:48Z,Artem Osmakov,Edit CMS cosmetics,10,f4c783a2df702db1ac07b1c94333092169437045,2021
+heurist,2021-11-30T13:33:39Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,11,7248e029184acdfc18dd46b87083b247d0044f1d,2021
+heurist,2021-12-31T09:13:42Z,ianjohnson,Better message for temporary warnign on faulty network graph,12,b4a3c1a774cafa45137b3d4db9e21553ac008868,2021
+heurist,2022-01-31T05:57:10Z,Michael Falk,german localization started,01,f3e0b2e4aec3b5b19aee9886a88772b9df075749,2022
+heurist,2022-02-28T16:54:39Z,Artem Osmakov,Validation - ignore workflow stage field,02,1043bc2939adb8c95d07302d5eb6d3f6a0f019b9,2022
+heurist,2022-03-31T06:24:55Z,ianjohnson,Add rollovers on map toolbar buttons,03,63f47b9e9fa4c61d004e18741373e5324ed8a56f,2022
+heurist,2022-04-30T11:21:22Z,Artem Osmakov,Disable heurist user log activity,04,1184defd277214c7e94d27dc2cd95bfb6f9577b6,2022
+heurist,2022-05-31T11:19:04Z,Artem Osmakov,Calculated fields 2,05,0ebb8900b949ac43a2686a2dfba9e8475143c30d,2022
+heurist,2022-06-30T01:18:52Z,Michael Falk,Merge pull request #135 from michaelgfalk/h6dev,06,963b7239bed87abeac9f70628d11cbc2fb9ac1ba,2022
+heurist,2022-07-31T08:57:21Z,Artem Osmakov,Remove old code for CMS blog,07,c2d7769488df87e99921d529aff09c47d154bbbc,2022
+heurist,2022-08-30T12:51:42Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,08,7da3262ad0c70d786b00df19e133015d49b030ea,2022
+heurist,2022-09-30T14:47:58Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,09,1565e58e794a52c402cd4873924a26c0f88dfbd8,2022
+heurist,2022-10-31T17:54:01Z,ianjohnson,Change name of thumbnail field + a typo,10,0baa20c335edab4dd01a7a155d5d0e68f84f5387,2022
+heurist,2022-11-30T11:59:00Z,Brandon,Block modification of DB owner account,11,e33ac55deddcf6563ed98787fc5330a1d60257af,2022
+heurist,2022-12-30T17:11:39Z,Artem Osmakov,Fix thumbnails section in record view,12,7edacfa2e9eaa5af66eb982c42702887a9f6a6b3,2022
+heurist,2023-01-31T12:43:59Z,Brandon,Fix dates searching,01,b782fd4fbe5db7dc6df13ee7d6e2576e0814db0b,2023
+heurist,2023-02-28T15:37:53Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,02,482a6c24c1b0d8984a0736316d9ce431adbb69b9,2023
+heurist,2023-03-30T15:06:11Z,Artem Osmakov,Query composer - search for trm fields,03,25775a1541b58619ca62fe8209851fe3b51320db,2023
+heurist,2023-04-30T19:06:41Z,ianjohnson,Remove superfluous leading text so email count etc. can be read in subject line,04,88927f43482c8a06ecd919d3c63f21545d12ae8c,2023
+heurist,2023-05-31T11:19:27Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,05,d773764933b2da39c5d047bf7205e52486e3dc79,2023
+heurist,2023-06-30T10:34:20Z,Brandon,Fix display of accordion controls within facet search builder,06,359225577d51b17f245d2382f897fba5263b2759,2023
+heurist,2023-07-31T15:51:21Z,Artem Osmakov,CMS: page title localization,07,7cf6ea694fdbf61c57dcb69d2e5a78d66af3b1d6,2023
+heurist,2023-08-31T12:15:23Z,Artem Osmakov,Exclude swagger api documentation fron repository,08,1d04a95e4fb8f7f8c4bef34496dc67ee84a38726,2023
+heurist,2023-09-30T12:18:53Z,Artem Osmakov,Fix field viewability for Everyone owner,09,5face3dcd996a510606aaf905e2736b479bfafe6,2023
+heurist,2023-10-31T00:57:10Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,10,7ada66db67d7da4ededa102c4a231464ebec7e8a,2023
+heurist,2023-11-30T15:36:49Z,Artem Osmakov,Web cached images,11,26ca7d616601bb8e957771dbf8ac02b495cc35ff,2023
+heurist,2023-12-31T14:08:53Z,Artem Osmakov,Rewrire rules form short urls,12,65595804cdde0ae356cacc05080713be46cb1ec2,2023
+heurist,2024-01-31T04:05:34Z,Brandon,Search translated term labels when performing a search on term fields,01,83c8a07eb79925e9ef7b4e4dfd4770d2eff80719,2024
+heurist,2024-02-29T16:37:17Z,Artem Osmakov,snyk report security fixes #18-13,02,933fa923ccef8a01d3d174c8b803b1a30d3a6bb9,2024
+heurist,2024-03-31T12:29:27Z,Artem Osmakov,Minor fix,03,ff9c09477d4c079f9a4078a3b9590c52da4b5f30,2024
+heurist,2024-04-30T14:44:31Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,04,76ac7f0ab9acf5aee6ace7068c9816682b1cad3a,2024
+heurist,2024-05-31T04:49:01Z,Brandon,Add ability to specify an account for the add record link,05,912181442a3a979dbfd99ec359dc39373ad70f1c,2024
+heurist,2024-06-30T10:43:13Z,Artem Osmakov,Update db def cache. Minor fixes,06,6a1c312d5abfc54ed25b2f8be109fb6591ca6f81,2024
+heurist,2024-07-31T21:56:16Z,Ian Johnson,Prompts on foreign key match popup,07,d079d0ca8bdba69642864be0d9e194b27fa8d209,2024
+heurist,2024-08-31T07:52:44Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,08,ba7e7e96396f8ed4fe60b4133f80779ea457313e,2024
+heurist,2024-09-30T14:56:12Z,Artem Osmakov,smarty editor ui 2,09,ff58b94b3e208f72f6e73c7320a3bf8e05294abd,2024
+heurist,2024-10-31T14:37:07Z,Artem Osmakov,combine duplications - disable first field selection,10,3d81c74babd4cc5503e2bc19ad4dda7fbddb0ccc,2024
+heurist,2024-11-30T11:43:30Z,Artem Osmakov,fixes for user queries for bulk email system,11,ce58fa949f727df704712421932ae67490bf862d,2024
+heurist,2024-12-31T15:04:10Z,Artem Osmakov,Verify URLs 2,12,6152426a474ba424058bd7c9afdc4a13f1cd3deb,2024
+heurist,2025-01-31T09:47:00Z,Artem Osmakov,Merge branch 'h6dev' of https://github.com/HeuristNetwork/heurist into h6dev,01,7ca1ee3e57781dedb00ab1c618e7988edebfcc87,2025
+heurist,2025-02-28T11:54:51Z,Artem Osmakov,JT 2134  - fix collected in result set,02,89ce0b465599aae366452fc12b7c0b1c2c0a5e5f,2025
+heurist,2025-03-31T03:37:17Z,Brandon,Rec editor - Add 'Advance' button to workflow stage field [JJT #2217],03,ae04d47791e6972058c737fc579c86c2c1a0b17e,2025
+heurist,2025-04-30T02:14:01Z,Brandon,Added Italian to list of available languages,04,918494fe23f95caefbff718717a57b977450f21a,2025
+heurist,2025-05-06T04:27:35Z,Brandon,Rec editor - Minor fix,05,abcfc7d54582626ad1fa2916e75c4b1f0478edf4,2025
